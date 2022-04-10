@@ -3,47 +3,59 @@ import numpy as np
 import pandas as pd
 from string import ascii_lowercase
 
-alpha = 0.0001
+from src.algorithm_evaluator import AlgorithmEvaluator
+from src.data_combiner import combine_texts_to_csv
+from src.data_cleaner import DataCleaner
+from src.weights_trainer import WeightsTrainer
+
+alpha = 0.01
 number_of_epochs = 1000
 
 
-def to_letter_vector(df):
-    for i, row in df.iterrows():
-        letter_vector = []
-        for letter in ascii_lowercase:
-            letter_vector.append(df['Text'][i].count(letter))
-        normalized_vector = normalize(letter_vector)
-        df.at[i, 'Text'] = normalized_vector
-    print(df)
-
-
-def normalize(letter_vector):
-    vector = np.array(letter_vector)
-    normalized_vector = vector / np.sqrt(np.sum(vector ** 2))
-    return normalized_vector
-
-
-def all_texts_to_csv(path):
-    languages = []
-    for item in os.listdir(path):
-        if os.path.isdir(path + item):
-            languages.append(item)
-
-    list_of_text = []
+def get_weights_trainers(df_train):
+    weights_trainers = []
+    languages = df_train['Language'].unique()
     for language in languages:
-        for file in os.listdir(os.path.join(path, language)):
-            with open(os.path.join(path, language, file), encoding='utf8', mode='r') as f:
-                text = f.read()
-            list_of_text.append((text, language))
-        df = pd.DataFrame(list_of_text, columns=['Text', 'Language'])
-        df.to_csv(os.path.join(path, '../new_csv_file.csv'))
+        train = df_train.to_numpy()
+        weights_trainer = WeightsTrainer(train, alpha, number_of_epochs, language)
+        weights_trainers.append(weights_trainer)
+    return weights_trainers
 
 
 def main():
-    all_texts_to_csv('../data/train/')
-    df = pd.read_csv('../data/new_csv_file.csv', index_col=0)
-    print(df)
-    to_letter_vector(df)
+    df_train = get_prepared_train()
+    df_test = get_prepared_test()
+    test = df_test.to_numpy()
+
+    weights_trainers = get_weights_trainers(df_train)
+    perceptrons = get_perceptrons(weights_trainers)
+    for perceptron in perceptrons:
+        algorithm_evaluator = AlgorithmEvaluator(perceptron, test, perceptron.language)
+        algorithm_evaluator.evaluate_model()
+
+
+def get_perceptrons(weights_trainers):
+    perceptrons = []
+    for weights_trainer in weights_trainers:
+        perceptron = weights_trainer.train_weights()
+        perceptrons.append(perceptron)
+    return perceptrons
+
+
+def get_prepared_train():
+    combine_texts_to_csv('../data/train/')
+    df_train = pd.read_csv('../data/train/texts_combined.csv', index_col=0)
+    data_cleaner = DataCleaner(df_train)
+    train = data_cleaner.vectorized()
+    return train
+
+
+def get_prepared_test():
+    combine_texts_to_csv('../data/test/')
+    df_test = pd.read_csv('../data/test/texts_combined.csv', index_col=0)
+    data_cleaner = DataCleaner(df_test)
+    test = data_cleaner.vectorized()
+    return test
 
 
 if __name__ == '__main__':
