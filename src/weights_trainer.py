@@ -14,7 +14,7 @@ class WeightsTrainer:
         perceptron = Perceptron(len(self.train) - 1, self.language)
         for epoch in range(self.number_of_epochs):
             for row in self.train:
-                prediction = perceptron.predict_classification(row)
+                prediction = perceptron.predict_classification(row[0])
                 actual = row[-1] == self.language
                 error = actual - prediction
                 perceptron.theta -= self.alpha * error

@@ -4,10 +4,11 @@ from src.algorithm_evaluator import AlgorithmEvaluator
 from src.data_combiner import combine_texts_to_csv
 from src.data_cleaner import DataCleaner
 from src.layer import Layer
+from src.user_input_predictor import UserInputPredictor
 from src.weights_trainer import WeightsTrainer
 
-alpha = 0.01
-number_of_epochs = 1000
+alpha = 0.001
+number_of_epochs = 10000
 
 
 def get_weights_trainers(df_train):
@@ -27,9 +28,11 @@ def main():
 
     weights_trainers = get_weights_trainers(df_train)
     perceptrons = get_perceptrons(weights_trainers)
-    layer = Layer(test, perceptrons)
+    layer = Layer(test[0], perceptrons)
     algorithm_evaluator = AlgorithmEvaluator(layer, test)
     algorithm_evaluator.evaluate_model()
+    user_input_predictor = UserInputPredictor(layer)
+    user_input_predictor.predict_user_input()
 
 
 def get_perceptrons(weights_trainers):

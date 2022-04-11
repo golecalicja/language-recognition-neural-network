@@ -16,5 +16,3 @@ def combine_texts_to_csv(path):
             list_of_text.append((text, language))
         df = pd.DataFrame(list_of_text, columns=['Text', 'Language'])
         df.to_csv(os.path.join(path, 'texts_combined.csv'))
-
-

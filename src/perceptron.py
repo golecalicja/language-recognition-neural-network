@@ -10,8 +10,8 @@ class Perceptron:
 
     def calculate_activation(self, row):
         dot_product = 0
-        for i in range(len(row[0]) - 1):
-            dot_product += self.weights[i] * row[0][i]
+        for i in range(len(row) - 1):
+            dot_product += self.weights[i] * row[i]
         activation = dot_product - self.theta
         return activation
 

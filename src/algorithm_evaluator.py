@@ -20,15 +20,8 @@ class AlgorithmEvaluator:
         actual = self.test[:, -1]
         predicted = []
         for row in self.test:
-            prediction = self.layer.predict_output(row)
+            prediction = self.layer.predict_output(row[0])
             predicted.append(prediction)
         correct = get_correct_predictions(actual, predicted)
         accuracy = correct / len(actual)
         return correct, accuracy
-
-    def get_test_set_predictions(self):
-        predictions = list()
-        for row in self.test:
-            prediction = self.perceptron.predict_classification(row)
-            predictions.append(prediction)
-        return predictions
