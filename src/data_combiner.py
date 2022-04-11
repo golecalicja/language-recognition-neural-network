@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+combined_filename = 'texts_combined.csv'
+
 
 def combine_texts_to_csv(path):
     languages = []
@@ -15,4 +17,4 @@ def combine_texts_to_csv(path):
                 text = f.read()
             list_of_text.append((text, language))
         df = pd.DataFrame(list_of_text, columns=['Text', 'Language'])
-        df.to_csv(os.path.join(path, 'texts_combined.csv'))
+        df.to_csv(os.path.join(path, combined_filename))

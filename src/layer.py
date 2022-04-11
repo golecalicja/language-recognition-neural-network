@@ -1,6 +1,5 @@
 class Layer:
-    def __init__(self, test, perceptrons):
-        self.test = test
+    def __init__(self, perceptrons):
         self.perceptrons = perceptrons
 
     def predict_output(self, row):
