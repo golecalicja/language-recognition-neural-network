@@ -21,20 +21,6 @@ def get_weights_trainers(df_train):
     return weights_trainers
 
 
-def main():
-    df_train = get_prepared_train()
-    df_test = get_prepared_test()
-    test = df_test.to_numpy()
-
-    weights_trainers = get_weights_trainers(df_train)
-    perceptrons = get_perceptrons(weights_trainers)
-    layer = Layer(test[0], perceptrons)
-    algorithm_evaluator = AlgorithmEvaluator(layer, test)
-    algorithm_evaluator.evaluate_model()
-    user_input_predictor = UserInputPredictor(layer)
-    user_input_predictor.predict_user_input()
-
-
 def get_perceptrons(weights_trainers):
     perceptrons = []
     for weights_trainer in weights_trainers:
@@ -57,6 +43,20 @@ def get_prepared_test():
     data_cleaner = DataCleaner(df_test)
     test = data_cleaner.vectorized()
     return test
+
+
+def main():
+    df_train = get_prepared_train()
+    df_test = get_prepared_test()
+    test = df_test.to_numpy()
+
+    weights_trainers = get_weights_trainers(df_train)
+    perceptrons = get_perceptrons(weights_trainers)
+    layer = Layer(test[0], perceptrons)
+    algorithm_evaluator = AlgorithmEvaluator(layer, test)
+    algorithm_evaluator.evaluate_model()
+    user_input_predictor = UserInputPredictor(layer)
+    user_input_predictor.predict_user_input()
 
 
 if __name__ == '__main__':

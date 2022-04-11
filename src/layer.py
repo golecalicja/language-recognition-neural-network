@@ -8,4 +8,3 @@ class Layer:
         for perceptron in self.perceptrons:
             language_to_activation_value[perceptron.language] = perceptron.calculate_activation(row)
         return max(language_to_activation_value, key=language_to_activation_value.get)
-
