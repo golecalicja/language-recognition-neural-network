@@ -3,6 +3,7 @@ import pandas as pd
 from src.algorithm_evaluator import AlgorithmEvaluator
 from src.data_combiner import combine_texts_to_csv
 from src.data_cleaner import DataCleaner
+from src.layer import Layer
 from src.weights_trainer import WeightsTrainer
 
 alpha = 0.01
@@ -26,9 +27,9 @@ def main():
 
     weights_trainers = get_weights_trainers(df_train)
     perceptrons = get_perceptrons(weights_trainers)
-    for perceptron in perceptrons:
-        algorithm_evaluator = AlgorithmEvaluator(perceptron, test, perceptron.language)
-        algorithm_evaluator.evaluate_model()
+    layer = Layer(test, perceptrons)
+    algorithm_evaluator = AlgorithmEvaluator(layer, test)
+    algorithm_evaluator.evaluate_model()
 
 
 def get_perceptrons(weights_trainers):

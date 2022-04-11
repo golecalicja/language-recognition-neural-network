@@ -1,3 +1,5 @@
+import numpy as np
+
 from src.perceptron import Perceptron
 
 
@@ -18,4 +20,6 @@ class WeightsTrainer:
                 perceptron.theta -= self.alpha * error
                 for i in range(len(row[0]) - 1):
                     perceptron.weights[i] += self.alpha * error * row[0][i]
+                perceptron.weights = perceptron.weights / np.sqrt(np.sum(perceptron.weights ** 2))
+
         return perceptron
