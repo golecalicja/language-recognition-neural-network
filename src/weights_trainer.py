@@ -3,6 +3,10 @@ import numpy as np
 from src.perceptron import Perceptron
 
 
+def normalize(perceptron):
+    perceptron.weights = perceptron.weights / np.sqrt(np.sum(perceptron.weights ** 2))
+
+
 class WeightsTrainer:
     def __init__(self, train, alpha, number_of_epochs, language):
         self.train = train
@@ -20,6 +24,6 @@ class WeightsTrainer:
                 perceptron.theta -= self.alpha * error
                 for i in range(len(row[0]) - 1):
                     perceptron.weights[i] += self.alpha * error * row[0][i]
-                perceptron.weights = perceptron.weights / np.sqrt(np.sum(perceptron.weights ** 2))
+                normalize(perceptron)
 
         return perceptron

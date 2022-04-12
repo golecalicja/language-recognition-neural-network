@@ -1,6 +1,6 @@
 from string import ascii_lowercase
 
-from src.data_cleaner import normalized
+from src.data_cleaner import distributed
 
 
 def get_user_input():
@@ -20,7 +20,7 @@ class UserInputPredictor:
 
     def vectorized(self):
         letter_vector = self.create_letter_vector()
-        normalized_vector = normalized(letter_vector)
+        normalized_vector = distributed(letter_vector)
         self.text = normalized_vector
         return self.text
 
