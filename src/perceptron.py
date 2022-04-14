@@ -2,11 +2,11 @@ import numpy as np
 
 
 class Perceptron:
-    def __init__(self, number_of_weights, language):
+    def __init__(self, weights, language, theta=0):
         np.random.seed(0)
-        self.weights = np.random.uniform(low=-1, high=1, size=(number_of_weights,))
-        self.theta = 0
+        self.weights = weights
         self.language = language
+        self.theta = theta
 
     def calculate_activation(self, row):
         dot_product = 0

@@ -14,8 +14,12 @@ class WeightsTrainer:
         self.number_of_epochs = number_of_epochs
         self.language = language
 
+    def initialize_weights(self):
+        return np.random.uniform(low=-1, high=1, size=(len(self.train) - 1,))
+
     def train_weights(self):
-        perceptron = Perceptron(len(self.train) - 1, self.language)
+        weights = self.initialize_weights()
+        perceptron = Perceptron(weights, self.language)
         for epoch in range(self.number_of_epochs):
             for row in self.train:
                 prediction = perceptron.predict_classification(row[0])
