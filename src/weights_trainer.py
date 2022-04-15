@@ -27,7 +27,6 @@ class WeightsTrainer:
                 self.update_theta(error, perceptron)
                 self.update_weights(error, perceptron, row)
                 normalize(perceptron)
-
         return perceptron
 
     def calculate_error(self, prediction, row):
