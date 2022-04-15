@@ -23,11 +23,21 @@ class WeightsTrainer:
         for epoch in range(self.number_of_epochs):
             for row in self.train:
                 prediction = perceptron.predict_classification(row[0])
-                actual = row[-1] == self.language
-                error = actual - prediction
-                perceptron.theta -= self.alpha * error
-                for i in range(len(row[0]) - 1):
-                    perceptron.weights[i] += self.alpha * error * row[0][i]
+                error = self.calculate_error(prediction, row)
+                self.update_theta(error, perceptron)
+                self.update_weights(error, perceptron, row)
                 normalize(perceptron)
 
         return perceptron
+
+    def calculate_error(self, prediction, row):
+        actual = row[-1] == self.language
+        error = actual - prediction
+        return error
+
+    def update_weights(self, error, perceptron, row):
+        for i in range(len(row[0]) - 1):
+            perceptron.weights[i] += self.alpha * error * row[0][i]
+
+    def update_theta(self, error, perceptron):
+        perceptron.theta -= self.alpha * error
