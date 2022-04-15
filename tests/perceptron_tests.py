@@ -23,7 +23,7 @@ def test_unit_step_function_should_return_0():
 
 def test_calculate_activation():
     # given
-    row = [2, 2, 3, 4, 'setosa']
+    row = [2, 2, 3, 4, 'English']
     # when
     result = perceptron.calculate_activation(row)
     # then
@@ -32,7 +32,7 @@ def test_calculate_activation():
 
 def test_predict_classification():
     # given
-    row = [2, 2, 3, 4, 'setosa']
+    row = [2, 2, 3, 4, 'English']
     # when
     result = perceptron.predict_classification(row)
     # then
