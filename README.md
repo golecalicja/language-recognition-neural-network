@@ -30,3 +30,4 @@ Polish sample:
 * Implementing a single-layer neural network of k perceptrons (where k = number of languages) from scratch
 * Libraries used for data loading and preprocessing: pandas, numpy
 * OOP and clean code
+* Unit testing with pytest
