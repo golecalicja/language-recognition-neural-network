@@ -5,5 +5,7 @@ class Layer:
     def predict_output(self, row):
         language_to_activation_value = {}
         for perceptron in self.perceptrons:
-            language_to_activation_value[perceptron.language] = perceptron.calculate_activation(row)
+            dot_product = perceptron.calculate_dot_product(row)
+            language_to_activation_value[perceptron.language] = perceptron.sigmoid_function(dot_product)
+        print(language_to_activation_value)
         return max(language_to_activation_value, key=language_to_activation_value.get)

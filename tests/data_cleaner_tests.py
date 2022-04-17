@@ -25,4 +25,3 @@ def test_vectorized():
                                             0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]],
                                   'Language': ['English']})
     assert_frame_equal(result, vectorized_df)
-

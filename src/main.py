@@ -7,7 +7,7 @@ from src.layer import Layer
 from src.user_input_predictor import UserInputPredictor
 from src.weights_trainer import WeightsTrainer
 
-alpha = 0.001
+alpha = 0.0001
 number_of_epochs = 10000
 
 train_directory = '../data/train/'
