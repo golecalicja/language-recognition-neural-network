@@ -1,10 +1,8 @@
-import numpy as np
 import math
 
 
 class Perceptron:
     def __init__(self, weights, language, theta=0):
-        np.random.seed(0)
         self.weights = weights
         self.language = language
         self.theta = theta
@@ -23,5 +21,5 @@ class Perceptron:
         return 1 if dot_product >= self.theta else 0
 
     def sigmoid_function(self, dot_product):
-        activation = dot_product - self.theta
-        return 1 / (1 + math.exp(-activation))
+        net = dot_product - self.theta
+        return 1 / (1 + math.exp(-net * 100))

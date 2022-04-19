@@ -15,6 +15,7 @@ class WeightsTrainer:
         self.language = language
 
     def initialize_weights(self):
+        np.random.seed(0)
         return np.random.uniform(low=-1, high=1, size=(len(self.train) - 1,))
 
     def train_weights(self):
