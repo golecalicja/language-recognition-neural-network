@@ -1,0 +1,339 @@
+
+El portal asociado a este artículo
+Ecología
+Ir a la navegaciónIr a la búsqueda
+Para otros usos de este término, véase Ecología (desambiguación).
+
+
+
+
+
+La ecología aborda la escala completa de la vida, desde pequeñas bacterias hasta procesos que abarcan todo el planeta. La diversidad de la vida está organizada en diferentes hábitats, desde ecosistemas terrestres hasta ecosistemas acuáticos.
+La ecología es la rama de la biología que estudia las relaciones de los diferentes seres vivos entre sí y con su entorno: «la biología de los ecosistemas».1​ Estudia cómo estas interacciones entre los organismos y su ambiente afectan a propiedades como la distribución o la abundancia. En el ambiente se incluyen las propiedades físicas y químicas que pueden ser descritas como la suma de factores abióticos locales, como el clima y la geología, y los demás organismos que comparten ese hábitat (factores bióticos). Los ecosistemas están compuestos de partes que interactúan dinámicamente entre ellas junto con los organismos, las comunidades que integran, y también los componentes no vivos de su entorno. Los procesos del ecosistema, como la producción primaria, la pedogénesis, el ciclo de nutrientes, y las diversas actividades de construcción del hábitat, regulan el flujo de energía y materia a través de un entorno. Estos procesos se sustentan en los organismos con rasgos específicos históricos de la vida, y la variedad de organismos que se denominan biodiversidad. La visión integradora de la ecología plantea el estudio científico de los procesos que influyen en la distribución y abundancia de los organismos, así como las interacciones entre los organismos y la transformación de los flujos de energía. La ecología es un campo interdisciplinario que incluye a la biología y las ciencias de la Tierra.
+
+La ecología evolucionó a partir de la historia natural de los antiguos filósofos griegos, como Hipócrates, Aristóteles y Teofrasto, sentando las bases de la ecología en sus estudios sobre la historia natural. Las bases posteriores para la ecología moderna se establecieron en los primeros trabajos de los fisiólogos de plantas y animales. Los conceptos evolutivos sobre la adaptación y la selección natural se convirtieron en piedras angulares de la teoría ecológica moderna transformándola en una ciencia más rigurosa en el siglo XIX. Está estrechamente relacionada con la biología evolutiva, la genética y la etología. La comprensión de cómo la biodiversidad afecta a la función ecológica es un área importante enfocada en los estudios ecológicos.
+
+
+Índice
+1	Historia
+1.1	Precursores
+2	Objeto de estudio
+3	Principios y conceptos
+3.1	Teoría de sistemas
+3.2	Ciclo biogeoquímico
+3.3	Niveles de organización
+3.4	Cadena trófica
+3.5	Producción y productividad
+3.6	Tasa de renovación
+3.7	Biodiversidad
+3.8	Biosfera
+3.9	Ecosistema
+3.10	Relaciones espaciales y subdivisiones de la Tierra
+4	Disciplinas
+4.1	Otras disciplinas
+5	Ecólogos célebres
+6	Véase también
+7	Referencias
+8	Bibliografía
+9	Enlaces externos
+Historia
+
+Ernst Haeckel, creador del término ecología y considerado el fundador de su estudio.
+El término ökologie fue acuñado en 18692​ por el naturalista y filósofo alemán Ernst Haeckel a partir de las palabras griegas oikos (casa, vivienda, hogar) y logos (estudio o tratado); por ello ecología significa «el estudio del hogar».3​
+
+En un principio, Haeckel entendía por ecología la ciencia que estudia las relaciones de los seres vivos con su ambiente, pero más tarde amplió esta definición al estudio de las características del medio, que también incluye el transporte de materia y energía, y su transformación por las comunidades biológicas.
+
+Precursores
+Hay que reconocer a los biólogos y geógrafos el papel fundamental en los inicios de la ecología. Es importante recordar el aporte considerable de los griegos clásicos. Por ejemplo, Aristóteles, además de filósofo, fue un biólogo y naturalista de gran talla. Baste citar sus libros sobre la vida y costumbres de los peces, fruto de sus diálogos con pescadores, y sus largas horas de observación personal. Su discípulo Teofrasto describió por primera vez las interrelaciones entre organismos su entorno.4​ Las primeras concepciones de la ecología, como el equilibrio y la regulación en la naturaleza, se remontan a Heródoto, quien describió uno de los primeros relatos del mutualismo en su observación de la "odontología natural".5​
+
+Si nos trasladamos al siglo XVIII, cuando la biología y la geografía recién se estaban transformando en las ciencias modernas que hoy conocemos, es imprescindible reconocer el carácter absolutamente ecológico del trabajo de los fisiologistas en su progresivo descubrimiento de las relaciones entre la vida vegetal y animal con los factores abióticos tales como la luz, el agua o el carbono. Entre los diferentes ejemplos posibles, es suficiente recordar las investigaciones de René Antoine Ferchault de Réaumur en el campo de la temperatura, así como las de Anton van Leeuwenhoek acerca de la formación del almidón en las plantas verdes. Destacan también en esta época, los trabajos de Louis Receveur, botánico , geólogo , químico , meteorólogo, astrónomo y sacerdote francés.
+
+También se realizaron durante el siglo algunos de los grandes viajes científicos que permitieron un conocimiento más metodológico de los paisajes geográficos de los diversos continentes, ejemplo entre otros de Georges-Louis Leclerc de Buffon, autor de los primeros tratados de biología y geología no basados en la Biblia; o de Alexander von Humboldt, que exploró y estudió durante cinco años las tierras de América Latina.
+
+El papel de los precursores del evolucionismo es asimismo fundamental, porque intuían que no había ningún tipo de predeterminismo en la gran variedad de especies vivientes existentes, sino progresivas adaptaciones ambientales.
+
+Erasmus Darwin, abuelo del universalmente famoso Charles Darwin, predijo algunas de las grandes tesis evolucionistas que desarrolló años más tarde su nieto y que influyeron de modo decisivo en las corrientes de pensamiento del siglo XIX.
+
+Sin duda alguna, la polémica entre deterministas y evolucionistas fue uno de los principales debates científicos del siglo XIX, enfrentando a hombres de la categoría de Cuvier, Owen, Agassiz y Kölliker, contra los nuevos «transformistas» como Lamarck, Darwin, Spencer, Müller, Haeckel, etc.
+
+El calor de la polémica fue muy fecundo, porque exigió de los transformistas que multiplicaran sus observaciones para justificar las nuevas teorías del evolucionismo.
+
+En alguno de ellos se manifestó una conversión forzada por las evidencias; por ejemplo en el científico galés Richard Owen, que aun siendo vivamente adversario de la nueva teoría evolucionista, realizó descubrimientos que él mismo no podía justificar si no era recurriendo a la teoría de Darwin.
+
+Objeto de estudio
+
+Una planta.
+La ecología es la rama de la biología que estudia las interacciones de los seres vivos con su hábitat. Esto incluye factores abióticos, esto es, condiciones ambientales tales como: climatológicas, edáficas, etc.; pero también incluye factores bióticos, esto es, condiciones derivadas de las relaciones que se establecen con otros seres vivos. Mientras que otras ramas se ocupan de niveles de organización inferiores (desde la bioquímica y la biología molecular pasando por la biología celular, la histología y la fisiología hasta la sistemática), la ecología se ocupa del nivel superior a estas, ocupándose de las poblaciones, las comunidades, los ecosistemas y la biosfera. Por esta razón, y por ocuparse de las interacciones entre los individuos y su ambiente, la ecología es una ciencia multidisciplinaria que utiliza herramientas de otras ramas de la ciencia, especialmente geología, meteorología, geografía, sociología, física, química y matemáticas.
+
+Los ecólogos tratan de explicar:
+
+Los procesos de la vida, interacciones y adaptaciones
+El movimiento de materiales y energía a través de las comunidades vivas
+La sucesión ecológica de los ecosistemas
+La abundancia y la distribución de los organismos y de la biodiversidad en el contexto del medio ambiente.
+Hay muchas aplicaciones prácticas de la ecología en biología de la conservación, manejo de los humedales, manejo de recursos naturales (la agroecología, la agricultura, la silvicultura, la agroforestería, la pesca), la planificación de la ciudad (ecología urbana), la salud comunitaria, la economía, la ciencia básica aplicada, y la interacción social humana (ecología humana). Los organismos (incluidos los seres humanos) y los recursos componen los ecosistemas que, a su vez, mantienen los mecanismos de retroalimentación biofísicos son componentes del planeta que moderan los procesos que actúan sobre la vida (bióticos) y no vivos (abióticos). Los ecosistemas sostienen funciones que sustentan la vida y producen el capital natural como la producción de biomasa (alimentos, combustibles, fibras y medicamentos), los ciclos biogeoquímicos globales, filtración de agua, la formación del suelo, control de la erosión, la protección contra inundaciones y muchos otros elementos naturales de interés científico, histórico o económico.
+
+Los trabajos de investigación en esta disciplina se diferencian con respecto de la mayoría de los trabajos en las demás ramas de la Biología por su mayor uso de herramientas matemáticas, como la estadística y los modelos matemáticos. Además, la comprensión de los procesos ecológicos se basa fuertemente en los postulados evolutivos (Dobzhansky, 1973).
+
+Principios y conceptos
+Teoría de sistemas
+Esta sección es un extracto de Teoría de sistemas.[editar]
+La teoría de sistemas o teoría general de sistemas (TGS) es el estudio interdisciplinario de los sistemas en general. Su propósito es estudiar los principios aplicables a los sistemas en cualquier nivel en todos los campos de la investigación.6​ Un sistema se define como una entidad con límites y con partes interrelacionadas e interdependientes cuya suma es mayor a la suma de sus partes. El cambio de una parte del sistema afecta a las demás y, con esto, al sistema completo, generando patrones predecibles de comportamiento. El crecimiento positivo y la adaptación de un sistema dependen de cómo se ajuste este a su entorno. Además, a menudo los sistemas existen para cumplir un propósito común (una función) que también contribuye al mantenimiento del sistema y a evitar sus fallos.
+
+El objetivo de la teoría de sistemas es el descubrimiento sistemático de las dinámicas, restricciones y condiciones de un sistema, así como de principios (propósitos, medidas, métodos, herramientas, etc.) que puedan ser discernidos y aplicados a los sistemas en cualquier nivel de anidación y en cualquier campo, con el objetivo de lograr una equifinalidad optimizada.6​7​
+
+La teoría general de sistemas trata sobre conceptos y principios de amplia aplicación, al contrario de aquellos que se aplican en un dominio particular del conocimiento. Distingue los sistemas dinámicos o activos de los estáticos o pasivos. Los primeros son estructuras o componentes de actividad que interactúan en comportamientos o procesos, mientras que los segundos son estructuras o componentes que están siendo procesados.
+Ciclo biogeoquímico
+Esta sección es un extracto de Ciclo biogeoquímico.[editar]
+
+Este artículo o sección necesita referencias que aparezcan en una publicación acreditada.
+Este aviso fue puesto el 10 de noviembre de 2014.
+
+Ejemplo de ciclo biogeoquímico
+Un ciclo biogeoquímico (del griego bio, 'vida', geo, 'tierra' y química8​9​) es el movimiento de nitrógeno, oxígeno, hidrógeno, azufre, fósforo, potasio, carbono y otros elementos entre los seres vivos y el ambiente (atmósfera, biomasa y sistemas acuáticos) mediante una serie de procesos: producción y descomposición de la tierra.
+
+En la biosfera, la materia orgánica es limitada de manera que su reciclaje es un punto clave en el mantenimiento de la vida en la Tierra; de otro modo, los nutrientes se agotarían y la vida desaparecería.
+Niveles de organización
+Para los ecólogos modernos (Begon, Harper y Townsend, 1999)(Molles, 2006), la ecología puede ser estudiada a varios niveles o escalas:
+
+Organismo (las interacciones de un ser vivo dado con las condiciones abióticas directas que lo rodean)
+Población (las interacciones de un ser vivo dado con los seres de su misma especie)
+Comunidad (las interacciones de una población dada con las poblaciones de especies que la rodean)
+Ecosistema (las interacciones propias de la biocenosis sumadas a todos los flujos de materia y energía que tienen lugar en ella)
+Biosfera (el conjunto de todos los seres vivos conocidos)
+Cadena trófica
+Artículo principal: Cadena trófica
+La cadena alimenticia o cadena trófica señala las relaciones alimenticias entre productores,consumidores y descomponedores. En otras palabras, la cadena refleja quién se come a quién.
+
+Las cadenas tróficas, son una serie de cadenas alimentarias íntimamente relacionadas por las que circulan energía y materiales en un ecosistema. Se entiende por cadena alimentaria cada una de las relaciones alimenticias que se establecen de forma lineal entre organismos que pertenecen a distintos niveles tróficos. La cadena trófica está dividida en dos grandes categorías: la cadena o red de pastoreo, que se inicia con las plantas verdes, algas o plancton que realiza la fotosíntesis, y la cadena o red de detritos que comienza con los detritos orgánicos. Estas redes están formadas por cadenas alimentarias independientes. En la red de pastoreo, los materiales pasan desde las plantas a los consumidores de plantas (herbívoros) y de estos a los consumidores de carne (carnívoros). En la red de detritos, los materiales pasan desde las plantas y sustancias animales a las bacterias y a los hongos (descomponedores), y de estos a los que se alimentan de detritos (detritívoros) y de ellos a sus depredadores (carnívoros).
+
+Por lo general, entre las cadenas tróficas existen muchas interconexiones; por ejemplo, los hongos que descomponen la materia en una red de detritos pueden dar origen a setas que son consumidas por ardillas, ratones y ciervos en una red de pastoreo. Los petirrojos son omnívoros, es decir, consumen plantas y animales, y por esta razón están presentes en las redes de pastoreo y de detritos. Los petirrojos se suelen alimentar de lombrices de tierra que son detritívoras y se alimentan de hojas en estado de putrefacción.
+
+Producción y productividad
+
+Relación entre la abundancia de un depredador (Lynx canadensis, línea negra), y su presa (Lepus americanus , área amarilla). Gráfico basado en el núnero de pieles vendidas por los tramperos a la Hudson's Bay Company entre 1845 y 1935. (Datos publicados por Odum en 1953)
+En un ecosistema, las conexiones entre las especies se relacionan generalmente con su papel en la cadena alimentaria. Hay tres categorías de organismos:
+
+Productores o autótrofos —Generalmente las plantas o las cianobacterias que son capaces de fotosintetizar pero podrían ser otros organismos tales como las bacterias cerca de los respiraderos del océano que son capaces de quimiosintetizar.
+Consumidores o heterótrofos —Animales, que pueden ser consumidores primarios (herbívoros), o consumidores secundarios o terciarios (carnívoros y omnívoros).
+Descomponedores o detritívoros —Bacterias, hongos, e insectos que degradan la materia orgánica de todos los tipos y restauran los alimentos al ambiente. Entonces los productores consumirán los alimentos, terminando el ciclo.
+Estas relaciones forman las secuencias, en las cuales cada individuo consume al precedente y es consumido por el siguiente, lo que se llama cadenas alimentarias o las redes del alimento. En una red de alimento habrá pocos organismos en cada nivel como uno sigue los acoplamientos de la red encima de la cadena, formando una pirámide.
+
+Estos conceptos llevan a la idea de biomasa (la materia viva total en un ecosistema), de la productividad primaria (el aumento en compuestos orgánicos), y de la productividad secundaria (la materia viva producida por los consumidores y los descomponedores en un rato dado). Estas dos ideas pasadas son dominantes, puesto que permiten evaluar la capacidad de carga —el número de organismos que se pueden apoyar por un ecosistema dado. En ninguna red del alimento se transfiere totalmente la energía contenida en el nivel de los productores a los consumidores. Se pierden ascendentes cuanto más alta es la cadena, mayor la energía y los recursos. Así, puramente de una energía y desde el punto de vista del alimento es más eficiente para que los seres humanos sean consumidores primarios (subsistir de vehículos, de granos, de las legumbres, de la fruta, etc.) que consumidores secundarios (herbívoros consumidores, omnívoros, o sus productos), y aún más que sean consumidores terciarios (carnívoros consumidores, omnívoros, o sus productos). Un ecosistema es inestable cuando sobra la capacidad de carga. La productividad total de los ecosistemas es estimada a veces comparando tres tipos de ecosistemas con base en tierra y el total de ecosistemas acuáticos; se estima que la mitad de la producción primaria puede ocurrir en tierra, y el resto en el océano.
+
+Los bosques (1/3 de la superficie terrestre de la Tierra) contienen biomasas densas y muy productivas.
+Sabanas, praderas, y pantanos (1/3 de la superficie terrestre de la Tierra) contienen biomasas menos densas, pero es productiva. Estos ecosistemas representan a las mayores partes de las que dependen el alimento humano.
+Ecosistemas extremos en las áreas con climas más extremos —desiertos y semi-desiertos, tundra, prados alpestres, y estepas -- (1/3 de la superficie terrestre de la Tierra). Tienen biomasas muy escasas y baja productividad.
+Finalmente, los ecosistemas del agua marina y dulce (3/4 de la superficie terrestre de la Tierra) contiene biomasas muy escasas (aparte de las zonas costeras).
+Los ecosistemas difieren en su biomasa (carbón de los gramos por metro cuadrado) y la productividad (carbón de los gramos por metro cuadrado por día), y las comparaciones directas de la biomasa y la productividad puede no ser válida. Un ecosistema como este en la taiga puede ser alto en biomasa, pero de crecimiento lento y así bajo en productividad. Los ecosistemas se comparan a menudo en base de su volumen de ventas (cociente de la producción) o del tiempo del volumen de ventas que sean los recíprocos del volumen de ventas. Las acciones humanas durante los últimos siglos han reducido seriamente la cantidad de la tierra cubierta por los bosques (tala de árboles), y han aumentado agroecosistemas. En últimas décadas ha ocurrido un aumento en las áreas ocupadas por ecosistemas extremos, como en el caso de la desertificación.
+
+Tasa de renovación
+Es la relación que existe entre la producción y la biomasa. Sirve para indicar la riqueza de un ecosistema o nivel trófico, ya que representa la velocidad con que se renueva la biomasa, por lo que también recibe el nombre de tasa de renovación. Su valor es el cociente Pn/B. (producción neta entre biomasa)
+
+Biodiversidad
+Esta sección es un extracto de Biodiversidad.[editar]
+
+Selva macrotérmica, con clima ecuatorial (o tropical lluvioso) en Barro Colorado (Panamá), que muestra la gran diversidad ecológica en este tipo de vegetación que tiene muchas especies con distintas épocas de floración. Los pájaros e insectos se encargan de la polinización, por lo que la diversidad existente es origen de su alimentación continua. Se puede ver la característica fundamental de la selva ecuatorial: miles de especies vegetales por unidad de superficie, pero pocos ejemplares de cada una, también por la misma unidad de superficie.
+
+Imagen de un lince (Lynx lynx), una de las cerca de 2.5 millones de especies identificadas que conforman el patrimonio de la biodiversidad en la Tierra.
+
+Los pinos canarios soportan el fuego en los grandes incendios debido a la adaptación milenaria a las emisiones volcánicas. En esta ocasión puede verse la corteza chamuscada de estos pinos, que pueden estar ardiendo durante meses y seguir creciendo mientras tanto. Un ejemplo de adaptación al medio que afecta negativamente a la biodiversidad del medio pero solo a corto plazo, ya que sirve de planta pionera para el restablecimiento del bosque, como es la laurisilva en las áreas más favorecidas.
+La biodiversidad o diversidad biológica es, según el Convenio Internacional sobre la Diversidad Biológica, el término por el que se hace referencia a la amplia variedad de seres vivos sobre la Tierra y lo que sucede con los patrones naturales que la conforman, resultado de miles de millones de años de evolución según procesos naturales y también de la influencia creciente de las actividades del ser humano. La biodiversidad comprende igualmente la variedad de ecosistemas y las diferencias genéticas dentro de cada especie (diversidad genética) que permiten la combinación de múltiples formas de vida, y cuyas mutuas interacciones con el resto del entorno fundamentan el sustento de la vida sobre el mundo.
+
+El término «biodiversidad» es un calco del inglés «biodiversity». Este término, a su vez, es la contracción de la expresión «biological diversity» que se utilizó por primera vez en octubre de 1986 como título de una conferencia sobre el tema, el National Forum on BioDiversity, convocada por Walter G. Rosen, a quien se le atribuye la idea de la palabra.10​
+
+La Cumbre de la Tierra celebrada por la Organización de las Naciones Unidas en Río de Janeiro en 1992 reconoció la necesidad mundial de conciliar la preservación futura de la biodiversidad con el progreso humano según criterios de sostenibilidad o sustentabilidad promulgados en el Convenio internacional sobre la Diversidad Biológica que fue aprobado en Nairobi el 22 de mayo de 1994, fecha posteriormente declarada por la Asamblea General de la ONU como Día Internacional de la Biodiversidad. Con esta misma intención, el año 2010 fue declarado Año Internacional de la Diversidad Biológica por la 61.ª sesión de la Asamblea General de las Naciones Unidas en 2006, coincidiendo con la fecha del Objetivo Biodiversidad 2010.11​
+
+En el año 2007, la Asamblea de la Organización de las Naciones Unidas declaró el 22 de mayo como Día Internacional de la Diversidad Biológica.12​
+Biosfera
+Artículo principal: Biosfera
+La capa exterior del planeta Tierra puede ser dividida en varios compartimentos: la hidrosfera (o esfera de agua), la litosfera (o ámbito de los suelos y rocas), y la atmósfera (o la esfera de aire). La biosfera (o la esfera de la vida), a veces descrita como "el cuarto sobre" es la materia viva del planeta, o la parte del planeta ocupada por la vida. Alcanza así en los otros tres ámbitos, aunque no hay habitantes permanentes de la atmósfera. En relación con el volumen de la Tierra, la biosfera es solo la capa superficial muy delgada que se extiende 11 000 metros bajo el nivel del mar a 15 000 metros por encima.
+
+Se piensa que la vida por primera vez se desarrolló en la hidrosfera, a profundidades someras, en la zona fótica. (Sin embargo, recientemente, una teoría de la competencia se ha convertido, de que la vida se originó alrededor de fuentes hidrotermales en la profundidad de océano. Véase el origen de la vida.) Luego aparecieron los organismos multicelulares y colonizaron las zonas bentónicas. Organismos fotosintéticos gradualmente emitieron, mediante reacciones químicas, los gases hasta llegar a las actuales concentraciones, especialmente la abundancia de oxígeno, que caracterizan a nuestro planeta. La vida terrestre se desarrolló más tarde, protegida de los rayos UV por la capa de ozono. La diversificación de las especies terrestres se piensa que fue incrementada por la deriva de los continentes por aparte, o, alternativamente, chocar. La biodiversidad se expresa en el nivel ecológico (ecosistema), nivel de población (diversidad intraespecífica), especies (diversidad específica), y nivel genético.
+
+La biosfera contiene grandes cantidades de elementos tales como carbono, nitrógeno, hidrógeno y oxígeno. Otros elementos, tales como el fósforo, calcio y potasio, también son esenciales a la vida, aún están presentes en cantidades más pequeñas. En el ecosistema y los niveles de la biosfera, es un continuo reciclaje de todos estos elementos, que se alternan entre los estados minerales y orgánicos.
+
+Aunque hay una ligera entrada de la energía geotérmica, la mayor parte del funcionamiento de los ecosistemas se basa en la aporte de la energía solar. Las plantas y los microorganismos fotosintéticos convierten la luz en energía química mediante el proceso de fotosíntesis, lo que crea la glucosa (un azúcar simple) y libera oxígeno libre. La glucosa se convierte así en la segunda fuente de energía que impulsa el ecosistema. Parte de esta glucosa se utiliza directamente por otros organismos para la energía. Otras moléculas de azúcar pueden ser convertidas en otras moléculas como los aminoácidos. Las plantas usan alguna de estos azúcares, concentrado en el néctar, para atraer a los polinizadores para la ayuda en la reproducción.
+
+La respiración celular es el proceso mediante el cual los organismos (como los mamíferos) rompen de glucosa hacia abajo en sus mandantes, el agua y el dióxido de carbono, por lo tanto, recuperar la energía almacenada originalmente dio el sol a las plantas. La proporción de la actividad fotosintética de las plantas y otros fotosintetizadores a la respiración de otros organismos determina la composición de la atmósfera de la Tierra, en particular su nivel de oxígeno. Las corrientes de aire globales unen la atmósfera manteniendo casi el mismo equilibrio de los elementos en áreas de intensa actividad biológica y las áreas de la actividad biológica ligera.
+
+El agua es también intercambiada entre la hidrosfera, la litosfera, la atmósfera, la biosfera y en ciclos regulares. Los océanos son grandes depósitos que almacenan el agua, aseguran la estabilidad térmica y climática, y facilitan el transporte de elementos químicos gracias a las grandes corrientes oceánicas.
+
+Para una mejor comprensión de cómo funciona la biosfera, y las diversas disfunciones relacionadas con la actividad humana, científicos Americanos trataron de simular la biosfera en un modelo en pequeña escala, llamado Biosfera 2.
+
+Ecosistema
+Artículo principal: Ecosistema
+
+El Daintree Rainforest de Queensland, Australia es un ejemplo de un ecosistema forestal tropical.
+Un principio central de la ecología es que cada organismo vivo tiene una relación permanente y continua con todos los demás elementos que componen su entorno. La suma total de la interacción de los organismos vivos (la biocenosis) y su medio no viviente (biotopo) en una zona que se denomina un ecosistema. Los estudios de los ecosistemas por lo general se centran en la circulación de la energía y la materia a través del sistema.
+
+Casi todos los ecosistemas funcionan con energía del sol capturada por los productores primarios a través de la fotosíntesis. Esta energía fluye a través de la cadena alimentaria a los consumidores primarios (herbívoros que comen y digieren las plantas), y los consumidores secundarios y terciarios (ya sea omnívoros o carnívoros). La energía se pierde a los organismos vivos cuando se utiliza por los organismos para hacer el trabajo, o se pierde como calor residual.
+
+La materia es incorporada a los organismos vivos por los productores primarios. Las plantas fotosintetizadoras fijan el carbono a partir del dióxido de carbono y del nitrógeno de la atmósfera o nitratos presentes en el suelo para producir aminoácidos. Gran parte de los contenidos de carbono y nitrógeno en los ecosistemas es creado por las instalaciones de ese tipo, y luego se consume por los consumidores secundarios y terciarios y se incorporan en sí mismos. Los nutrientes son generalmente devueltos a los ecosistemas a través de la descomposición. Todo el movimiento de los productos químicos en un ecosistema que se denomina un ciclo biogeoquímico, e incluye el ciclo del carbono y del nitrógeno.
+
+Los ecosistemas de cualquier tamaño se pueden estudiar, por ejemplo, una roca y la vida de las plantas que crecen en ella puede ser considerado un ecosistema. Esta roca puede estar dentro de un llano, con muchas de estas rocas, hierbas pequeñas, y animales que pastorean - también un ecosistema-. Este puede ser simple en la tundra, que también es un ecosistema (aunque una vez que son de este tamaño, por lo general se denomina ecozonas o biomas). De hecho, toda la superficie terrestre de la Tierra, toda la materia que lo compone, el aire que está directamente encima de este, y todos los organismos vivos que viven dentro de ella puede ser considerados como una solo, gran ecosistema.
+
+Los ecosistemas se pueden dividir en los ecosistemas terrestres (incluidos los ecosistemas de bosques, estepas, sabanas, etc), los ecosistemas de agua dulce (lagos, estanques y ríos), y los ecosistemas marinos, en función del biotopo dominante.
+
+Relaciones espaciales y subdivisiones de la Tierra
+Artículos principales: Bioma y Ecozona.
+
+Montículos de termitas con chimeneas de diferentes alturas para regular el intercambio de gases, temperatura y otros parámetros ambientales necesarios para mantener la fisiología de toda la colonia.13​
+Los ecosistemas no están aislados unos de otros sino interrelacionadas; por ejemplo, el agua puede circular entre los ecosistemas por medio de un río o corriente oceánica. El agua en sí, como un medio líquido, incluso define los ecosistemas. Algunas especies, como el salmón o la anguila de agua dulce se mueven entre los sistemas marinos y de agua dulce. Estas relaciones entre los ecosistemas conducen a la idea de "bioma". Un bioma es una formación homogénea ecológica que existe en una amplia región, como la tundra y las estepas. La biosfera comprende la totalidad de los biomas de la Tierra - la totalidad de los lugares donde la vida es posible - desde las montañas más altas a las profundidades oceánicas.
+
+Los biomas están bastante bien distribuidos a lo largo de las subdivisiones a las latitudes, desde el ecuador hacia los polos, con las diferencias basadas en el entorno físico (por ejemplo, los océanos o cordilleras) y el clima. Su variación está generalmente relacionada con la distribución de las especies de acuerdo a su capacidad para tolerar la temperatura, la sequedad, o ambos. Por ejemplo, se pueden encontrar algas fotosintéticas solo en la parte luminosa de los océanos (donde penetra la luz), mientras que las coníferas se encuentran principalmente en las montañas.
+
+Aunque esta es una simplificación de un sistema más complicado, la latitud y la altitud representan de manera adecuada la distribución de la diversidad biológica dentro de la biosfera. En general, la riqueza de la diversidad biológica (así como de los animales como para las especies de plantas) está disminuyendo más rápidamente cerca del ecuador y más lentamente a medida que nos aproximamos a los polos.
+
+La biosfera también puede ser dividida en ecozonas, que están muy bien definidas y sobre todo hoy en día sigue las fronteras continentales. Las zonas ecológicas son divididas en las ecorregiones, aunque no hay acuerdo sobre sus límites.
+
+Disciplinas
+Como disciplina científica en donde intervienen diferentes caracteres la ecología no puede dictar qué es "bueno" o "malo". Aun así, se puede considerar que el mantenimiento de la biodiversidad y sus objetivos relacionados han provisto la base científica para expresar los objetivos del ecologismo y, asimismo, le ha provisto la metodología y terminología para expresar los problemas ambientales.
+
+La economía y la ecología comparten formalismo en muchas de sus áreas; algunas herramientas utilizadas en esta disciplina, como tablas de vida y teoría de juegos, tuvieron su origen en la economía. La disciplina que integra ambas ciencias es la economía ecológica.
+
+La aerobiología es una ciencia multidisciplinaria en la que se incluyen los procesos ecológicos relacionados con las partículas biológicas transportadas pasivamente a través del aire.
+La ecología microbiana es la rama de la ecología que estudia a los microorganismos en su ambiente natural, los cuales mantienen una actividad continua imprescindible para la vida en la Tierra. En los últimos años se han logrado numerosos avances en esta disciplina con las técnicas disponibles de biología molecular. Los mecanismos que mantienen la diversidad microbiana de la biosfera son la base de la dinámica de los ecosistemas terrestres, acuáticos y aéreos. Es decir, la base de la existencia de las selvas y de los sistemas agrícolas, entre otros. Por otra parte, la diversidad microbiana del suelo es la causa de la fertilidad del mismo.
+La biogeografía: es la ciencia que estudia la distribución de los seres vivos sobre la Tierra, así como los procesos que la han originado, que la modifican y que la pueden hacer desaparecer. Es una ciencia interdisciplinaria, de manera que aunque formalmente es una rama de la geografía, recibiendo parte de sus fundamentos de especialidades como la climatología y otras ciencias de la Tierra, es a la vez parte de la biología. La superficie de la Tierra no es uniforme, ni en toda ella existen las mismas características. El espacio isotrópico que utilizan, o suponen, los esquemas teóricos de localización es tan solo una construcción matemática del espacio.
+La ecología matemática se dedica a la aplicación de los teoremas y métodos matemáticos a los problemas de la relación de los seres vivos con su medio y es, por tanto, una rama de la biología. Esta disciplina provee de la base formal para la enunciación de gran parte de la ecología teórica
+La ecología urbana es una disciplina cuyo objeto de estudio son las interrelaciones entre los habitantes de una aglomeración urbana y sus múltiples interacciones con el ambiente.
+La ecología de la recreación es el estudio científico de las relaciones ecológicas entre el ser humano y la naturaleza dentro de un contexto recreativo.
+La ecología del paisaje es una disciplina a caballo entre la geografía física y la biología. Estudia los paisajes naturales prestando especial atención a los grupos humanos como agentes transformadores de la dinámica físico-ecológica de estos. Ha recibido aportes tanto de la geografía física como de la biología: la geografía aporta las visiones estructurales del paisaje (el estudio de la estructura horizontal o del mosaico de subecosistemas que conforman el paisaje), mientras que la biología aporta la visión funcional del paisaje (las relaciones verticales de materia y energía). Este concepto comienza en 1898, con el geógrafo, padre de la pedología rusa, Vasily Vasilievich Dokuchaev y fue más tarde continuado por el geógrafo alemán Carl Troll. Es una disciplina muy relacionada con otras áreas como la geoquímica, la geobotánica, las ciencias forestales o la pedología.
+La limnología es la rama de la ecología que se centra en el estudio de los sistemas acuáticos continentales: ríos, lagos, lagunas, etcétera.
+La dendroecología se centra en el estudio de la ecología de los árboles.
+La ecología regional es una disciplina que estudia los procesos ecosistémicos como el flujo de energía, el ciclo de la materia o la producción de gases de invernadero a escala de paisaje regional o bioma. Considera que existen grandes regiones que funcionan como un único ecosistema.
+La agronomía, pesquería y, en general, toda disciplina que tenga relación con la explotación o conservación de recursos naturales, en especial seres vivos, pueden interpretarse como ecología aplicada. Es decir, tienen la misma relación con la ecología que gran parte de las ingenierías con la matemática, la física o la química.
+Otras disciplinas
+Biología de la conservación
+Derecho ambiental
+Ecología de comunidades
+Ecología de poblaciones
+Ecología evolutiva
+Ecología del comportamiento
+Etoecología
+Ecología humana
+Ecología reproductiva
+Ecología social
+Ecología cultural
+Ecólogos célebres
+Ramón Margalef
+Fernando González Bernáldez
+Eugene P. Odum
+Miguel Ángel de Quevedo
+Ernst Haeckel
+Edward Osborne Wilson
+Véase también
+Ver el portal sobre Ecología Portal:Ecología. Contenido relacionado con Ecología.
+Aerobiología
+Agroecología
+Agronomía
+Biogeografía
+Biología pesquera
+Biosfera
+Cambio climático
+Dinámica de sistemas
+Distribución de las especies
+Ecología política
+Ecología profunda
+Ecología urbana
+Economía ecológica
+Ecomuseo
+Ecosistema
+Ecosofía
+Ecoturismo
+Etología
+Evolución biológica
+Factores abióticos
+Factores bióticos
+Geobiología
+Mesología
+Hipótesis Gaia
+Huella ecológica
+Movimiento ecologista
+Anexo:Cronología de la ecología en México
+Anexo:Población animal mundial
+Referencias
+ Margalef, Ramón. (1974). Ecología. Omega. p. 2. ISBN 84-282-0405-5. OCLC 3605595. Consultado el 6 de junio de 2021.
+ «ecology (n.)» (en inglés) Online Etymological Dictionary. Consultado el 26 de agosto de 2014.
+ Eric Laferrière; Peter J. Stoett (2 de septiembre de 2003). International Relations Theory and Ecological Thought: Towards a Synthesis. Routledge. pp. 25-. ISBN 978-1-134-71068-3.
+ «Ecology». Encyclopedia Britannica (en inglés). Consultado el 17 de marzo de 2020.
+ Henkel, Marlon (2015). 21st Century Homestead: Sustainable Agriculture I (en inglés). Lulu.com. p. 117. ISBN 978-1-312-93953-0. Consultado el 17 de marzo de 2020.
+ Von Bertalanffy, Ludwig (1976). Teoría general de los sistemas. Fundamentos, desarrollo, aplicaciones. México: Fondo de Cultura Económica. ISBN 9681606272.
+ Beven, Keith (2006). «A manifesto for the equifinality thesis». Journal of Hydrology 320 (1-2): 18-36. ISSN 0022-1694. doi:10.1016/j.jhydrol.2005.07.007.
+ «Ciclo Biogeoquímico». Consultado el 10 de noviembre de 2014.
+ «Ciclos biogeoquímicos». Consultado el 10 de noviembre de 2014.
+ Cf. Francisco García Olmedo, «La biodiversidad invisible», Revista de Libros, 159, mayo de 2009.
+ «United Nations Decade on Biodiversity». www.cbd.int. Consultado el 25 de julio de 2021.
+ «Asamblea de la ONU en la que se proclama el Día de la Diversidad Biológica.».
+ Hughes, D. P.; Pierce, N. E.; Boomsma, J. J. (2008). «Social insect symbionts: evolution in homeostatic fortresses». Trends in Ecology & Evolution 23 (12): 672-677. PMID 18951653. doi:10.1016/j.tree.2008.07.011.
+Bibliografía
+Dobzhansky, Theodosius (1973), «Nothing in Biology Makes Sense Except in the Light of Evolution», The American Biology Teacher (en inglés) 35 (3): 125-129, ISSN 0002-7685, archivado desde el original el 5 de noviembre de 2015, resumen divulgativo.
+Margalef, Ramón (1998). «1». Ecología (9.ª edición). Barcelona: Omega. ISBN 8428204055.
+Molles, Manuel C. Jr. (2006). Ecología: Conceptos y aplicaciones. (3.ª edición). Madrid: McGraw-Hill. ISBN 844814595X.
+Malacalza, Leonardo, ed. (2014). Ecología y ambiente. Asociación de Universidades Grupo Montevideo - Universidad Nacional de La Plata. p. 303. ISSN 2314-1743. Consultado el 11 de agosto de 2014.
+Santana, Adalberto Coord. (2011). Energía, medio ambiente y política en América Latina. México: UNAM. ISBN 978-607-02-2814-8
+Enlaces externos
+ Wikiversidad alberga proyectos de aprendizaje sobre Ecología.
+ Wikcionario tiene definiciones y otra información sobre ecología.
+El Diccionario de la Real Academia Española tiene una definición para ecología.
+Términos básicos de la ecología.
+Revista digital de ecología.
+Revista digital de ecología y medio ambiente.
+Control de autoridades
+Proyectos WikimediaWd Datos: Q7150Commonscat Multimedia: EcologyWikibooks Libros y manuales: Ecología BásicaWikinews Noticias: Categoría:EcologíaWikiquote Citas célebres: Ecología
+IdentificadoresBNE: XX4576235BNF: 119319304 (data)GND: 4043207-5LCCN: sh99005735NDL: 00570449NARA: 10639171AAT: 300054468Diccionarios y enciclopediasGEA: 4853HDS: 008428Britannica: urlIdentificadores médicosMeSH: D004463
+Categoría: Ecología
+Menú de navegación
+No has accedido
+Discusión
+Contribuciones
+Crear una cuenta
+Acceder
+ArtículoDiscusión
+LeerEditarVer historial
+Buscar
+Buscar en Wikipedia
+Portada
+Portal de la comunidad
+Actualidad
+Cambios recientes
+Páginas nuevas
+Página aleatoria
+Ayuda
+Donaciones
+Notificar un error
+Herramientas
+Lo que enlaza aquí
+Cambios en enlazadas
+Subir archivo
+Páginas especiales
+Enlace permanente
+Información de la página
+Citar esta página
+Elemento de Wikidata
+Imprimir/exportar
+Crear un libro
+Descargar como PDF
+Versión para imprimir
+En otros proyectos
+Wikimedia Commons
+Wikilibros
+Wikinoticias
+Wikiquote
+
+En otros idiomas
+অসমীয়া
+Беларуская
+Deutsch
+English
+Lietuvių
+Монгол
+Polski
+Русский
+Українська
+159 más
+Editar enlaces
+Esta página se editó por última vez el 12 abr 2022 a las 16:45.
+El texto está disponible bajo la Licencia Creative Commons Atribución Compartir Igual 3.0; pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros términos de uso y nuestra política de privacidad.
+Wikipedia® es una marca registrada de la Fundación Wikimedia, Inc., una organización sin ánimo de lucro.
+Política de privacidadAcerca de WikipediaLimitación de responsabilidadVersión para móvilesDesarrolladoresEstadísticasDeclaración de cookiesWikimedia FoundationPowered by MediaWiki
