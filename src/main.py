@@ -7,8 +7,8 @@ from src.layer import Layer
 from src.user_input_predictor import UserInputPredictor
 from src.weights_trainer import WeightsTrainer
 
-alpha = 0.0001
-number_of_epochs = 10000
+alpha = 0.01
+number_of_epochs = 1000
 
 train_directory = '../data/train/'
 test_directory = '../data/test/'
@@ -19,8 +19,8 @@ test_combined = test_directory + combined_filename
 def get_weights_trainers(df_train):
     weights_trainers = []
     languages = df_train['Language'].unique()
+    train = df_train.to_numpy()
     for language in languages:
-        train = df_train.to_numpy()
         weights_trainer = WeightsTrainer(train, alpha, number_of_epochs, language)
         weights_trainers.append(weights_trainer)
     return weights_trainers

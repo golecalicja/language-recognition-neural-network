@@ -21,13 +21,22 @@ def test_unit_step_function_should_return_0():
     assert result == 0
 
 
+def test_sigmoid_function():
+    # given
+    dot_product = 1
+    # when
+    result = perceptron.sigmoid_function(dot_product)
+    # then
+    assert result == 0.5
+
+
 def test_calculate_dot_product():
     # given
     row = [2, 2, 3, 4, 'English']
     # when
     result = perceptron.calculate_dot_product(row)
     # then
-    assert result == 12
+    assert result == 13
 
 
 def test_predict_classification():

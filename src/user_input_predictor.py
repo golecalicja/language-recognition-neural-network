@@ -1,6 +1,6 @@
-from string import ascii_lowercase
+import pandas as pd
 
-from src.data_cleaner import distributed
+from src.data_cleaner import DataCleaner
 
 
 def get_user_input():
@@ -13,19 +13,17 @@ class UserInputPredictor:
         self.layer = layer
         self.text = get_user_input()
 
+    def transform_to_dataframe(self):
+        data = {'Text': [self.text]}
+        df = pd.DataFrame(data)
+        return df
+
     def predict_user_input(self):
         vectorized_text = self.vectorized()
         prediction = self.layer.predict_output(vectorized_text)
         print('Predicted language: ' + prediction)
 
     def vectorized(self):
-        letter_vector = self.create_letter_vector()
-        normalized_vector = distributed(letter_vector)
-        self.text = normalized_vector
-        return self.text
-
-    def create_letter_vector(self):
-        letter_vector = []
-        for letter in ascii_lowercase:
-            letter_vector.append(self.text.count(letter))
-        return letter_vector
+        df = self.transform_to_dataframe()
+        data_cleaner = DataCleaner(df)
+        return data_cleaner.vectorized()
