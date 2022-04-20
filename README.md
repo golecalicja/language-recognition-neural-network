@@ -9,7 +9,7 @@
 A single-layer neural network written from scratch that predicts the language of the text based on the proportions of letters.
 
 ## Data description
-Articles scraped from Wikipedia. The neural network was trained on 3 languages (English, German, Polish), 10 articles each. However, the code is generic and can be applied to any number of languages. 
+Articles scraped from Wikipedia. The neural network was trained on 5 languages (English, German, Polish, Spanish and French), 10 articles each. However, the code is generic and can be applied to any number of languages. 
 
 ## Examples of performance
 English sample:
