@@ -27,3 +27,4 @@ def test_calculate_error_should_return_1():
     result = weights_trainer.calculate_error(prediction, row)
     # then
     assert result == 1
+

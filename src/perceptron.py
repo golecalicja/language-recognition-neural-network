@@ -22,4 +22,5 @@ class Perceptron:
 
     def sigmoid_function(self, dot_product):
         net = dot_product - self.theta
-        return 1 / (1 + math.exp(-net * 100))
+        lambda_parameter = 100
+        return 1 / (1 + math.exp(-net * lambda_parameter))
