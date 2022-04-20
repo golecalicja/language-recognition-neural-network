@@ -1,0 +1,534 @@
+Aller au contenu
+Afficher / masquer la barre latérale
+
+Wikipédial'encyclopédie libre
+Rechercher sur Wikipédia
+Créer un compte
+
+Outils personnels
+
+ArticleDiscussion
+LireModifierModifier le codeVoir l’historique
+Accueil
+Portails thématiques
+Article au hasard
+Contact
+Contribuer
+Débuter sur Wikipédia
+Aide
+Communauté
+Modifications récentes
+Faire un don
+Outils
+Pages liées
+Suivi des pages liées
+Téléverser un fichier
+Pages spéciales
+Lien permanent
+Informations sur la page
+Citer cette page
+Élément Wikidata
+Modifier les liens interlangues
+Imprimer / exporter
+Créer un livre
+Télécharger comme PDF
+Version imprimable
+Dans d’autres projets
+Wikimedia Commons
+Wikisource
+Langues
+Sur cette version linguistique de Wikipédia, les liens interlangues sont placés en haut à droite du titre de l’article.
+Aller en haut.
+
+Pierre-Simon de Laplace
+Page d’aide sur l’homonymie
+Pour les articles homonymes, voir Laplace.
+
+Pierre-Simon de Laplace
+Description de cette image, également commentée ci-après
+Paulin Guérin, Portrait de Pierre Simon Marquis de Laplace (1838), château de Versailles.
+Données clés
+Naissance	23 mars 1749
+Beaumont-en-Auge (France)
+Décès	5 mars 1827 (à 77 ans)
+Paris (France)
+Nationalité	Drapeau de la France Française
+Données clés
+Domaines	Mathématicien, astronome, physicien
+Institutions	École militaire
+Diplôme	Université de Caen
+Renommé pour	Transformation de Laplace
+Opérateur laplacien
+Équation de Laplace
+Travail sur la mécanique céleste
+Distinctions	Académie des sciences, Académie française
+Signature
+
+Signature de Pierre-Simon de Laplace
+modifierConsultez la documentation du modèle
+
+Pierre-Simon de Laplace ou Pierre-Simon Laplace1,2, comte Laplace, puis 1er marquis de Laplace, né le 23 mars 1749 à Beaumont-en-Auge et mort le 5 mars 1827 à Paris, est un mathématicien, astronome, physicien et homme politique français.
+
+Laplace est l'un des principaux scientifiques de la période napoléonienne. Il a apporté des contributions fondamentales dans différents champs des mathématiques, de l'astronomie et de la théorie des probabilités. Il a été l'un des scientifiques les plus influents de son temps, notamment par son affirmation du déterminisme. Il a contribué de façon décisive à l'émergence de l'astronomie mathématique, reprenant et étendant le travail de ses prédécesseurs dans son Traité de Mécanique céleste3 (1799-1825). Cet ouvrage majeur, en cinq volumes, a transformé l'approche géométrique de la mécanique développée par Newton en une approche fondée sur l'analyse mathématique.
+
+En 1799, il est nommé ministre de l'Intérieur sous le Consulat. Napoléon Ier lui confère le titre de comte de l'Empire en 1808. En 1817 il est fait marquis par Louis XVIII, après la restauration des Bourbons4.
+
+
+Sommaire
+1	Biographie
+1.1	Études en Normandie
+1.2	L'ascension
+1.2.1	Des académies aux cabinets ministériels
+1.2.2	Le grand savant européen
+1.3	Carrière politique
+2	Contributions scientifiques
+2.1	Mécanique céleste
+2.2	Physique
+2.3	Théorie des probabilités
+2.3.1	Principe de Laplace
+2.4	Mathématiques
+3	Convictions philosophiques
+3.1	Le déterminisme
+3.2	L'existence de Dieu
+4	Sépulture
+5	Publications
+6	Hommages, postérité
+6.1	Académicien
+6.2	Titres
+7	Distinctions
+8	Armoiries
+9	Notes et références
+9.1	Notes
+9.2	Références
+10	Voir aussi
+10.1	Bibliographie
+10.2	Articles connexes
+10.3	Liens externes
+Biographie
+Études en Normandie
+Fils de Pierre Laplace, commerçant en cidre assez prospère, et de Marie-Anne Sochon, fille de cultivateurs, Pierre-Simon Laplace grandit auprès d'une sœur de quatre ans son aînée — sa mère meurt quand il a huit ans — au sein d'une famille normande avec laquelle il ne gardera pas de relation durant toute sa vie adulte, en dehors d'une rare correspondance avec son père. Ce dernier devient hôtelier et maire inamovible de Beaumont. À ce titre, il est responsable du prélèvement des impôts locaux et notamment de la dîme perçue au profit du duc d'Orléans, le grand seigneur de la région. À l'époque, à la campagne, les hommes reçoivent une éducation minimale. Pierre-Simon, lui, a la chance de pouvoir compter sur son oncle Louis, plus connu sous le nom d'abbé Laplace, un diacre ordonné prêtre qui a tout le temps d'instruire son neveu, de lui enseigner la lecture ainsi que les rudiments de l'arithmétique.
+
+Il y a dans la région un centre d'éducation, le collège de Beaumontn 1 où, par l'entremise de son oncle abbé et aussi parce qu'il est le fils du maire, le jeune garçon est admis dès l'âge de sept ans. Il y étudie jusqu'en 1765, année où il entre au collège des Arts, l'un des trois collèges de l'Université de Caen. Après une année de rhétorique, il débute les études de philosophie à l'automne 1766, avec comme professeur Jean Adam (1762-1795)n 2 au collège du Bois, un autre collège de l'Université de Caen. Il étudie également avec Christophe Gadbled, partisan convaincu du modernisme et de la nouvelle science mathématique, titulaire royal du poste rémunérateur d'hydrographe à Caen, mais qui avait maintenu ses classes de mathématiques au collège des Arts, en échange de son hébergement par l'université. Il a aussi comme professeur et examinateur Pierre Le Canu, assistant principal de Gadbled, moderniste convaincu et enseignant de philosophie au collège du Mont à partir de 1769. De 1767 à 1769, il est également répétiteur auprès du collège de Beaumont. Il passe les examens pour la maîtrise ès arts le 1er juin 17695.
+
+L'ascension
+Des académies aux cabinets ministériels
+En 1769, il part à Paris rencontrer l'un des plus influents mathématiciens de l'époque, d'Alembert, son arrivée étant annoncée par une lettre de recommandation de Le Canu. D'abord réticent, d'Alembert est rapidement convaincu des facultés de Laplace par un essai de quatre pages sur l'inertie. D'Alembert lui obtient un poste de professeur de mathématiques à l'École royale militaire. Il reçoit des émoluments de 1 400 livres annuelles et réside à même l'École militaire en pension complète. Ainsi, sa situation économique est réglée et ses obligations d'enseignement, légères. Il a le loisir de passer des heures dans sa chambre ou à la bibliothèque, l'une des mieux pourvues de France, avec toutes les nouveautés concevables en mathématiques et en physique. Il dispose des actes des principales sociétés scientifiques, celles de Paris, Londres, Berlin, Saint-Pétersbourg, Turin et Göttingen. Lagrange et Euler sont les vrais maîtres de Laplace dans cette bibliothèque qui lui tient lieu de paradis6.
+
+Laplace envoie sa première contribution — un travail sur le calcul des variations que Lagrange vient de perfectionner — à l'Académie royale des sciences le 28 mars 1770. Il arrive aux mêmes conclusions que Lagrange, mais avec une autre méthode « moins directe et rigoureuse en apparence, mais plus simple et plus agréable », selon le comité d'évaluation7. Elle sera suivie de douze autres avant son élection comme membre adjoint le 31 mars 1773 (en remplacement de Desmarest)8.
+
+En 1775, il obtient une bourse annuelle de 500 livres de l'Académie et en 1776, alors que l'École royale militaire est supprimée et transformée en École de cadets-gentilshommes, il obtient une pension de 600 livres. Élu membre associé de l'Académie le 25 janvier 1783, il est deuxième, derrière l'abbé Rochon, lors de l'élection à la place de pensionnaire vacante à la suite de la mort d'Étienne Bézout, mais obtient sa place d'examinateur des aspirants et élèves de l'artillerie (4 000 livres par an)n 3 ainsi que la nouvelle place d'examinateur des élèves ingénieurs-constructeurs de la Marine (1 200 livres par an). Il est enfin élu pensionnaire de la classe de mécanique de l'Académie (1 200 livres par an) le 23 avril 1785[réf. nécessaire]. C'est lui qui examinera Napoléon Bonaparte à l'automne 1785 alors candidat à l'artillerie9.
+
+Durant dix-sept ans, de 1771 à 1787, il produit une grande partie de sa contribution à l'astronomie. Son travail débute par un mémoire lu devant l'Académie française en 1773, dans lequel il montre que les mouvements planétaires sont restés voisins de ceux prévus par la théorie de Newton pour de longs intervalles de temps et il vérifie la relation jusqu'aux cubes de l'excentricité et de l'inclinaison des orbites. Plusieurs articles suivent sur certains points du calcul intégral, des différences finies, des équations différentielles et d'astronomie. Cependant certaines découvertes importantes proposées dans ces articles, comme les correspondances des harmoniques sphériques dans l'espace bidimensionnel, ont déjà été publiées par Adrien-Marie Legendre dans un article envoyé à l'Académie en 1783[réf. nécessaire].
+
+En 1788, il épouse Marie Anne Charlotte Courty de Romange: elle est la fille de Jean-Baptiste Courty , audiencier en la chancellerie du parlement de Besançon, et de Marie Hélène Angélique Mollerat10, et issue d'une famille de maîtres de forges11.
+
+En 1795, il devient membre de la chaire de mathématiques du nouvel Institut des sciences et des arts, dont il est président en 1812. En 1816, il est élu à l'Académie française4. En juin 1817, il préside une commission afin d'« examiner le projet d'une nouvelle carte topographique de la France, appropriée à tous les services publics et combinée avec l'opération du cadastre général »12. En 1821, il devient lors de sa fondation le premier président de la Société de géographie. En outre, il devient membre de toutes les principales Académies scientifiques d'Europe.
+
+Par son intense activité académique, il exerce une grande influence sur les scientifiques de son temps, en particulier sur Adolphe Quetelet et Siméon Denis Poisson. Il est comparé à un Newton français pour son aptitude naturelle et extraordinaire pour les mathématiques. Il semble que Laplace n'ait pas fait preuve de modestie, puisque Anders Johan Lexell, en visite à l'Académie des sciences à Paris en 1780-1781, rapporte que « Laplace laisse vraiment transparaître le fait qu'il se considère le meilleur mathématicien de son temps en France13. »
+
+Les différents comités et commissions qui intéressent la Convention sont détachés de l'Académie des sciences et deviennent indépendants, sous le contrôle direct du Comité d'instruction publique. Parmi ces nouvelles instances, on trouve le Comité du Nouveau Calendrier et la Commission des Poids et Mesures. Ce dernier comité rassemble de nombreux académiciens, dont Borda, l'un de ses instigateurs, mais aussi Delambre, Condorcet, Lagrange, Monge. Laplace n'y siégeait pas au début, tandis que Condorcet et Monge n'y siègent plus à la fin, le premier parce qu'il est exécuté, le second parce qu'il se consacre entièrement aux études balistiques. Laplace, lui, joue un rôle décisif dans ce comité chargé de définir la nouvelle mesure : le mètre14.
+
+De 1793 à 179515, il est remplacé par Sylvestre-François Lacroix comme examinateur de l'artillerie. Il est adjointn 4 de Lagrange à l'École normale de l'an III et y fait dix leçons du 1er pluviôse au 21 floréal an IV. Il est, de 1796 à 1798, examinateur permanent de mathématiques à l'École polytechnique pour le recrutement des officiers de l'artillerie, des ingénieurs-constructeurs des vaisseaux, et des ingénieurs géographes (Bossut étant chargé du recrutement des officiers du génie militaire, des ingénieurs des ponts et chaussées et des ingénieurs des mines). Bien que très influent à l'École polytechnique, Laplace n'y enseigna jamais16.
+
+Après la suppression de l'Académie royale des sciences, il est nommé membre résident de la section de mathématiques dans la 1re classe de l'Institut national le 20 novembre 1795 puis, en 1803, dans la section de géométrie[réf. nécessaire].
+
+Le dernier grand apport de la Révolution est le Bureau des longitudes, institué le 25 juin 1795. On y retrouve les membres survivants de la Commission des Poids et Mesures. Un député de la Convention, Joseph Lakanal, demande à Laplace ce que doit faire la Convention en matière d'astronomie — Laplace est en effet l'indiscutable autorité du pays en cette discipline et est neutre sur le plan politique —. Lakanal introduit mot pour mot dans son projet de loi les idées du savant : en l'absence d'Académie, le Bureau se charge de faire renaître la science de l'astronomie. Malgré le partage des pouvoirs toujours en vigueur, c'est Laplace qui est chargé de fonder et de faire fonctionner le Bureau : un salaire annuel de 8 000 francs et un emploi à long terme lui garantissent la sécurité financière. Le Bureau devient vite son fief personnel, il en est aussitôt élu président et a désormais affaire à des députés, des ministres et des cabinets ministériels, cela lui permet de faire connaître le travail du Bureau et de chercher des financements pour de nouveaux projets. Il est devenu le porte-parole officiel de l'astronomie, et même de toutes les sciences, auprès du pouvoir. Politiquement, il est parvenu au sommet 17.
+
+Le grand savant européen
+Laplace est l'un des premiers savants à s'intéresser de près à la question de la stabilité à long terme du Système solaire. La complexité des interactions gravitationnelles entre le Soleil et les planètes connues à l'époque ne semblait pas admettre une solution analytique simple. Newton avait d'ailleurs déjà pressenti ce problème après avoir remarqué des irrégularités dans le mouvement de certaines planètes ; il en déduisait d'ailleurs qu'une intervention divine était nécessaire de manière à éviter la dislocation du Système solaire.
+
+Après ses travaux sur la mécanique céleste, Laplace se propose d'écrire un ouvrage qui aurait dû « offrir une solution complète au grand problème de la mécanique représenté par le Système solaire et porter la théorie à coïncider aussi étroitement avec l'observation que les équations empiriques n'auraient plus trouver place dans les tables astronomiques. » Le résultat est contenu dans ses ouvrages Exposition du système du monde et Mécanique céleste.
+
+Son Traité de Mécanique céleste est publiée en cinq volumes. Les deux premiers, publiés en 1799, contiennent les méthodes pour calculer les mouvements des planètes, pour déterminer leurs formes et pour résoudre les problèmes liés aux marées. Le troisième et le quatrième, publiés respectivement en 1802 et en 1805, contiennent les applications de ces méthodes et diverses tables astronomiques. Le cinquième volume publié en 1825 est principalement historique, mais il fournit en appendice les résultats des dernières recherches de Laplace. Celles-ci sont très nombreuses, mais il s'approprie beaucoup de résultats d'autres scientifiques avec peu ou pas de reconnaissance, et les conclusions sont souvent mentionnées comme si elles étaient les siennes. D'après Jean-Baptiste Biot, qui aide l'auteur dans la relecture avant impression, Laplace est fréquemment incapable de retrouver les détails des démonstrations et est ainsi souvent conduit à réétudier ses résultats pendant plusieurs jours.
+
+
+Pierre-Simon de Laplace, lithographie non sourcée.
+Le Traité de Mécanique céleste n'est pas seulement la traduction des Principia Mathematica dans le calcul différentiel, mais complète certaines parties que Newton n'avait pas été en mesure de détailler.
+
+Dans cet ouvrage, Laplace expose l'hypothèse de la nébuleuse selon laquelle le Système solaire se serait formé à la suite de la condensation d'une nébuleuse. L'idée de la nébuleuse avait déjà été énoncée par Kant en 1755, mais il est probable que Laplace n'en fût pas informé.
+
+En 1847, Victor Hugo nous rapporte que le savant François Arago aimait à raconter l'anecdote suivante : lorsque Laplace publia les derniers tomes de son Traité de Mécanique céleste, l'empereur Napoléon le convoqua et l'apostropha, furieux : « Comment, vous donnez les lois de toute la création et, dans tout votre livre, vous ne parlez pas une seule fois de l'existence de Dieu ! – Sire, répondit Laplace, je n'avais pas besoin de cette hypothèse »18.
+
+Laplace, qui avait effectué ses premiers travaux sur les probabilités entre 1771 et 1774, en redécouvrant notamment après Thomas Bayes les probabilités inverses, dites loi de Bayes-Laplace, ancêtre des statistiques inférentielles, publie en 1812 sa Théorie analytique des probabilités. Dans cet ouvrage, Laplace donne des éléments déterminants à la théorie des probabilités dont il est considéré comme un des pères. En 1814, il publie son Essai philosophique sur les probabilités. Il est le premier à publier la valeur de l'intégrale de Gauss. Il étudie la transformée de Laplace, étude plus tard complétée par Oliver Heaviside. Il adhère à la théorie d'Antoine Lavoisier, avec qui il détermine les températures spécifiques de plusieurs substances à l'aide d'un calorimètre de sa propre fabrication. En 1819, Laplace publie un simple résumé de son travail sur les probabilités.
+
+Laplace est connu également pour son « démon de Laplace », lequel a la capacité de connaître, à un instant donné, tous les paramètres de toutes les particules de l'Univers. Il formule ainsi le déterminisme généralisé, le mécanisme. L'état présent de l'Univers est l'effet de son état antérieur, et la cause de ce qui va suivre. « Une intelligence qui, à un instant donné, connaîtrait toutes les forces dont la nature est animée, la position respective des êtres qui la composent, si d'ailleurs elle était assez vaste pour soumettre ces données à l'analyse, embrasserait dans la même formule les mouvements des plus grands corps de l'Univers, et ceux du plus léger atome. Rien ne serait incertain pour elle, et l'avenir comme le passé seraient présents à ses yeux19. » Dans cette perspective, l'auteur adopte une position déterministe, soit une position philosophique et scientifique capable d'inférer de ce qui est, ce qui sera. Ce concept de démon sera notamment remis en cause par le principe d'incertitude (ou d'indétermination) de Heisenberg.
+
+Carrière politique
+Pierre-Simon de Laplace
+Illustration.
+Sophie Feytaud, Portrait de Pierre Simon Marquis de Laplace (1842), détail, château de Versailles.
+Fonctions
+ministre de l'Intérieur
+12 novembre 1799 – 25 décembre 1799
+Président	Commission consulaire
+Gouvernement	Consulat Bonaparte, Sieyès, Roger-Ducos, Cambacérès et Lebrun
+Prédécesseur	Nicolas-Marie Quinette
+Successeur	Lucien Bonaparte
+Membre du Sénat conservateur
+3 nivôse an VIII (24 décembre 1799) – avril 1814
+membre de la Chambre des pairs
+4 juin 1814 – mars 1815
+membre de la Chambre des pairs
+août 1815 – 5 mars 1827
+Successeur	Charles Émile de Laplace
+(à titre héréditaire)
+Biographie
+Nom de naissance	Pierre-Simon Laplace
+Nationalité	française
+Père	Pierre Laplace
+Mère	Marie-Anne Sochon
+Conjoint	Marie Anne Charlotte de Courty de Romange
+Enfants	Charles Émile de Laplace (1789-1874)
+Sophie-Suzanne de Laplace (1792-1813)
+Résidence	no 108 rue du Bac à Paris
+Pierre-Simon de Laplace
+médaille en vermeil en l'honneur du Sénat conservateur (Constitution de l'an VIII)
+Liste des ministres français de l'Intérieur
+Liste des membres du Sénat conservateur
+modifier Consultez la documentation du modèle
+La capacité et la rapidité avec laquelle Laplace réussit à changer d'opinion politique sont surprenantes. Adversaire de la dictature et républicain, comme Lacépède, avant le 18 brumaire, Laplace se rallie sans hésiter au gouvernement consulaire20 et au pouvoir grandissant du général Bonaparte. Laplace abandonne ses principes républicains qui sont fidèlement le reflet des opinions du parti au pouvoir. Trois jours après le coup d'État du 18 brumaire, Laplace stupéfait reçoit la notification de sa nomination comme ministre de l'Intérieur. Son travail consisterait à administrer tous les départements de France et d'y régler les questions de la société civile, en particulier celles qui concernent le transport, le commerce, l'industrie, la santé et l'éducation. Il est possible que ce dernier point ait incité Bonaparte à nommer un néophyte en matière politique. Laplace ne reste pas plus de six semaines à ce poste, qui revint à Lucien Bonaparte. Mais pendant ce bref mandat, il n'est pas inactif : il n'oublie pas les financements du Bureau des longitudes et la réforme de l'École polytechnique, mais son principal projet est l'implantation du système métrique décimal — qu'il n'aura pas le temps de mener à bien — et fait en sorte que ses successeurs continuent le travail avec la même énergien 5. Le bulletin de Napoléon à sa démission est le suivant : « Géomètre de première catégorie, Laplace n'a pas tardé à se montrer un administrateur plus que médiocre ; de son premier travail nous avons immédiatement compris que nous nous étions trompés. Laplace ne traitait aucune question d'un bon point de vue : il cherchait des subtilités de partout, il avait seulement des idées problématiques et enfin il portait l'esprit de l'infiniment petit jusque dans l'administration21. »
+
+Ainsi Laplace perd sa charge, mais il maintient sa fidélité. Il entre au Sénat conservateur à la création de ce corps, le 3 nivôse an VIII. Dans le troisième volume du Traité de Mécanique céleste il réalise une note dans laquelle il déclare qu'« entre toutes les vérités contenues dans celui-ci, la plus chère à l'auteur est la déclaration faite à sa dévotion envers le médiateur de l'Europe. » Dans le tirage vendu après la Restauration celle-ci est effacée.
+
+Lors de la formation des lycées, il est nommé, le 18 décembre 1802, membre de la commission chargée de déterminer par une instruction réglementaire les parties à enseigner dans chaque classe de mathématiques. Il est élu vice-président du Sénat en 1803, et chancelier de ce corps au mois de septembre de la même année. Initié franc-maçon, il est membre du collège des grands officiers du Grand Orient de France en 180422.
+
+C'est Laplace qui, le 30 août 1805, fait au Sénat un rapport sur la nécessité d'abandonner le calendrier républicain pour reprendre le calendrier grégorien. Il est élu président de la Société Maternelle en 181123.
+
+Membre de la Légion d'honneur (19 vendémiaire an XII), grand officier (25 prairial suivant), créé comte de l'Empire le 24 avril 1808, grand-croix de l'Ordre de la Réunion le 3 avril 1813, il n'en vote pas moins, en avril 1814, au moment où il est évident que l'Empire va faillir, la déchéance de l'empereur, l'établissement d'un gouvernement provisoire23 et se dépêche d'offrir ses services aux Bourbons.
+
+Pour l'en récompenser, Louis XVIII le nomme pair de France (4 juin 1814) et le fait marquis (ordonnance royale et lettres patentes de 181724). Le marquis de Laplace se tient à l'écart pendant les Cent-Jours, et reprend après la seconde abdication, son siège a la Chambre haute ; il vote pour la mort dans le procès du maréchal Ney20.
+
+En 1816, il préside la commission chargée de réorganiser l'École polytechnique. Il montre pour les Bourbons, à la Chambre des pairs, le même dévouement qu'au Sénat de l'Empire : « un de ses biographes a noté, avec justice, que la conclusion de son Exposition du système du Monde reﬂétait très exactement les variations de ses opinions politiques20 ».
+
+Le mépris que ses collègues ont à son égard en raison de sa conduite en 1814-1815 peut être lu dans les pages de Paul-Louis Courier. La connaissance de Laplace est utile pour les nombreuses commissions scientifiques auxquelles il appartient et justifie probablement la manière dont on ferma les yeux sur sa versatilité et son opportunisme politique.
+
+Selon W. W. Rouse Ball25, « Que Laplace soit présomptueux et égoïste n'est nié par aucun de ses plus passionnés admirateurs ; sa conduite à l'égard de ses bienfaiteurs lors de sa jeunesse et envers ses amis politiques est ingrate et, de plus, il s'approprie les résultats de ceux qui sont relativement inconnus. Parmi ceux qu'il traite de cette manière, trois deviennent très connus : Adrien-Marie Legendre et Jean Baptiste Joseph Fourier en France et Thomas Young en Angleterre. Ceux-ci n'oublieront jamais l'injustice dont ils furent les victimes. D'autre part, sur certaines questions, il fait preuve d'un caractère indépendant et ne cache jamais sa manière de voir les questions de religion, de philosophie ou de science, même si cela n'est pas apprécié des autorités au pouvoir. Vers la fin de sa vie, et spécialement pour les travaux de ses élèves, Laplace est généreux et une fois, il omet un de ses articles de sorte qu'un élève reçoive le mérite exclusif de la recherche. »
+
+Laplace a publié un nombre considérable de travaux pour la réimpression desquels la Chambre des députés, en 1842, vota un crédit de 40 000 francs20.
+
+Contributions scientifiques
+Mécanique céleste
+
+Représentation artistique de l'hypothèse de la nébuleuse de Laplace.
+Laplace apporte une importante contribution à la mécanique céleste en utilisant les conceptions lagrangiennes pour mieux expliquer le mouvement des corps. Il passe une grande partie de sa vie à travailler sur l'astronomie mathématique et son travail culmine avec la vérification de la stabilité dynamique du Système solaire avec l'hypothèse que celui-ci consiste en un ensemble de corps rigides qui se meuvent dans le vide. Il établit seul l'hypothèse de la nébuleuse et il est un des premiers scientifiques à concevoir l'existence de sortes de trous noirs (que John Michell fut le premier à imaginer) dans le cadre de la physique classique.
+
+Selon l'hypothèse de la nébuleuse, le Système solaire se serait développé depuis une masse globulaire de gaz incandescent qui tourne autour d'un axe passant par son centre de masse. En refroidissant cette masse se serait réduite et quelques anneaux concentriques se seraient détachés de son bord externe. Ces anneaux en se refroidissant se seraient condensés en planètes. Le Soleil représenterait le noyau central de la nébuleuse qui, resté encore incandescent, continue à irradier. De ce point de vue, nous devrions nous attendre à ce que les planètes plus distantes soient plus vieilles que celles plus voisines du Soleil. L'idée substantielle de la théorie, même avec quelques importantes modifications, est acceptée encore aujourd'hui.
+
+Laplace montre qu'il pourrait y avoir des corps massifs dotés d'une gravité si grande que la lumière elle-même n'aurait pas une vitesse suffisante pour sortir de leur intérieur, une idée aujourd'hui rapprochée des trous noirs de la cosmologie moderne. Il suppose que certaines étoiles de la nébuleuse découvertes à l'aide des télescopes ne font pas partie de la Voie lactée et qu'elles sont elles-mêmes des galaxies.
+
+
+Dessin d'un trou noir ; objet astronomique dont l'existence fut conjecturée par Laplace dans une version de la physique classique.
+Au cours des années 1784 à 1787, il produit plusieurs mémoires contenant des résultats exceptionnels. Parmi ceux-ci, celui de 1784 qui est particulièrement relevé, réimprimé dans le troisième volume du Traité de Mécanique Céleste, à l'intérieur duquel il détermine complètement l'attraction d'un sphéroïde sur une particule externe à lui. Ceci est mémorable pour l'introduction en analyse des harmoniques sphériques ou coefficients de Laplace.
+
+Si les coordonnées de deux points sont (r, μ, ω) et (r', μ', ω'), et si r' ≥ r, alors la réciproque de leur distance peut être développée en fonction du rapport de r/r', et les coefficients respectifs sont les coefficients de Laplace. Leur utilité dérive du fait que chaque fonction avec des coordonnées d'un point sur la sphère peut être développé en série de cette manière.
+
+Cet article est aussi très important pour le développement de l'idée de potentiel, appropriée et utilisée par Joseph-Louis Lagrange dans ses mémoires de 1773, 1777 et 1780. Laplace montre que le potentiel satisfait toujours à l'équation différentielle :
+
+{\displaystyle \nabla ^{2}V={\partial ^{2}V \over \partial x^{2}}+{\partial ^{2}V \over \partial y^{2}}+{\partial ^{2}V \over \partial z^{2}}=0}{\displaystyle \nabla ^{2}V={\partial ^{2}V \over \partial x^{2}}+{\partial ^{2}V \over \partial y^{2}}+{\partial ^{2}V \over \partial z^{2}}=0}
+et sur ce résultat, est basé son travail suivant sur l'attraction. La quantité {\displaystyle \nabla ^{2}V}{\displaystyle \nabla ^{2}V} est appelée Laplacien de {\displaystyle V\,}V\,et sa valeur en chaque point indique l'excès de {\displaystyle V\,}V\,au regard à sa valeur moyenne autour du point. L'équation de Laplace, ou la forme plus générale {\displaystyle \nabla ^{2}V=-4\pi \rho }\nabla ^{2}V=-4\pi \rho , apparaît dans toutes les branches de la physique mathématique.
+
+Entre 1784 et 1786, il publie un mémoire concernant Jupiter et Saturne où il vérifie, par l'intermédiaire des séries perturbatives, que dans des temps très longs, l'action réciproque des deux planètes ne peut jamais influer significativement sur les excentricités et sur les inclinaisons de leurs orbites. Il fait noter que les particularités du système de Jupiter sont dues au fait que les mouvements moyens de Jupiter et Saturne sont très voisins de la commensurabilité. Il découvre aussi la cyclicité du mouvement des deux planètes estimée à peu près à 900 ans, les deux planètes paraissent exécuter des accélérations et des décélérations réciproques. De telles variations étaient déjà notées par Joseph-Louis Lagrange, mais seul Laplace les rattacha à un mouvement cyclique, confirmant l'idée que le Système solaire présente des mouvements non occasionnels même à grande échelle temporelle. Les développements de ses études sur le mouvement planétaire sont exposés dans ses deux mémoires de 1788 et de 1789.
+
+L'année 1787 est rendue mémorable par les analyses de Laplace sur les relations entre l'accélération lunaire et les changements séculaires dans l'excentricité de l'orbite de la Terre : cette recherche complète la démonstration de la stabilité du Système solaire entier. Il cherche, par exemple, à expliquer comment le mouvement orbital de la Lune subit une très légère accélération (négative !) qui fait varier la longueur du mois lunaire d'une seconde en trois mille ans, en en attribuant la cause à une lente variation de l'excentricité terrestre. En vérité, il a été démontré successivement que de telles accélérations négatives (décélérations) sont dues à l'attraction réciproque qui tend à synchroniser le mouvement de révolutions et de rotations des corps. La Lune s'éloigne lentement, d'environ 4 cm par an, et inéluctablement de la Terre, en ralentissant ainsi sa vitesse orbitale (décélération), et la période de rotation de la Terre s'allonge lentement (décélération), d'environ 2 millisecondes par jour par siècle. Le système Pluton/Charon est déjà arrivé à cette synchronisation de 6 jours, 9 heures, 17 minutes et 36,7 secondes tant pour la rotation de la planète que pour la révolution du satellite.
+
+Physique
+La théorie de l'attraction capillaire (voir Adhésion capillaire) est due à Laplace, qui accepte l'idée proposée par Francis Hauksbee dans les Philosophical Transactions en 1709, selon laquelle le phénomène est dû à une force d'attraction qui est imperceptible à une distance raisonnable. Il ne développe que partiellement l'étude de l'action d'un solide sur un liquide et de l'action réciproque de deux liquides, qui est complétée ultérieurement par Carl Friedrich Gauss. En 1862 Lord Kelvin (Sir William Thomson) démontre que, si nous supposons le caractère moléculaire de la matière, les lois de l'attraction peuvent être dotées des lois de Newton de la gravitation.
+
+Laplace, en 1816, est le premier à mettre en évidence explicitement le motif pour lequel la théorie de Newton du mouvement oscillatoire fournit une valeur imprécise de la vitesse du son : la vitesse effective est supérieure à celle calculée par Newton, à cause de la chaleur développée par la compression imprévue de l'air, qui augmente l'élasticité et donc la vitesse du son transmis. Les recherches de Laplace en physique pratique se limitent à celles réalisées avec Antoine Lavoisier dans les années 1782 à 1784 sur la chaleur massique de différents corps. Il établit la loi qui porte son nom concernant les transformations adiabatiques des gaz en thermodynamique.
+
+Théorie des probabilités
+Alors qu'il mène plusieurs recherches en physique, un autre thème auquel il dédie ses forces est la théorie des probabilitésn 6. Dans son Essai philosophique sur les probabilités, Laplace formalise la démarche mathématique de la logique par induction basée sur les probabilités, que nous reconnaissons aujourd'hui comme celle de Thomas Bayes. En 1774, il déduit le théorème de Bayes sans être probablement au courant du travail (publié en 1763) de Thomas Bayes (mort en 1761). Une formule très connue qui dérive de sa méthode est la règle de succession. Supposons qu'un événement ait seulement deux tirages possibles valant « succès » et « insuccès ». Avec l'hypothèse que l'on sache peu ou rien a priori en rapport aux probabilités relatives aux tirages, Laplace détermine une formule de probabilité pour que le tirage suivant soit un succès :
+
+{\displaystyle \Pr(\mathrm {le\ prochain\ tirage\ est\ un\ succ{\grave {e}}s} )={\frac {s+1}{n+2}}}\Pr({\mathrm  {le\ prochain\ tirage\ est\ un\ succ{\grave  {e}}s}})={\frac  {s+1}{n+2}}
+où s est le nombre de succès observés précédemment et n est le nombre total des essais observés. Une telle formule est encore aujourd'hui utilisée comme une estimation de la probabilité d'un événement si on connaît l'espace des événements, dont on dispose d'un petit nombre d'échantillons.
+
+La règle de succession est sujette à beaucoup de critiques, dues en partie à l'exemple que Laplace choisit pour l'illustrer. En fait, il calcule la probabilité que le Soleil se lèvera demain, considérant le fait qu'il s'était constamment levé depuis la plus ancienne époque de l'Histoire, avec l'expression :
+
+{\displaystyle \Pr(\mathrm {le\ soleil\ se\ l{\grave {e}}vera\ demain} )={\frac {d+1}{d+2}}}\Pr({\mathrm  {le\ soleil\ se\ l{\grave  {e}}vera\ demain}})={\frac  {d+1}{d+2}}
+où d est le nombre de fois que le Soleil s'était levé dans le passé. Laplace estimait d à cinq mille ans ou à 1 826 313 jours. Ce résultat a été retenu comme absurde et certains auteurs ont conclu que toutes les applications des règles de successions sont absurdes par extension. Laplace était pleinement conscient de l'absurdité du résultat : immédiatement après l'exemple, il écrit : « Mais ce nombre [c'est-à-dire, la probabilité que le Soleil se lève demain] est beaucoup plus grand pour qui, considérant les principes qui règlent les jours et les saisons dans la totalité des événements, réalise que nul dans l'instant actuel peut arrêter son cours. »
+
+Toujours en 1774, il explicita l'intégrale de Gauss :
+
+{\displaystyle \int _{-\infty }^{+\infty }e^{\frac {-u^{2}}{2}}du={\sqrt {2\pi }}.}\int _{{-\infty }}^{{+\infty }}e^{{{\frac  {-u^{2}}{2}}}}du={\sqrt  {2\pi }}.
+En 1779, Laplace indique la méthode pour estimer le rapport des cas favorables ramenés au nombre total de cas possibles. Ceci consiste à considérer les valeurs successives d'une quelconque fonction comme les coefficients du développement d'une autre fonction avec référencement à une variable différente. Cette seconde fonction est donc appelée la fonction génératrice de la précédente. Laplace démontre comment, par le moyen de l'interpolation, ces coefficients peuvent être déterminés à partir de la fonction génératrice. Ensuite, il traite le problème inverse, en trouvant à partir des coefficients la fonction génératrice au moyen de la résolution d'une équation aux différences finies. La méthode est peu pratique et, compte tenu des développements successifs des analyses, rarement utilisée aujourd'hui.
+
+Laplace formule et démontre le premier la forme générale du théorème central limite, en 180927. Il avait déjà, 20 ans auparavant, amélioré le résultat d'Abraham de Moivre, le théorème de Moivre-Laplace, qui est un cas très particulier du théorème central limite. Toutefois, n'ayant pas perçu le premier le lien entre la loi normale et la loi des erreurs, Laplace n'est pas unanimement considéré comme le père de la loi normale. Il donne cependant, a posteriori, une explication du lien entre la loi normale et la loi des erreurs bien plus convaincante que celle de Gauss28.
+
+Son traité Théorie analytique des probabilités inclut un exposé de la méthode des moindres carrés, important témoignage de la paternité de Laplace sur les méthodes analytiques. La méthode des moindres carrés, par l'intermédiaire de nombreuses observations, est expliquée empiriquement par Carl Friedrich Gauss et Adrien-Marie Legendre, mais le quatrième chapitre de ce travail contient une démonstration formelle de celui-ci, sur laquelle depuis s'est basée toute la théorie des erreurs. La deuxième édition du traité (1812) contient (voir Livre II, chapitre IV section 21) la première formulation du théorème central limite vectoriel, crucial, par exemple, pour ses applications en statistiques, ou encore pour la convergence des marches aléatoires vers le mouvement Brownien.
+
+Principe de Laplace
+Nom attribué par Théodore Flournoy dans son Des Indes à la planète Mars : étude sur un cas de somnambulisme avec glossolalie (1899) à cet aphorisme :
+
+« Le poids des preuves doit être proportionné à l'étrangeté des faits. »
+
+Flournoy résume ainsi le propos de Laplace, qui se lit :
+
+« Nous sommes si éloignés de connaître tous les agens [orthographe de l'époque] de la nature, et leurs divers modes d'action qu'il ne serait pas philosophique de nier les phénomènes, uniquement parce qu'ils sont inexplicables dans l'état actuel de nos connaissances. Seulement, nous devons les examiner avec une attention d'autant plus scrupuleuse, qu'il paraît plus difficile de les admettre ; et c'est ici que le calcul des probabilités devient indispensable, pour déterminer jusqu'à quel point il faut multiplier les observations ou les expériences, afin d'obtenir en faveur des agens qu'elles indiquent, une probabilité supérieure aux raisons que l'on peut avoir d'ailleurs, de ne pas les admettre. »
+
+— Pierre-Simon de Laplace29
+
+Mathématiques
+Parmi les découvertes mineures de Laplace en mathématiques pures, on peut mentionner sa discussion (avant Alexandre-Théophile Vandermonde) de la théorie générale des déterminants en 1772 : sa démonstration que n'importe quelle équation paire doit avoir au moins un facteur quadratique réel, sa réduction de la solution des équations différentielles linéaires à intégrales définies ; et sa solution à l'équation différentielle linéaire partielle du second ordre. Il est l'inventeur de la méthode de variation des constantes, permettant de résoudre les équations différentielles linéaires avec second membre, lorsque l'on connaît la solution de l'équation sans second membre. Il est aussi le premier à considérer les difficiles problèmes dans les équations aux différences mixtes, et à démontrer que la solution d'une équation aux différences finies de premier grade et du second ordre pourrait être toujours obtenue sous la forme d'une fraction continue. En plus de ces découvertes originales, il détermine, dans sa théorie des probabilités, les valeurs des plus communes intégrales définies ; et dans le même livre, il donne la démonstration générale du théorème énoncé par Joseph-Louis Lagrange pour le développement en série d'une fonction quelconque impliquée au moyen de coefficients différentiels.
+
+La transformée de Laplace, par contre, bien qu'elle soit appelée ainsi en son honneur parce qu'il l'utilisa dans son travail sur la théorie des probabilités, fut découverte à l'origine par Leonhard Euler. La transformée de Laplace apparaît dans toutes les branches de la physique mathématique — champ d'étude auquel Laplace contribua de manière importante.
+
+En mathématiques appliquées, on lui doit également la Méthode de Laplace qui permet d'estimer des intégrales de la forme :
+
+{\displaystyle \int _{a}^{b}\!e^{Mf(x)}\,dx\,}\int _{a}^{b}\!e^{{Mf(x)}}\,dx\,
+quand {\displaystyle M}M est grand.
+Convictions philosophiques
+Le déterminisme
+Article détaillé : Déterminisme.
+
+James Posselwhite, Pierre Simon de Laplace, gravure (xixe siècle).
+À la différence de beaucoup d'autres mathématiciens, Laplace ne donne pas aux mathématiques un statut particulier, il y voit plutôt un instrument utile pour la recherche scientifique et pour les problèmes pratiques. Par exemple, Laplace a considéré l'analyse comme un outil pour affronter les problèmes physiques, tout en se montrant extrêmement habile pour inventer les concepts dont il a besoin pour atteindre cet objectif. Tant que ses résultats ne sont pas avérés, il ne se préoccupe pas d'expliquer les phases démonstratives ; il ne soigne pas l'élégance ; pour lui, n'importe quel moyen est bon s'il permet de résoudre le problème qui le préoccupe.
+
+Il croit fermement au déterminisme causal, comme il l'écrit dans l'introduction de son Essai philosophique sur les probabilités :
+
+« Nous devons donc envisager l'état présent de l'Univers comme l'effet de son état antérieur et comme la cause de celui qui va suivre. Une intelligence qui, pour un instant donné, connaîtrait toutes les forces dont la nature est animée, et la situation respective des êtres qui la composent, si d'ailleurs elle était assez vaste pour soumettre ces données à l'Analyse, embrasserait dans la même formule les mouvements des plus grands corps de l'univers et ceux du plus léger atome : rien ne serait incertain pour elle et l'avenir, comme le passé serait présent à ses yeux. »
+
+Il est souvent fait référence à cette intelligence comme au « démon de Laplace » (de manière analogue au démon de Maxwell). La description de l'hypothétique intelligence décrite au sujet de Laplace comme un petit diable ne vient pas pourtant de Laplace, mais de biographies excessives : Laplace espérait que l'humanité aurait amélioré sa compréhension scientifique du monde et croyait que, fût-elle complétée, elle aurait encore eu besoin d'une extraordinaire capacité de calcul pour la déterminer complètement en tout instant particulier. Cette question de la possibilité d'atteindre par le calcul des prévisions fiables dans les domaines complexes ne sera mise en doute qu'avec les travaux de Henri Poincaré, et ne touchera le grand public qu'avec la théorie du chaos. Entretemps, l'opposition à ce sujet entre Von Neumann et Wiener est restée célèbre.
+
+Il a été récemment[Quand ?] proposé une limite sur l'efficacité du calcul de l'Univers, c'est-à-dire sur l'habileté du petit diable de Laplace à traiter une quantité infinie d'informations. La limite fait référence à l'entropie maximale de l'Univers, à la vitesse de la lumière et à la quantité minimum de temps nécessaire pour transporter l'information sur une longueur égale à la longueur de Planck ; celle-ci étant égale à 2130 bit[citation nécessaire]. En conséquence, aucune chose demandant plus que cette quantité de données ne peut être calculée dans la quantité de temps passée jusqu'à présent dans l'Univers[citation nécessaire].
+
+L'existence de Dieu
+Laplace est célèbre pour une boutade par laquelle, devant Napoléon, il aurait relégué Dieu au rang de supposition.
+
+Selon Hervé Faye, ce n'est pas Dieu que Laplace traitait d'hypothèse, mais seulement son intervention en un point déterminé :
+
+« Comme le citoyen Laplace présentait au général Bonaparte la première édition de son Exposition du Système du monde, le général lui dit : « Newton a parlé de Dieu dans son livre. J'ai déjà parcouru le vôtre et je n'y ai pas trouvé ce nom une seule fois. » À quoi Laplace aurait répondu : « Citoyen premier Consul, je n'ai pas eu besoin de cette hypothèse. »
+
+Dans ces termes, Laplace aurait traité Dieu d'hypothèse. […]. Mais Laplace n'a jamais dit cela. Voici, je crois, la vérité. Newton, croyant que les perturbations séculaires dont il avait ébauché la théorie finiraient à la longue par détruire le système solaire, a dit quelque part que Dieu était obligé d'intervenir de temps en temps pour remédier au mal et remettre en quelque sorte ce système sur ses pieds. C'était là une pure supposition suggérée à Newton par une vue incomplète des conditions de stabilité de notre petit monde. La science n'était pas assez avancée à cette époque pour mettre ces conditions en évidence. Mais Laplace, qui les avait découvertes par une analyse profonde, a pu et dû répondre au premier Consul que Newton avait, à tort, invoqué l'intervention de Dieu pour raccommoder de temps en temps la machine du monde, et que lui Laplace n'avait pas eu besoin d'une telle supposition30. »
+
+L'anecdote est parfois rapportée avec des détails supplémentaires, mais contradictoires :
+
+dans la préface de son édition de Lucrèce, Félix Blanchet rapporte que Laplace aurait alors répondu à Napoléon : « Dieu est une jolie hypothèse qui explique bien des choses »31 ;
+selon d'autres sources, c'est le mathématicien Lagrange qui se serait écrié : « Ah ! c'est une belle hypothèse ; elle explique beaucoup de choses32. » ;
+selon Richard Dawkins, Laplace aurait alors répondu que si cette hypothèse explique « tout », elle ne permet de prédire « rien » et n'entrait donc pas dans son domaine d'étude.
+Quelles que soient les paroles réellement échangées avec Napoléon, Laplace ajouta le nom de « Dieu » dans les éditions suivantes de son Exposition du Système du monde. L'analyse du passage semble confirmer que le débat ne portait pas sur l'existence de Dieu, mais sur la nécessité de son intervention directe et spéciale pour maintenir le monde dans l'ordre. Pour Newton, une intervention divine était nécessaire pour remettre régulièrement en ordre le Système solaire. Laplace cite la critique de Leibniz : « C'est avoir des idées bien étroites de la sagesse et de la puissance de Dieu »33.
+
+Laplace interroge :
+
+« Cet arrangement des planètes, ne peut-il pas être lui-même un effet des lois du mouvement, et la suprême intelligence que Newton fait intervenir, ne peut-elle pas l'avoir fait dépendre d'un phénomène plus général34 ? »
+
+Il a déjà cité le mot de Newton :
+
+« Cet admirable arrangement du Soleil, des planètes et des comètes ne peut être que l'ouvrage d'un être intelligent et tout-puissant. »
+
+Laplace n'entend pas nier cet argument, mais, au contraire, le renforcer, car il commente :
+
+« Pensée dans laquelle il se serait encore plus confirmé, s'il avait connu ce que nous avons démontré, savoir que les conditions de l'arrangement des planètes et des satellites, sont précisément celles qui en assurent la stabilité35 »
+
+Autrement dit : la Cause première n'a pas seulement donné aux astres un ordre précaire requérant une soigneuse maintenance, mais un ordre stable.
+
+Le chimiste Dumas, ami intime de Laplace, disait de lui : « Il a fourni aux matérialistes leurs plus spécieux arguments sans partager leurs convictions »36. Il écrit à son fils, le 17 juin 1809 : « Je prie Dieu qu'il veille sur tes jours. Aie-Le toujours présent à ta pensée, ainsi que ton père et ta mère »37.
+
+Même s'il fut annoncé dans le quotidien catholique La Quotidienne que Laplace mourut dans les bras de deux curés38, il n'est pas possible de savoir si Laplace demeura un sceptique jusqu'à la fin ou s'il reçut les derniers sacrements. Nous savons simplement que son épouse, dévote, fit venir à son chevet le diacre des Missions Étrangères de Paris39.
+
+Sépulture
+Le marquis de Laplace repose dans un tombeau à trois cents mètres environ au nord de la chapelle de Saint-Julien-de-Mailloc, dans un pré à l'écart du village. Ce mausolée a l'allure d'un petit temple grec à colonnes doriques. Sur le fronton une inscription rappelle les travaux du savant sur la mécanique céleste, le système du monde et la théorie analytique des probabilités40.
+
+
+Sépulture.
+
+
+
+Sépulture.
+
+Publications
+Cette section n’est pas rédigée dans un style encyclopédique. Améliorez sa rédaction !
+Exposition du système du monde
+édition originale, 1796 ; tome 1 [archive] et tome 2 [archive] sur Gallica ;
+2e édition, 1798 ; texte en ligne sur Wikisource ;
+6e édition, 1835 ; texte en ligne sur Wikisource.
+Théorie analytique des probabilités, 1812 [archive] sur Gallica.
+Traité de mécanique céleste, tome 1 (an VII, 1799) Texte en ligne disponible sur IRIS [archive] aperçu sur Google Livres) à tome 4 (an XIII, 1805).
+Essai philosophique sur les probabilités, 1re édition, 1814. [lire en ligne [archive]]
+Œuvres complètes de Laplace, publiées sous les auspices de l'Académie des sciences par MM. les secrétaires perpétuels, Gauthier-Villars, Paris, 14 volumes, 1878-1912. Comprend : I-V. Traité de mécanique céleste ; VI. Exposition du système du monde ; VII. 1-2. Théorie analytique des probabilités ; VIII-XII. Mémoires extraits des recueils de l'Académie des sciences de Paris et de la classe des sciences mathématiques et physiques de l'Institut de France ; XIII-XIV. Mémoires divers. Tables. lire en ligne [archive].
+Mémoires sur le développement de l'anomalie vraie et du rayon vecteur elliptique, en séries ordonnées suivant les puissances de l'excentricité, dans Mémoires de l'Académie des sciences de l'Institut de France - Année 1823, Gauthier-Villars, Paris, 1827 (lire en ligne), sur Gallica [archive]
+Hommages, postérité
+L'astéroïde (4628) Laplace porte son nom41.
+Son nom est inscrit sur la Tour Eiffel.
+Le promontorium Laplace sur la Lune porte son nom.
+Depuis 1864, la rue Laplace dans le 5e arrondissement de Paris, près du Collège de France porte son nom.
+À Arcueil, la gare de Laplace du RER B porte son nom, ainsi qu'une rue et une avenue.
+De très nombreuses communes françaises ont également une rue qui porte son nom : Aix-en-Provence, Beaumont-en-Auge, Carentan-les-Marais, Colomiers, La Rochelle, Le Grand-Quevilly, Lisieux, Loudéac, Metz, Niort, Nogent-le-Phaye, Oignies, Perpignan, Perros-Guirec.
+Une avenue à Carnoux-en-Provence porte son nom.
+Un collège situé boulevard Winston Churchill à Lisieux porte son nom.
+Un lycée situé rue de la Délivrande à Caen porte son nom.
+Un collège à Berkane, au Maroc, porte son nom.
+Le Laplace, navire hydrographique (A 793) de la Marine nationale française, porte son nom.
+Un bâtiment du CNES porte son nom.
+Une plaque rappelle qu'il a habité au 108 de la rue du Bac à Paris.
+Un timbre vertical, à surtaxe de 30 Francs + 9 Francs, lui a été consacré en juin 1955.
+Une statue en bronze, réalisée par Robert Delandre, située au centre de la place de Verdun à Beaumont-en-Auge, le représente. Elle est inaugurée le 3 juillet 1932 par Louis Franchet d'Espèrey.
+Une statue en bronze, réalisée en 1847 par Jean-Auguste Barre, située dans la cour du palais des facultés de Caen, le représentait. Le 26 janvier 1942, sous le régime de Vichy, elle est déboulonnée dans le cadre de la mobilisation des métaux non ferreux, pour être fondue. Un groupe d'étudiants tente en vain d'empêcher son enlèvement et manifeste en suivant le véhicule qui l'emporte.
+Une statue en plâtre, réalisée par Jean-Auguste Barre, située au château de Versailles, le représente.
+
+Plaque au n°108 rue du Bac.
+
+
+
+Statue à Beaumont-en-Auge.
+
+
+
+Statue devant le palais des facultés de Caen.
+
+
+
+Statue au château de Versailles.
+
+Information Cliquez sur une vignette pour l’agrandir.
+
+Académicien
+Membre de l'Académie royale des sciences (4 avril 177340, pensionnaire de la chaire de mécanique en 1785) ;
+Membre de l'Institut des sciences et des arts (chaire de mathématiques le 20 novembre 179540, président en 1812)
+Membre de l'Académie française (21 mars 1816) ;
+Premier président de la Société de géographie lors de sa fondation (1821) ;
+Membre de l'Académie de Caen ;
+Membre de la Société philomathique de Paris ;
+En outre, il était membre ou correspondant de toutes les principales académies scientifiques d'Europe : Turin, Copenhague, Milan, Berlin20, etc.
+Titres
+Comte Laplace et de l'Empire (lettres patentes du 24 avril 1808, Bayonne) ;
+Pair de France42 :
+Pair « à vie » par l'ordonnance du 4 juin 1814,
+Titre de marquis-pair héréditaire le 31 août 1817, (lettres patentes du 20 décembre 181724, sans majorat).
+Distinctions
+Légion d'honneur43 :
+Légionnaire (9 vendémiaire an XII (2 octobre 1803)), puis,
+Grand officier (25 prairial an XII (14 juin 1804)), puis,
+Grand-croix de la Légion d'honneur (22 mai 1825)44 ;
+Grand-croix de l'ordre de la Réunion (3 avril 1813) ;
+Armoiries
+Figure	Blasonnement
+Orn ext comte sénateur de l'Empire GCOR.svgBlason famille fr Laplace.svg	Armes du comte Laplace et de l'Empire
+« D'azur, aux deux planètes de Jupiter & Saturne avec leurs satellites et anneau placés en ordre naturel, posés en fasce, d'argent ; une fleur à cinq branches d'or en chef. »45,24,46,47,48
+
+Livrées : brun, avec bordures blanc, jaune & noir45.
+Orn ext Marquis et pair GCLH.svgBlason famille fr Laplace.svg	Armes du marquis de Laplace, pair de France
+« D'azur, aux deux planètes de Jupiter et de Saturne avec leurs satellites et anneaux d'argent, placés en ordre naturel vers le bas de l'écu ; en chef à dextre un soleil d'or, et à sénestre une fleur à cinq branches du même. »49,42,23,47
+
+Notes et références
+Notes
+(it) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en italien intitulé « Pierre Simon Laplace » (voir la liste des auteurs).
+Institution tenue par les bénédictins de la congrégation de Saint-Maur et protégée par le duc d'Orléans.
+Bien qu'il fût d'abord professeur de théologie et de rhétorique, ses cours de physique étaient, paraît-il, éblouissants, bien que très espacés et peu fréquentés.
+C'est ainsi qu'il fit passer en septembre 1785 à l'École militaire supérieure de Paris l'examen de sortie du cadet Napoléon Bonaparte, alors âgé de 16 ans.
+Nommé le 26 décembre 1794.
+Ce n'est qu'en 1837, des années après la mort de Laplace, qu'elle devient officielle et définitive.
+« On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul : elle fait apprécier avec exactitude ce que les esprits justes sentent par une sorte d'instinct, sans qu'ils puissent souvent s'en rendre compte26. »
+Références
+« Théorie analytique des probabilités, par M. le Comte Laplace » [archive], Gallica.
+« Pierre-Simon Laplace, Essai philosophique sur les probabilités ». [archive]
+Pierre-Simon Laplace, Traité de mécanique céleste, Éditions Jacques Gabay, 1990. Réédition de l'ouvrage classique du début du xixe siècle, en 4 volumes. Niveau second cycle universitaire. Disponible en fac-similé sur Gallica [archive].
+« Biographie de Pierre-Simon de Laplace » [archive], sur le site de l'Académie française
+Areán Álvarez et Garnier 2018, p. 17-21/24
+Areán Álvarez et Garnier 2018, p. 26
+(en) John J. O'Connor et Edmund F. Robertson, « Pierre-Simon Laplace », dans MacTutor History of Mathematics archive, université de St Andrews (lire en ligne [archive]).
+Areán Álvarez et Garnier 2018, p. 36
+Max Gallo, Napoléon. Tome 1., Première partie. Chapitre 3.
+Jean François Solnon, 215 bourgeois gentilshommes au XVIIIe siècle: les secrétaires du roi à Besançon, Paris, Les Belles-Lettres, 1980, p. 315.
+Serge Sochon, Pierre-Simon de Laplace: un savant issu des lumières, Paris, Christian, p. 57.
+Histoire de la convergence cadastrale en France http://professionnels.ign.fr/rpcu#tab-2 [archive]
+Pierre-Simon Laplace, 1749-1827: A Life in Exact Science sur Google Livres
+Areán Álvarez et Garnier 2018, p. 91/93-95
+5 thermidor an III (23 juillet 1795) Arrêté du Comité de Salut public réintégrant Laplace dans ses fonctions d'examinateur de l'Artillerie. 6 prairial an IV (25 mai 1796) Arrêté du Directoire confirmant Laplace comme examinateur pour les élèves se destinant à l'Artillerie.
+Charles C. Gillispie (trad. Charles-Henri Pin), « L’École Polytechnique : Science et organisation politique en France, les années révolutionnaires et napoléoniennes, l'Ecole polytechnique », Bulletin de la Sabix, no 42,‎ 2008, p. 5-19 (DOI 10.4000/sabix.117).
+Areán Álvarez et Garnier 2018, p. 98-100
+(en) Eric Reyssat, « Publication du traité sur la Théorie Analytique des Probabilités par Pierre-Simon de Laplace : 1812 » [archive], sur FranceArchives, Service interministériel des archives de France (ISSN 2556-3521, consulté le 27 décembre 2021) citant Victor Hugo, Choses vues 1847-1848, Paris, Gallimard, 1972, 505 p. (ISBN 2-07-036047-4), p. 217.
+Essai philosophique sur les probabilités, Paris, Bachelier, 1840 (Wikisource), p. 4
+« Laplace (Pierre-Simon, marquis de) », dans Adolphe Robert et Gaston Cougny, Dictionnaire des parlementaires français, Edgar Bourloton, 1889-1891 [détail de l’édition]
+Areán Álvarez et Garnier 2018, p. 101-102
+Daniel Ligou, Dictionnaire de la franc-maçonnerie, Paris, Presses universitaires de France, 2017, 5e éd. (1re éd. 1986), 1 376 p. (ISBN 2-13-055094-0), « Laplace,Pierre Simon », p. 701 .
+Jean Baptiste Pierre Jullien de Courcelles, Histoire généalogique et héraldique des pairs de France : des grands dignitaires de la couronne, des principales familles nobles du royaume et des maisons princières de l'Europe, précédée de la généalogie de la maison de France, vol. 7, 1826 (lire en ligne [archive])
+Vicomte Albert Révérend (1844-1911), Armorial du Premier Empire : titres, majorats et armoiries concédés par Napoléon Ier, vol. 3, Paris, (4 vol. in 2) Au bureau de L'Annuaire de la noblesse, 1894 (lire en ligne [archive])
+(en) W. W. Rouse Ball, A Short Account of the History of Mathematics, 1908, 4e éd. (lire en ligne [archive]), « Pierre Simon Laplace (1749 - 1827) »
+Essai philosophique sur les probabilités, Paris, Bachelier, 1840 (Wikisource), p. 273
+Mémoires sur les approximations de formules qui sont fonctions de très grands nombres et sur leurs applications aux probabilités, Mémoires de l'Académie des Sciences de Paris, 1809, p. 353-415 et 559-565.
+(en) Stephen M. Stigler, The History of Statistics : The Measurement of Uncertainty before 1900, Harvard, Belknap Press of Harvard University Press, 1er mars 1990, 1re éd., 432 p. (ISBN 978-0674403413 et 067440341X), chap. 2 (« Probabilists and the measurement of uncertainty »).
+Essai philosophique sur les probabilités, Paris, Bachelier, 1840 (Wikisource), p. 133
+Hervé Faye, Sur l'origine du monde : théories cosmogoniques des anciens et des moderne, 1884 (lire en ligne [archive]), p. 109-111
+Félix Blanchet, « Étude sur Lucrèce », in Œuvres complètes de Lucrèce, Paris, 1861, p. 20.
+Walter William Rouse Ball, Histoire des mathématiques, Paris, Librairie Scientifique A . Hermann, 1906, p. 104-105.
+Leibnitz cité par Laplace dans la conclusion de son Exposition du Système du monde, Bruxelles, 1827 (6e édition), p. 524.
+Laplace, Exposition du Système du monde, Bruxelles, 1827 (6e édition), p. 523.
+Laplace, Exposition du Système du monde, Bruxelles, 1827 (6e édition), p. 522-523.
+Jean-Baptiste Dumas, Discours et éloges académiques, Paris, Gauthier-Villars, 1885, t. II, p. 255.
+Œuvres de Laplace, Paris, Gauthier-Villars, 1878, t.1, p. 5 et 6.
+La Quotidienne, n°66, 7 mars 1827, p. 2, col. 2. Cité dans Roger Hahn, Le système du monde : Pierre Simon Laplace, un itinéraire dans la science, Gallimard, 2004, 304 p. (lire en ligne [archive]), Note 58 p. 268.
+Roger Hahn, Le système du monde: Pierre Simon Laplace, un itinéraire dans la science, Gallimard, 2004, 304 p. (lire en ligne [archive]), p. 201.
+« Pierre Simon La Place » [archive], sur roglo.eu (consulté le 2 octobre 2011)
+(en) L. D. Schmadel, Dictionary of Minor Planet Names, 5th rev. ed., Berlin, Springer-Verlag, 2003 (ISBN 3-540-00238-3).
+François Velde, « Armory of the French Hereditary Peerage (1814-30) » [archive], Lay Peers, sur heraldica.org, 27 septembre 2005 (consulté le 18 juin 2011)
+« Cote LH/1477/83 » [archive], base Léonore, ministère français de la Culture
+Dictionnaire des grand-croix de la Légion d'honneur
+« BB/29/974 page 8. » [archive], Titre de comte accordé à Pierre, Simon Laplace. Bayonne (24 avril 1808)., sur chan.archivesnationales.culture.gouv.fr, Centre historique des Archives nationales (France) (consulté le 4 juin 2011)
+Nicolas Roret, Nouveau manuel complet du blason ou code héraldique, archéologique et historique : avec un armorial de l'Empire, une généalogie de la dynastie impériale des Bonaparte jusqu'à nos jours, etc., Encyclopédie Roret, 1854, 340 p. (lire en ligne [archive])
+Alcide Georgel, Armorial de l'Empire français : L'Institut, L'Université, Les Écoles publiques, 1870 (lire en ligne [archive])
+Source : www.heraldique-europeenne.org [archive]
+Jean-Baptiste Rietstap, Armorial général, t. 1 [archive] et 2 [archive], Gouda, G.B. van Goor zonen, 1884-1887
+Voir aussi
+Sur les autres projets Wikimedia :
+
+Pierre-Simon de Laplace, sur Wikimedia Commons
+Pierre-Simon de Laplace, sur Wikisource
+Bibliographie
+Document utilisé pour la rédaction de l’article : document utilisé comme source pour la rédaction de cet article.
+
+Luis Fernando Areán Álvarez et Philippe Garnier (trad.), La description mathématique de l'univers : Laplace, Barcelone, RBA Coleccionables, 2018, 165 p. (ISBN 978-84-473-9312-1). Ouvrage utilisé pour la rédaction de l'article
+(en) E. T. Bell, Men of Mathematics: The Lives and Achievements of the Great Mathematicians from Zeno to Poincaré, New York, Simon and Schuster, 1986, ch. 11.
+Jean Dhombres, Serge Sochon et Suzanne Debarbat, Pierre Simon de Laplace (1749-1827), Le parcours d'un savant: écolier normand, marquis, académicien, Hermann, 2012.
+(it) Mirella Fortino (a cura di), Il caso. Da Pierre-Simon Laplace a Emile Borel (1814-1914).
+Joseph Fourier, Éloge de M. le marquis de Laplace, prononcé dans la séance publique de l'Académie royale des sciences le 15 juin 1829, dans Mémoires de l'Académie des sciences de l'Institut de France, Gauthier-Villars ,Paris, 1831, tome 10, p. LXXXI-CII (lire en ligne) [archive]
+(en) Charles Coulston Gillispie, avec la collaboration de Robert Fox (en) et Ivor Grattan-Guinness, Pierre-Simon Laplace, 1749-1827: A Life in Exact Science, Princeton University Press, 1997 (ISBN 0-691-05027-9), aperçu sur Google Livres.
+L'auteur précise à la page xi que cet ouvrage est une réédition d'un article du volume XV du Dictionary of Scientific Biography paru en 1978 (article disponible en ligne ici [archive]) . Voir le compte rendu de l'ouvrage par George Barthélemy, « Charles Coulston Gillispie, Pierre-Simon Laplace, 1749-1827 : A life in exact science.With the collab. of Robert Fox and Ivor Grattan-Guinness (Princeton : Princeton Univ. Press, 1998) », Revue d'histoire des sciences, t. 53, no 2,‎ 2000, p. 314 (lire en ligne [archive]) et le mensuel 318 (1999) de la revue La Recherche [lire en ligne [archive]]
+Roger Hahn, Le Système du monde - Pierre Simon Laplace, un itinéraire dans la science, coll. « Bibliothèque des histoires », Gallimard, Paris, 2004 (ISBN 2-07-072936-2).
+Pierre-Simon Laplace, Essai philosophique sur les probabilités, Cambridge, Cambridge University Press, 2009, 288 p. (ISBN 978-1108001724)
+(en) Uta C. Merzbach et Carl B. Boyer, A History of Mathematics, Wiley, 2011, 3e éd. (1re éd. 1968) (ISBN 978-0-47063056-3, lire en ligne [archive]).
+Alphonse Rebière, Mathématiques et mathématiciens, 3e Paris, Nony & Cie, 1898.
+(it) Paolo Rossi (diretta da), Storia della scienza, vol. 2.
+Articles connexes
+Certitude
+Mécanique céleste
+Opérateur laplacien
+Potentiel gravitationnel
+Probabilité
+Bayésianisme
+Problème à N corps
+Transformation de Laplace
+Liste des membres de l'Académie royale des sciences
+Liste des membres de la noblesse d'Empire
+Armorial des comtes sénateurs de l'Empire
+Démon de Laplace
+Liens externes
+Notices d'autorité : Fichier d’autorité international virtuelInternational Standard Name IdentifierCiNiiBibliothèque nationale de France (données)Système universitaire de documentationBibliothèque du CongrèsGemeinsame NormdateiBibliothèque nationale de la DièteBibliothèque nationale d’EspagneBibliothèque royale des Pays-BasBibliothèque nationale de PologneBibliothèque nationale de PologneBibliothèque nationale d’IsraëlBibliothèque universitaire de PologneBibliothèque nationale de CatalogneBibliothèque nationale de SuèdeRéseau des bibliothèques de Suisse occidentaleBibliothèque apostolique vaticaneWorldCat
+Ressources relatives à la recherche : Biodiversity Heritage Library [archive]La France savante [archive]Isidore [archive]Persée [archive](en) Mathematics Genealogy Project [archive]
+Ressource relative à la littérature : Académie française (membres) [archive]
+Ressource relative à l'astronomie : (en) Biographical Encyclopedia of Astronomers [archive]
+Ressource relative à la santé : Bibliothèque interuniversitaire de santé [archive]
+Ressource relative à la bande dessinée : (en) Comic Vine [archive]
+Ressource relative aux beaux-arts : (en) British Museum [archive]
+Notices dans des dictionnaires ou encyclopédies généralistes : Brockhaus Enzyklopädie [archive]Deutsche Biographie [archive]Enciclopedia italiana [archive]Encyclopædia Britannica [archive]Encyclopædia Universalis [archive]Encyclopédie Treccani [archive]Gran Enciclopèdia Catalana [archive]Hrvatska Enciklopedija [archive]Swedish Nationalencyklopedin [archive]Store norske leksikon [archive]
+Académie des sciences : Les membres du passé dont le nom commence par L [archive]
+« Pierre Simon de Laplace, savant normand » [archive] [PDF], cahier des archives départementales du Calvados no 15 en téléchargement gratuit
+« Sur le mouvement d'un corps qui tombe d'une grande hauteur » (Laplace, 1803), en ligne et analysé sur BibNum [archive]
+La correspondance et les rapports des ministres de l'Intérieur (dont Laplace, 1799) au Secrétaire d'État sous Napoléon Ier [archive] sont conservées aux Archives nationales (France).
+ [afficher]
+Voir ce modèle.
+Pierre-Simon de Laplace
+ [afficher]
+Voir ce modèle.
+Fauteuil 8 de l’Académie française
+ [afficher]
+v · m
+◀ Composition de l'Académie française au jour de son élection (11 avril 1816) ▶
+ [afficher]
+v · m
+◀ Composition de l'Académie française au jour de sa mort (5 mars 1827) ▶
+icône décorative Portail de l’histoire des sciences icône décorative Portail de la géodésie et de la géophysique icône décorative Portail de l’astronomie icône décorative Portail des mathématiques icône décorative Portail de la physique icône décorative Portail du Premier Empire icône décorative Portail de l’Académie française icône décorative Portail de la franc-maçonnerie
+Catégories : Pierre-Simon de LaplacePhysicien français du XVIIIe sièclePhysicien français du XIXe siècleMathématicien français du XVIIIe siècleMathématicien français du XIXe siècleProbabilisteAstronome français du XVIIIe siècleAstronome français du XIXe sièclePair de France (Restauration)Grand-croix de la Légion d'honneurGrand-croix de l'ordre de la RéunionSavant dont le nom est inscrit sur la tour EiffelMembre de l'Académie des sciences (France)Membre de l'Académie françaiseMembre de l'Académie de CaenMembre de la Société philomathique de ParisMembre de la Société de géographieMembre de l'Académie royale des sciences de PrusseMinistre français de l'IntérieurMinistre pendant la Révolution françaiseMembre du Sénat conservateurScientifique anobliMarquis français du XIXe siècleComte de l'EmpirePhilosophe mécanistePersonnalité de la franc-maçonnerie initiée avant 1800Personnalité de la franc-maçonnerie françaiseÉtudiant de l'université de CaenEnseignant à l'École polytechniquePersonnalité liée à la région NormandieNaissance dans la province de NormandieNaissance en mars 1749Décès à ParisDécès en mars 1827Décès à 77 ansPersonnalité inhumée dans le CalvadosÉponyme d'un objet céleste[+]
+La dernière modification de cette page a été faite le 30 mars 2022 à 21:17.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialitéÀ propos de WikipédiaAvertissementsContactVersion mobileDéveloppeursStatistiquesDéclaration sur les témoins (cookies)Wikimedia FoundationPowered by MediaWiki

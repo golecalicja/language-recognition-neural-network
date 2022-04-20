@@ -1,0 +1,697 @@
+Aller au contenu
+Afficher / masquer la barre latérale
+
+Wikipédial'encyclopédie libre
+Rechercher sur Wikipédia
+Créer un compte
+
+Outils personnels
+
+ArticleDiscussion
+LireVoir le texte sourceVoir l’historique
+Accueil
+Portails thématiques
+Article au hasard
+Contact
+Contribuer
+Débuter sur Wikipédia
+Aide
+Communauté
+Modifications récentes
+Faire un don
+Outils
+Pages liées
+Suivi des pages liées
+Téléverser un fichier
+Pages spéciales
+Lien permanent
+Informations sur la page
+Citer cette page
+Élément Wikidata
+Modifier les liens interlangues
+Imprimer / exporter
+Créer un livre
+Télécharger comme PDF
+Version imprimable
+Dans d’autres projets
+Wikimedia Commons
+Wikinews
+Wikiquote
+Wikiversité
+Langues
+Sur cette version linguistique de Wikipédia, les liens interlangues sont placés en haut à droite du titre de l’article.
+Aller en haut.
+
+Jupiter (planète)
+Cette page est en semi-protection longue.
+Wikipédia:Articles de qualité
+Vous lisez un « article de qualité ».
+
+Page d’aide sur l’homonymie
+Pour les articles homonymes, voir Jupiter.
+
+Jupiter Jupiter : symbole astronomique
+Image illustrative de l’article Jupiter (planète)
+Jupiter vue par Voyager 2 en 1979
+(image retraitée en 1990 pour souligner les formations telles que la Grande Tache rouge).
+Caractéristiques orbitales
+Demi-grand axe	778 340 000 km
+(5,202 89 au)
+Aphélie	816 000 000 km
+(5,454 6 au)
+Périhélie	740 680 000 km
+(4,951 1 au)
+Circonférence orbitale	4 887 600 000 km
+(32,671 6 au)
+Excentricité	0,048 39
+Période de révolution	4 332,01 d
+(≈ 11,86 a)
+Période synodique	398,822 d
+Vitesse orbitale moyenne	13,058 5 km/s
+Vitesse orbitale maximale	13,714 km/s
+Vitesse orbitale minimale	12,448 km/s
+Inclinaison sur l’écliptique	1,304°
+Nœud ascendant	100,5°
+Argument du périhélie	274,255°
+Satellites connus	79
+Anneaux connus	3 principaux.
+Caractéristiques physiques
+Rayon équatorial	71 492 km
+(11,209 Terres)
+Rayon polaire	66 854 km
+(10,517 Terres)
+Rayon moyen
+volumétrique	69 911 km
+(10,973 Terres)
+Aplatissement	0,064 87
+Périmètre équatorial	449 197 km
+(11,21 Terres)
+Superficie	6,146 893 × 1010 km2
+(120,4-120,5 Terre)
+Volume	1,431 28 × 1015 km3
+(1 321,3 Terres)
+Masse	1,898 6 × 1027 kg
+(317,8 Terres)
+Masse volumique globale	1 326 kg/m3
+Gravité de surface	24,796 424 9 m/s2
+(2,358 g)
+Vitesse de libération	59,5 km/s
+Période de rotation
+(jour sidéral)	0,413 51 d
+(9 h 55 min 27,3 s)
+Vitesse de rotation
+(à l’équateur)	47 051 km/h
+Inclinaison de l’axe	3,12°
+Ascension droite du pôle nord	268,05°
+Déclinaison du pôle nord	64,49°
+Albédo géométrique visuel	0,538
+Albédo de Bond	0,503
+Irradiance solaire	50,50 W/m2
+(0,037 Terre)
+Température d’équilibre
+du corps noir	110,0 K (−163 °C)
+Température de surface
+• Température à 10 kPa	112 K (−161 °C)
+• Température à 100 kPa	165 K (−108 °C)
+Caractéristiques de l’atmosphère
+Masse volumique
+à 100 kPa	0,16 kg/m3
+Hauteur d'échelle	27 km
+Masse molaire moyenne	2,22 g/mol
+Dihydrogène (H2)	~86 %
+Hélium (He)	~13 %
+Méthane (CH4)	0,1 %
+Vapeur d'eau (H2O)	0,1 %
+Ammoniac (NH3)	0,02 %
+Éthane (C2H6)	0,0002 %
+Phosphine (PH3)	0,0001 %
+Sulfure d'hydrogène (H2S)	< 0,0001 %
+Histoire
+Divinité babylonienne	Marduk
+Divinité grecque	Ζεύς
+Nom chinois
+(élément associé)	Mùxīng 木星 (bois)
+modifier Consultez la documentation du modèle
+Jupiter est la cinquième planète du Système solaire par ordre d'éloignement au Soleil, et la plus grande par la taille et la masse devant Saturne, qui est comme elle une planète géante gazeuse. Elle est même plus volumineuse que toutes les autres planètes réunies avec son rayon moyen de 69 911 km, qui vaut environ onze fois celui de la Terre, et sa masse de 1,898 2 × 1027 kg, qui est 318 fois plus grande. Orbitant en moyenne à environ 779 millions de kilomètres du Soleil (5,2 unités astronomiques), sa période de révolution vaut un peu moins de 12 ans. La masse jovienne est par ailleurs une unité utilisée pour exprimer la masse d'objets substellaires tels que les naines brunes.
+
+Elle a une composition similaire au Soleil, constituée principalement d'hydrogène mais aussi d'hélium pour un quart de sa masse et un dixième de son volume. Elle possède probablement un noyau rocheux composé d'éléments plus lourds mais, comme les autres planètes géantes, Jupiter n'a pas de surface solide bien définie mais plutôt un vaste manteau d'hydrogène métallique ; de petites quantités de composés tels que l'ammoniac, le méthane et l'eau sont aussi détectables. Elle connaît toujours une contraction continue de son intérieur qui génère une chaleur supérieure à celle reçue du Soleil grâce au mécanisme de Kelvin-Helmholtz. Sa rapide période de rotation estimée à 9 h 55 min implique que la planète prend la forme d'un ellipsoïde de révolution avec un renflement léger autour de l'équateur et permet de générer un important champ magnétique donnant naissance à la magnétosphère de Jupiter, la plus puissante du Système solaire. Son atmosphère extérieure est visiblement séparée en plusieurs bandes de couleurs allant du crème au brun à différentes latitudes, avec des turbulences et des tempêtes dont les vents violents atteignent 600 km/h le long de leurs frontières interactives. La Grande Tache rouge, un anticyclone géant de taille comparable à la Terre observé depuis au moins le xviie siècle, en est un exemple.
+
+Regroupant Jupiter et les objets se trouvant dans sa sphère d'influence, le système jovien est une composante majeure du Système solaire externe. Il comprend d'abord les 79 lunes connues de Jupiter et notamment les quatre satellites galiléens — Io, Europe, Ganymède et Callisto — qui, observés pour la première fois en 1610 par Galilée au moyen de sa lunette astronomique, sont les premiers objets découverts par l'astronomie télescopique. Ganymède est notamment le plus grand satellite naturel du Système solaire, dont la taille dépasse celle de Mercure. Le système comprend aussi les anneaux de Jupiter, beaucoup plus fins que ceux de Saturne. L'influence de la planète s'étend ensuite, au-delà du système jovien, à de nombreux objets dont les astéroïdes troyens de Jupiter qui sont près de 10 000 à être stabilisés sur son orbite.
+
+Pioneer 10 est la première sonde spatiale à survoler Jupiter en 1973. La planète est ensuite explorée à plusieurs reprises par les sondes du programme Pioneer et du programme Voyager jusqu'en 1979. La sonde Galileo est mise en orbite autour de Jupiter entre 1995 et 2003 tandis que l'orbiteur Juno fait de même en 2016 et continuera sa mission jusqu'à au moins 2025. Les cibles futures de l'exploration du système jovien comprennent notamment le probable océan subglaciaire de la lune Europe, qui pourrait abriter la vie.
+
+Visible à l'œil nu dans le ciel nocturne et même habituellement le quatrième objet le plus brillant de la voûte céleste (après le Soleil, la Lune et Vénus), Jupiter est connue depuis la Préhistoire. Elle est officiellement nommée d'après le dieu romain Jupiter, assimilé au dieu grec Zeus, en raison de sa grande taille qui lui vaut d'être assimilée au roi des dieux par les Babyloniens, les Grecs et les Romains. Le symbole astronomique de la planète est d'ailleurs « ♃ », qui pourrait être une représentation stylisée de la foudre contrôlée par le dieu.
+
+
+Sommaire
+1	Caractéristiques physiques
+1.1	Composition chimique
+1.2	Masse et dimensions
+1.3	Renflement équatorial
+1.4	Structure interne
+1.5	Atmosphère
+1.6	Grande tache rouge et autres taches
+1.7	Magnétosphère
+1.8	Formation et migration
+1.9	Orbite
+1.10	Rotation
+2	Cortège de Jupiter
+2.1	Satellites naturels
+2.1.1	Satellites galiléens
+2.1.2	Classification
+2.2	Anneaux planétaires
+2.3	Interaction avec le Système solaire
+2.4	Astéroïdes troyens
+3	Observation
+3.1	Observation radioélectrique
+4	Histoire des observations
+4.1	Observations pré-télescopiques
+4.2	Observations télescopiques terrestres
+4.3	Exploration spatiale
+4.3.1	Survols
+4.3.2	Galileo
+4.3.3	Juno
+4.3.4	Projets abandonnés et missions futures
+5	Dans la culture
+5.1	Littérature
+5.2	Musique
+5.3	Cinéma
+5.4	Symbole
+6	Notes et références
+6.1	Notes
+6.2	Références
+7	Voir aussi
+7.1	Bibliographie
+7.2	Articles connexes
+7.3	Liens externes
+Caractéristiques physiques
+Jupiter est l'une des quatre planètes géantes gazeuses, étant principalement composée de gaz et dépourvue de réelle surface. C'est la plus grande planète du Système solaire, avec un diamètre équatorial de près de 143 000 km. La densité moyenne de Jupiter, 1,326 g/cm3, est la deuxième plus élevée des planètes géantes, mais reste inférieure à celles des quatre planètes telluriques1.
+
+Composition chimique
+La haute atmosphère de Jupiter est composée à 93 % d'hydrogène et 7 % d'hélium en nombre d'atomes, ou à 86 % de dihydrogène et 13 % d'hélium en nombre de molécules. Les atomes d'hélium étant plus massifs que les atomes d'hydrogène, l'atmosphère est donc approximativement constituée en masse de 75 % d'hydrogène et de 24 % d'hélium, le pourcentage restant étant apporté par divers autres éléments et composés chimiques (traces de méthane, de vapeur d'eau, d'ammoniac, très petites quantités de carbone, d'éthane, de sulfure d'hydrogène, de néon, d'oxygène, d'hydrure de phosphore et de soufre). La couche la plus externe de la haute atmosphère contient des cristaux d'ammoniac2,3.
+
+Par mesures infrarouges et ultraviolettes, des traces de benzène et d'autres hydrocarbures ont également été détectées4. L'intérieur de Jupiter contient des matériaux plus denses et la distribution par masse est de 71 % d'hydrogène, 24 % d'hélium et 5 % d'autres éléments.
+
+Les proportions d'hydrogène et d'hélium dans la haute atmosphère sont proches de la composition théorique de la nébuleuse planétaire qui aurait donné naissance au Système solaire. Néanmoins, le néon n'y est détecté qu'à hauteur de vingt parties par million en termes de masse, un dixième de ce qu'on trouve dans le Soleil5. L'hélium y est également en défaut, mais à un degré moindre. Cet appauvrissement pourrait résulter de la précipitation de ces éléments vers l'intérieur de la planète sous forme de pluie6,7,8. Les gaz inertes lourds sont deux à trois fois plus abondants dans l'atmosphère de Jupiter que dans le Soleil.
+
+Par spectroscopie, on pense que Saturne possède une composition similaire à Jupiter, mais qu'Uranus et Neptune sont constituées de beaucoup moins d'hydrogène et d'hélium9. Cependant, aucune sonde n'ayant pénétré l'atmosphère de ces géantes gazeuses, les données d'abondance des éléments plus lourds ne sont pas connues.
+
+Masse et dimensions
+
+En haut à droite, Jupiter a un diamètre dix fois plus petit (×0.10045) que celui du Soleil ; en bas à gauche, Jupiter a un diamètre onze fois plus grand (×10.9733) que celui de la Terre.
+Jupiter est 2,5 fois plus massive que toutes les autres planètes du Système solaire réunies, tellement massive que son barycentre avec le Soleil est situé à l'extérieur de ce dernier, à environ 1,068 rayon solaire du centre du Soleil10. Par ailleurs, son diamètre est un ordre de grandeur inférieur à celui du Soleil mais 11 fois plus grand que celui de la Terre (environ 143 000 km) et on pourrait placer environ 1 322 corps de la taille de cette dernière dans le volume occupé par la géante gazeuse1. En revanche, la densité de Jupiter n'est que le quart de celle de la Terre (0,240 fois, précisément) : elle n'est donc que 318 fois plus massive que cette dernière11,12.
+
+Si Jupiter était plus massive, son diamètre serait plus petit par compression gravitationnelle : l'intérieur de la planète serait plus comprimé par une plus grande force gravitationnelle, décroissant sa taille13. Par conséquent, Jupiter posséderait le diamètre maximal d'une planète de sa composition et de son histoire. Cette masse a eu une grande influence gravitationnelle sur la formation du Système solaire : la plupart des planètes et des comètes de courte période sont situées près de Jupiter et les lacunes de Kirkwood de la ceinture d'astéroïdes lui sont dues en grande partie14,15.
+
+La masse de Jupiter, ou masse jovienne, est souvent utilisée comme unité pour décrire les masses d'autres objets, en particulier les planètes extrasolaires et les naines brunes. La planète a parfois été décrite comme une « étoile ratée », mais il faudrait qu'elle possède 13 fois sa masse actuelle pour démarrer la fusion du deutérium et être cataloguée comme une naine brune et 70 à 80 fois pour devenir une étoile16,17. La plus petite naine rouge connue, en date de 2017, est 85 fois plus massive mais légèrement moins volumineuse que Jupiter (84 % de son rayon)18. Des exoplanètes beaucoup plus massives que Jupiter ont été découvertes19. Ces planètes pourraient être des géantes gazeuses semblables à Jupiter, mais pourraient appartenir à une autre classe de planètes, celle des Jupiter chauds, parce qu'elles sont très proches de leur étoile primaire.
+
+Jupiter rayonne plus d'énergie qu'elle n'en reçoit du Soleil. La quantité de chaleur produite à l'intérieur de la planète est presque égale à celle reçue du Soleil20. Le rayonnement additionnel est généré par le mécanisme de Kelvin-Helmholtz, par contraction adiabatique. Ce processus conduit la planète à rétrécir, la valeur ayant été auparavant évaluée à 2 cm chaque année21, bien que cette valeur ait été réduite par d'autres calculs à environ 1 mm/an grâce à de nouveaux calculs de chaleur interne et d'albédo de Bond à partir de mesures de la sonde Cassini22,23. Lorsque Jupiter s'est formée, elle était nettement plus chaude et son diamètre était double24.
+
+Renflement équatorial
+Jupiter montre un renflement équatorial important : le diamètre au niveau de l'équateur (142 984 km) est 6 % plus important que le diamètre au niveau des pôles (133 708 km). La plupart des planètes, y compris la Terre, possèdent ce genre d'aplatissement à des degrés divers, qui dépend de la vitesse de rotation de la planète, de sa composition interne plus ou moins solide et de la masse de son noyau. Plus un noyau est massif, moins le renflement est important, toutes choses étant égales par ailleurs.
+
+Ainsi, il est possible d'en tirer des enseignements sur la structure interne de Jupiter. Les trajectoires des sondes Voyager 1 et 2 ont été analysées, le renflement provoquant des déviations spécifiques des trajectoires. La caractérisation précise du renflement, ainsi que les données connues concernant la masse et le volume de Jupiter, montrent que cette planète doit posséder un noyau dense et massif, de l'ordre de 12 masses terrestres25.
+
+Structure interne
+
+Modèle en coupe de l'intérieur de Jupiter, un noyau rocheux est entouré d'hydrogène métallique.
+Les connaissances sur la composition planétaire de Jupiter sont relativement spéculatives et ne reposent que sur des mesures indirectes. Selon l'un des modèles proposés, Jupiter ne posséderait aucune surface solide, la densité et la pression augmentant progressivement vers le centre de la planète. Selon une autre hypothèse, Jupiter pourrait être composée d'un noyau rocheux (silicates et fer) comparativement petit (mais néanmoins de taille comparable à celle de la Terre, et de dix à quinze fois la masse de celle-ci)26,20, entouré d'hydrogène en phase métallique qui occupe 78 % du rayon de la planète20,27. Cet état serait liquide, à la manière du mercure. Il est dénommé ainsi car la pression est telle que les atomes d'hydrogène s'ionisent, formant un matériau conducteur. Cet hydrogène métallique serait lui-même entouré d'hydrogène liquide, à son tour entouré d'une fine couche d'hydrogène gazeux. Ainsi, Jupiter serait en fait une planète essentiellement liquide.
+
+Des expériences ayant montré que l'hydrogène ne change pas de phase brusquement (il se trouve bien au-delà du point critique), il n'y aurait pas de délimitation claire entre ces différentes phases, ni même de surface à proprement parler. Quelques centaines de kilomètres en dessous de la plus haute atmosphère, la pression provoquerait une condensation progressive de l'hydrogène sous forme d'un brouillard de plus en plus dense, qui formerait finalement une mer d'hydrogène liquide20,28,29. Entre 14 000 et 60 000 km de profondeur, l'hydrogène liquide céderait la place à l'hydrogène métallique de façon similaire. Des gouttelettes de démixtion, plus riches en hélium et néon se précipiteraient vers le bas à travers ces couches, appauvrissant ainsi la haute atmosphère en ces éléments. Cette immiscibilité, prévue théoriquement depuis les années 1970 et vérifiée expérimentalement en 2021, devrait affecter une épaisseur d'environ 15 % du rayon jovien. Elle pourrait expliquer le déficit de l'atmosphère jovienne en hélium et en néon, et l'excès de luminosité de Saturne30,31.
+
+Les énormes pressions générées par Jupiter entraînent les températures élevées à l'intérieur de la planète, par un phénomène de compression gravitationnelle (mécanisme de Kelvin-Helmholtz) qui se poursuit encore de nos jours, par une contraction résiduelle de la planète.
+
+Des résultats de 1997 du Laboratoire national de Lawrence Livermore indiquent qu'à l'intérieur de Jupiter, la transition de phase à l'hydrogène métallique se fait à une pression de 140 GPa (1,4 Mbar) et une température de 3 000 K32. La température à la frontière du noyau serait de l'ordre de 15 000 K et la pression à l'intérieur d'environ 3 000 à 4 500 GPa (30-45 Mbar)20, tandis que la température et la pression au centre de Jupiter seraient de l'ordre de 70 000 K et 70 Mbar, soit plus de dix fois plus chaudes que la surface du Soleil.
+
+La faible inclinaison de l'axe de Jupiter fait que ses pôles reçoivent bien moins d'énergie du Soleil que sa région équatoriale. Ceci causerait d'énormes mouvements de convection à l'intérieur des couches liquides et serait ainsi responsable des forts mouvements des nuages dans son atmosphère12.
+
+En mesurant précisément le champ gravitationnel de Jupiter, la sonde Juno a montré la présence d'éléments plus lourds que l'hélium répartis dans les couches internes entre le centre et la moitié du rayon de la planète, ce qui entre en contradiction avec les modèles de formation des planètes géantes. Ce phénomène pourrait s'expliquer par un ancien impact entre Jupiter et un astre d'une masse égale à environ dix fois celle de la Terre33.
+
+Atmosphère
+Article détaillé : Atmosphère de Jupiter.
+L'atmosphère jovienne comporte trois couches de nuages distinctes :
+
+la plus externe serait formée de nuages de glace d'ammoniac ;
+la suivante, de nuages d'hydrogénosulfure d'ammonium (NH4HS) ;
+la dernière de nuages d'eau et de glace20.
+La combinaison des nuages d'eau et de la chaleur provenant de l'intérieur de la planète est propice à la formation d'orages34. La foudre engendrée est jusqu'à 1 000 fois plus puissante que celle observée sur la Terre35.
+
+L'atmosphère externe de Jupiter subit une rotation différentielle, remarquée pour la première fois par Giovanni Domenico Cassini en 169020, qui a aussi estimé sa période de rotation36. La rotation de l'atmosphère polaire de Jupiter est d'environ 5 minutes plus longue que celle de l'atmosphère à la ligne équatoriale. De plus, des bancs de nuages circulent le long de certaines latitudes en direction opposée des vents dominants. Des vents d'une vitesse de 360 km/h y sont communs37. Ce système éolien serait causé par la chaleur interne de la planète. Les interactions entre ces systèmes circulatoires créent des orages et des turbulences locales, telles la Grande Tache rouge, un large ovale de près de 12 000 km sur 25 000 km d'une grande stabilité, puisque déjà observé avec certitude depuis au moins 183138 et possiblement depuis 166539. D'autres taches plus petites ont été observées depuis le xxe siècle40,41,42.
+
+La couche la plus externe de l'atmosphère de Jupiter contient des cristaux de glace d'ammoniac. Les couleurs observées dans les nuages proviendraient des éléments présents en quantité infime dans l'atmosphère, sans que les détails soient là non plus connus. Les zones de nuages varient d'année en année en termes de largeur, couleur et intensité, mais sont toutefois assez stables pour que les astronomes leur assignent des noms12.
+
+D'après une étude américaine de 2013, dirigée par Mona Delitsky du California Speciality Engineering et Kevin Baines de l'Université du Wisconsin à Madison, des diamants se formeraient dans l'atmosphère de Jupiter et de Saturne à partir du méthane atmosphérique. Cette étude rejoint toutes celles suggérant la production hypothétique de diamants dans les planètes gazeuses massives mais, leur observation étant absente, elles restent purement théoriques43. En 2017 de nouvelles expériences simulant les conditions présumées régner 10 000 km sous la surface d'Uranus et de Neptune viennent conforter ce modèle en produisant des diamants de taille nanométrique. Ces température et pression extrêmes ne peuvent pas être maintenues plus d'une nanoseconde en laboratoire, mais elles sont atteintes dans les profondeurs de Neptune ou d'Uranus, où des nanodiamants pourraient se former44.
+
+
+Mosaïque de Jupiter en vraies couleurs réalisée à partir de photographies prises par la sonde Cassini le 29 décembre 2000 à 5 h 30 UTC.
+
+
+
+Mouvement de l'atmosphère de Jupiter (depuis Voyager 1, avec une image par jour jovien, entre le 6 janvier et le 3 février 1979).
+
+
+
+Nuages dans l'hémisphère nord de Jupiter, photographiés par Juno en octobre 2017, à une altitude de 18 906 km.
+
+Grande tache rouge et autres taches
+Article détaillé : Grande Tache rouge.
+
+La Grande Tache rouge prise par Voyager 1, en fausses couleurs.
+
+La Grande Tache rouge.
+La tache rouge ainsi que les turbulences dans l'hémisphère sud.
+Jupiter et différentes taches, prises par Juno (sonde spatiale). Février 2019.
+La Grande Tache rouge est une tempête anticyclonique persistante située à 22° au sud de l'équateur de Jupiter. Son existence est connue depuis au moins 1831 et peut-être depuis 1665. Des modèles mathématiques suggèrent que la tempête est stable, et est une caractéristique permanente de la planète45. Elle est suffisamment grande pour être visible au travers de télescopes depuis la Terre.
+
+La Grande Tache rouge présente une forme ovale, de 24 à 40 000 km de long sur 12 000 km de large, suffisamment grande pour contenir deux ou trois planètes de la taille de la Terre46. L'altitude maximale de la tempête est située à environ 8 km au-dessus du sommet des nuages environnants. Elle tourne sur elle-même dans le sens contraire des aiguilles d'une montre, avec une période d'environ 6 jours47 ; les vents soufflent à plus de 400 km/h sur ses bords48.
+
+Des tempêtes de ce genre ne sont pas inhabituelles dans l'atmosphère des géantes gazeuses. Jupiter possède également des ovales blancs et bruns de plus petite taille. Les ovales blancs sont plutôt constitués de nuages relativement froids à l'intérieur de la haute atmosphère. Les ovales bruns sont plus chauds et situés à l'intérieur de la couche nuageuse habituelle. De telles tempêtes peuvent exister pendant des heures ou des siècles49.
+
+La Grande Tache rouge est entourée d'un ensemble complexe d'ondes de turbulence qui peuvent donner naissance à un ou plusieurs petits anticyclones satellites. Restant à une distance stable de l'équateur, elle possède une période de rotation propre, légèrement différente du reste de l'atmosphère avoisinante, parfois plus lente, d'autres fois plus rapide : depuis l'époque où elle est connue, elle a fait plusieurs fois le tour de Jupiter par rapport à son environnement proche.
+
+En l'an 2000, une autre tache s'est formée dans l'hémisphère sud, similaire en apparence à la Grande Tache rouge, mais plus petite. Elle a été créée par la fusion de plusieurs tempêtes ovales blanches plus petites (observées pour la première fois en 1938). La tache résultante, nommée Oval BA et surnommée Red Spot Junior (Petite Tache rouge en anglais, par rapport à la grande appelée Great Red Spot), a depuis accru son intensité et est passée du blanc au rouge40,50,42.
+
+Magnétosphère
+Article détaillé : Magnétosphère de Jupiter.
+
+Une représentation d'artiste du concept de magnétosphère :
+1 : Onde de choc
+2 : Magnétogaine
+3 : Magnétopause
+4 : Magnétosphère
+5 : Lobe de magnéto-queue boréale
+6 : Lobe de magnéto-queue australe
+7 : Tore de plasma de Io
+
+Tore de plasma de Io (en rouge), tube de flux (en vert) et les lignes du champ magnétique (en bleu)
+Jupiter possède un champ magnétique, 14 fois plus puissant que celui de la Terre, allant de 4,2 G à l'équateur à 10 à 14 G aux pôles, ce qui en fait le plus intense du Système solaire (à l'exception des taches solaires)11. Les données transmises par la sonde Juno font état d'un champ magnétique global de 7,776 G, soit près de deux fois plus intense que le champ précédemment estimé51. Il proviendrait des mouvements de la couche très conductive d'hydrogène métallique qui, par sa rotation rapide (Jupiter fait un tour sur elle-même en moins de dix heures), agit comme une immense dynamo. La magnétosphère de la planète correspond à la région où le champ magnétique de Jupiter est prépondérant sur toute autre force52.
+
+La magnétosphère possède une forme globale semblable à une goutte d'eau très distendue. La partie incurvée fait toujours face au Soleil et dévie le vent solaire, provoquant un arc de choc à environ 75 rayons de la planète (3 millions de km). À l'opposé de Jupiter et du Soleil, une immense magnéto-queue s'étend par-delà l'orbite de Saturne, sur une distance de 650 millions de km, soit presque la distance entre Jupiter et le Soleil53. Vu de la Terre, la magnétosphère apparaît cinq fois plus grande que la pleine Lune, malgré la distance. La magnétosphère est entourée d'une magnétopause, située sur le bord interne d'une magnétogaine où le champ magnétique de la planète décroît et se désorganise. Les quatre lunes principales de Jupiter sont à l'intérieur de la magnétosphère et donc protégées des vents solaires20.
+
+La magnétosphère de Jupiter est à l'origine de deux structures spectaculaires : le tore de plasma de Io, et le tube de flux de Io. Le différentiel de vitesse entre le champ magnétique en rotation rapide de Jupiter (un tour en 10 heures environ) et la rotation plus lente de Io autour de Jupiter (un tour en 40 heures) arrache de l’atmosphère de Io (ainsi que d'Europe, dans une moindre mesure) environ une tonne d'ions de soufre et d'oxygène par seconde et accélère ces ions à grande vitesse, de sorte qu'ils effectuent également un tour de Jupiter en dix heures. Ces ions forment un gigantesque tore autour de Jupiter, dont le diamètre équivaut au diamètre de Jupiter elle-même. L'interaction du tore avec Io génère une différence de potentiel de 400 000 volts avec la surface de Jupiter, produisant un puissant courant de plusieurs millions d'ampères qui circule entre Io et les pôles de Jupiter, formant un tube de flux suivant les lignes de champ magnétique54. Ce phénomène produit une puissance de l'ordre de 2,5 térawatt54.
+
+La situation d'Io, à l'intérieur d'une des plus intenses ceintures de rayonnement de Jupiter, a interdit un survol prolongé du satellite par la sonde Galileo qui a dû se contenter de 6 survols rapides de la lune galiléenne entre 1999 et 2002, en se gardant de pénétrer au sein du tore de particules englobant l'orbite du satellite, particules qui auraient été fatales au fonctionnement de la sonde55,56.
+
+Des particules d'hydrogène de l'atmosphère jovienne sont également capturées dans la magnétosphère. Les électrons de la magnétosphère provoquent un intense rayonnement radio dans une large gamme de fréquence (de quelques kilohertz à 40 MHz57). Lorsque la trajectoire de la Terre intercepte ce cône d'émissions radio, celles-ci dépassent les émissions radio en provenance du Soleil58.
+
+La magnétosphère jovienne permet la formation d'impressionnantes aurores polaires. Les lignes de champ magnétique entraînent des particules à très haute énergie vers les régions polaires de Jupiter. L'intensité du champ magnétique est 10 fois supérieure à celui de la Terre et en transporte 20 000 fois l'énergie.
+
+Formation et migration
+Jupiter est très probablement la plus ancienne planète du Système solaire59. Les modèles actuels au sujet de la formation du Système solaire suggèrent que Jupiter s'est formé au niveau ou au-delà de la ligne des glaces, c'est-à-dire à une distance du proto-Soleil où la température est suffisamment froide pour que des substances volatiles comme l'eau se condensent en solides60. En conséquence, le noyau planétaire a dû se former avant que la nébuleuse solaire ne commence à se dissiper, après environ 10 millions d'années. Les modèles de formation suggèrent que Jupiter a atteint 20 fois la masse terrestre en moins d'un million d'années. La masse en orbite crée un vide dans le disque, puis augmente lentement jusqu'à 50 masses terrestres en 3 à 4 millions d'années59.
+
+Selon l'hypothèse du Grand Tack, Jupiter aurait commencé à se former à une distance d'environ 3,5 UA. Au fur et à mesure que la jeune planète accrète de la masse, l'interaction avec le disque de gaz orbitant autour du Soleil et les résonances orbitales avec Saturne la font migrer vers l'intérieur, ce qui aurait perturbé les orbites de ce que l'on pense être des proto-planètes orbitant plus près du Soleil et provoqué des collisions destructrices entre elles60,61. Saturne aurait ensuite commencé à migrer également vers l'intérieur, beaucoup plus rapidement que Jupiter, ce qui aurait conduit les deux planètes à se verrouiller dans une résonance de mouvement moyen 3:2 à environ 1,5 UA. Cela aurait ensuite modifié la direction de la migration en s'éloignant du Soleil jusqu'à près de leurs orbites actuelles62. Ces migrations se seraient produites sur une période de 800 000 ans environ 3 millions d'années après la formation de la planète61,63. Ce départ aurait permis la formation des planètes intérieures à partir des décombres, y compris la Terre64.
+
+Cependant, les échelles de temps de formation des planètes terrestres résultant de l'hypothèse du Grand Tack semblent incompatibles avec la composition terrestre mesurée65. De plus, la probabilité que la migration vers l'extérieur se soit réellement produite dans la nébuleuse solaire est très faible66. Certains autres modèles prédisent par ailleurs la formation d'analogues de Jupiter dont les propriétés sont proches de celles de la planète à l'époque actuelle67. La formation de Jupiter aurait également pu avoir lieu à une distance beaucoup plus grande, comme 18 UA68,69. Saturne, Uranus et Neptune se seraient formées encore plus loin que Jupiter, et Saturne aurait également migré vers l'intérieur.
+
+Orbite
+
+Jupiter (rouge) complète son orbite autour du Soleil (centre) chaque 11,86 orbites de la Terre (bleue).
+La distance moyenne entre Jupiter et le Soleil est de 778 300 000 km (environ 5,2 fois la distance moyenne entre la Terre et le Soleil) et la planète boucle une orbite en 11,86 ans. L'orbite de Jupiter est inclinée de 1,31° par rapport à celle de la Terre. Du fait d'une excentricité de 0,048, la distance entre Jupiter et le Soleil varie de 75 000 000 km entre le périhélie et l'aphélie1,70.
+
+Jupiter était au périhélie le 17 mars 201171 et à l'aphélie le 17 février 201772.
+
+Rotation
+L'inclinaison de l'axe de Jupiter est relativement faible : seulement 3,13°. En conséquence, la planète n'a pas de changements saisonniers significatifs73.
+
+La rotation de Jupiter est la plus rapide du Système solaire : la planète effectue une rotation sur son axe en un peu moins de 10 h ; cette rotation produit une accélération centrifuge à l'équateur, y conduisant à une accélération nette de 23,12 m/s2 (la gravité de surface à l'équateur est de 24,79 m/s2). La planète a ainsi une forme oblate, renflée à l'équateur et aplatie aux pôles, un effet facilement perceptible depuis la Terre à l'aide d'un télescope amateur. Le diamètre équatorial est 9 275 km plus long que le diamètre polaire29.
+
+Jupiter n'étant pas un corps solide, sa haute atmosphère subit un processus de rotation différentielle. La rotation de la haute atmosphère jovienne est environ 5 minutes plus longue aux pôles qu'à l'équateur. En conséquence, trois systèmes sont utilisés comme référentiel, particulièrement pour tracer les mouvements de caractéristiques atmosphériques. Le premier système concerne les latitudes entre 10° N et 10° S, le plus court, avec une période de 9 h 50 min 30 s. Le deuxième système s'applique aux latitudes au nord et au sud de cette bande, d'une période de 9 h 55 min 40,6 s. Le troisième système fut initialement défini par les radio-astronomes et correspond à la rotation de la magnétosphère de la planète : sa période est la période « officielle », 9 h 55 min 30 s74.
+
+Cortège de Jupiter
+Satellites naturels
+Article détaillé : Satellites naturels de Jupiter.
+En 2021, 79 satellites naturels de Jupiter sont confirmés, 50 parmi eux étant nommés et les 29 autres ayant une désignation provisoire75,76. C'est le deuxième plus grand nombre de satellites naturels autour d'une planète du Système solaire, après les 82 satellites naturels de Saturne77. Quatre sont de très grands satellites, connus depuis plusieurs siècles, et regroupés sous la dénomination de « lunes galiléennes » : Io, Europe, Ganymède et Callisto78. Les autres satellites sont nettement plus petits et tous irréguliers :12 font plus de 10 km de diamètre, 26 entre 3 et 10 km de diamètre et 24 autres entre 1 et 2 km de diamètre.
+
+Parmi les lunes de Jupiter, huit sont des satellites réguliers avec des orbites progrades et presque circulaires qui ne sont pas très inclinées par rapport au plan équatorial de Jupiter. Quatre d'entre eux sont les satellites galiléens tandis que les autres satellites réguliers sont beaucoup plus petits et plus proches de Jupiter, servant de sources pour la poussière qui compose les anneaux de Jupiter. Le reste des lunes de Jupiter sont des satellites irréguliers dont les orbites progrades ou rétrogrades sont beaucoup plus éloignées de Jupiter et présentent des inclinaisons et des excentricités élevées. Ces lunes ont probablement été capturées par Jupiter.
+
+Les 16 principaux satellites sont nommés d'après les conquêtes amoureuses de Zeus, l'équivalent grec du dieu romain Jupiter.
+
+Satellites galiléens
+Article détaillé : Satellites galiléens.
+Deux images juxtaposées avec Jupiter en fond. Sur Jupiter et devant la planète on observe des ombres et les formes des lunes.
+Photos d'Hubble d'un triple transit devant Jupiter par Europe, Callisto et Io le 24 janvier 201579.
+Les satellites galiléens, ou lunes galiléennes, sont les quatre plus grands satellites naturels de Jupiter. Par ordre d'éloignement à la planète, il s'agit de Io, Europe, Ganymède et Callisto. Ils sont observés pour la première fois par Galilée en janvier 1610 grâce à l'amélioration de sa lunette astronomique et leur découverte est publiée dans Sidereus nuncius en mars 1610. Ils sont alors les premiers satellites naturels découverts en orbite autour d'une autre planète que la Terre, ceci remettant grandement en cause le modèle géocentrique défendu par de nombreux astronomes de l'époque et prouvant l'existence d'objets célestes invisibles à l'œil nu.
+
+Si Galilée les nomme initialement Medicea Sidera (en français : « étoiles médicéennes ») en l'honneur de la maison de Médicis, les noms qui entrent dans la postérité sont ceux choisis par Simon Marius — qui revendiquait par ailleurs la paternité de la découverte des lunes — d'après une suggestion de Johannes Kepler. Ces dénominations correspondent à des personnages de la mythologie grecque, maîtresses et amants de Zeus (Jupiter dans la mythologie romaine), soit respectivement Io, une prêtresse d'Héra et fille d'Inachos ; Europe, fille d'Agénor ; Ganymède, échanson des dieux ; et Callisto, une nymphe d'Artémis.
+
+Trois points représentant les lunes orbitent autour d'un autre, plus gros. Les orbites des lunes sont synchronisées et clignottent lorsqu'elles se trouvent à la même position sur leur orbite respective.
+Animation de la résonance de Laplace de Io, Europe et Ganymède.
+Ces satellites sont parmi les plus grands objets du Système solaire à l'exception du Soleil et des huit planètes, tous étant plus grands que les planètes naines. En particulier, Ganymède est avec ses 5 262 km de diamètre la lune la plus grande et la plus massive du Système solaire, dépassant en taille la planète Mercure. Callisto, 4 821 km de diamètre, est à peu de chose près aussi grand que Mercure. Io et Europe ont une taille similaire à celle de la Lune. Représentant 99,997 % de la masse en orbite autour de Jupiter, elles restent les seules lunes connues de la planète pendant près de trois siècles jusqu'à la découverte en 1892 de la cinquième plus grande, Amalthée, dont le diamètre est bien plus faible avec 262 km pour sa plus grande dimension. Ce sont également les seules lunes de Jupiter suffisamment massives pour être sphériques.
+
+Par ailleurs, les trois lunes intérieures, Io, Europe et Ganymède, sont le seul exemple connu de résonance de Laplace : les trois corps sont en résonance orbitale 4:2:1. Ainsi, quand Ganymède tourne une fois autour de Jupiter, Europe tourne exactement deux fois et Io quatre fois. En conséquence, les orbites de ces lunes sont déformées elliptiquement, chacune d'elles recevant en chaque point de son orbite une de la part des deux autres. En revanche, les forces de marées de Jupiter tendent à rendre leurs orbites circulaires80. Ces deux forces déforment chacune de ces trois lunes quand elles s'approchent de la planète, provoquant un réchauffement de leur noyau. En particulier, Io présente une activité volcanique intense et Europe un remodelage constant de sa surface.
+
+Comparaison côte à côte des quatre lunes à différentes échelles sous forme de quadrillage.
+Structures de surface des quatre lunes avec différents niveaux d'agrandissement.
+Classification
+Avant la mission Voyager, les lunes de Jupiter étaient parfaitement classées en quatre groupes de quatre, sur la base de leurs éléments orbitaux. Depuis lors, les découvertes de nouvelles lunes de petite taille sont venues contredire cette classification. On considère maintenant qu'il existe six groupes principaux, certains groupes étant plus particularisés que d'autres.
+
+Une subdivision de base consiste à regrouper les huit satellites intérieurs, de tailles très diverses mais possédant des orbites circulaires très faiblement inclinées par rapport à l'équateur de Jupiter, et dont la recherche pense qu'ils se sont formés en même temps que la géante gazeuse. Cet ensemble peut être subdivisé en deux sous-groupes :
+
+le groupe interne n'a été découvert que par la mission Voyager, à l'exception d'Amalthée. Tous ces satellites ont un diamètre de moins de 200 km et orbitent à moins de 200 000 km du centre de Jupiter, sur des orbites à peine inclinées, moins d'un demi-degré. Il s'agit du groupe d'Amalthée, lequel se compose de Métis, Adrastée, Amalthée et Thébé ;
+les quatre satellites galiléens ont été découverts par Galilée en 1610. Ils sont parmi les plus grosses lunes du Système solaire. Ils orbitent entre 400 000 km et 2 000 000 km : Io, Europe, Ganymède et Callisto.
+Les autres lunes forment un ensemble d'objets irréguliers placés sur des orbites elliptiques et inclinées, probablement des astéroïdes ou des fragments d'astéroïdes capturés. Il est possible de distinguer quatre groupes, sur la base d'éléments orbitaux similaires, dont la recherche pense que les éléments partagent une origine commune, peut-être un objet plus grand qui s'est fragmenté81 :
+
+la petite lune Thémisto forme un groupe à elle seule ;
+le groupe d'Himalia, découvert au xxe siècle avant les sondes Voyager, comprend cinq lunes de 170 km de diamètre ou moins, orbitant entre 11 000 000 et 13 000 000 km sur des orbites inclinées de 26° à 29° : Léda, Himalia, Lysithéa, Élara et S/2000 J 11 ;
+la petite lune Carpo forme un autre groupe isolé, aux caractéristiques intermédiaires entre le groupe d'Himalia et celui de Pasiphaé ;
+trois groupes externes, sur des orbites rétrogrades. Les plus gros satellites sont Ananké, Carmé, Pasiphaé et Sinopé, mais beaucoup de lunes minuscules ont été découvertes récemment dans cette zone. En mai 2007, 48 représentants sont connus :
+le groupe d'Ananké, aux limites indistinctes, orbitant vers 21 276 000 km suivant une inclinaison de 149°,
+le groupe de Carmé, un groupe assez distinct situé vers 23 404 000 km avec une inclinaison de 165°,
+le groupe de Pasiphaé, un groupe dispersé et assez lâche regroupant toutes les autres lunes. Il présente des satellites de 60 km de diamètre ou moins, orbitant entre 17 000 000 km et 30 000 000 km sur des orbites rétrogrades inclinées de 145° à 165°.
+Anneaux planétaires
+Article détaillé : Anneaux de Jupiter.
+
+Schéma des anneaux de Jupiter par rapport aux orbites de certaines de ses lunes.
+Jupiter possède plusieurs anneaux planétaires, très fins, composés de particules de poussières continuellement arrachées aux lunes les plus proches de la planète lors de micro-impacts météoriques du fait de l'intense champ gravitationnel de la planète82. Ces anneaux sont en fait tellement fins et sombres qu'ils ne furent découverts que lorsque la sonde Voyager 1 s'approcha de la planète en 1979. Du plus près au plus lointain du centre de la planète, les anneaux sont regroupés en trois grandes sections83 :
+
+le halo : entre 92 000 km et 122 500 km du centre de la planète ; le halo est un anneau en forme de tore, élargi par le champ magnétique de Jupiter ;
+l'anneau principal : entre 122 500 km et 128 940 km du centre de Jupiter et épais de seulement 30 km ; il est probablement composé de poussières provenant des satellites Adrastée et Métis ;
+l'anneau gossamer : entre 128 940 km et 280 000 km du centre. Avant 181 350 km, il est constitué de poussières provenant d'Amalthée82. Après, elles proviennent de Thébé. Cet anneau est très peu dense (gossamer signifie « gaze » en anglais), nettement plus épais que le précédent (plusieurs milliers de kilomètres) et s'évanouit progressivement dans le milieu interplanétaire.
+Ces anneaux sont constitués de poussières et non de glace comme c'est le cas des anneaux de Saturne20. Ils sont également extrêmement sombres, avec un albédo de l'ordre de 0,05.
+
+Il existe également un anneau externe extrêmement ténu et distant qui tourne autour de Jupiter en sens rétrograde. Son origine est incertaine mais pourrait provenir de poussière interplanétaire capturée84.
+
+Interaction avec le Système solaire
+
+Diagramme des astéroïdes troyens dans l'orbite de Jupiter, ainsi que de la ceinture d'astéroïdes.
+Avec celle du Soleil, l'influence gravitationnelle de Jupiter a modelé le Système solaire. Les orbites de la plupart des planètes sont plus proches du plan orbital de Jupiter que du plan équatorial du Soleil (Mercure est la seule qui fasse exception). Les lacunes de Kirkwood dans la ceinture d'astéroïdes sont probablement dues à Jupiter et il est possible que la planète soit responsable du grand bombardement tardif que les planètes internes ont connu à un moment de leur histoire85.
+
+La majorité des comètes de courte période possèdent un demi-grand axe plus petit que celui de Jupiter. On suppose que ces comètes se sont formées dans la ceinture de Kuiper au-delà de l'orbite de Neptune. Lors d'approches de Jupiter, leur orbite aurait été perturbée vers une période plus courte, puis rendue circulaire par interaction gravitationnelle régulière du Soleil et de Jupiter. Par ailleurs, Jupiter est la planète qui reçoit le plus fréquemment des impacts cométaires86. C'est en grande partie dû à son puits gravitationnel, ce qui lui vaut le surnom « d'aspirateur du Système solaire ». L'idée répandue selon laquelle Jupiter "protège" de cette manière les autres planètes est cependant très discutable, dans la mesure où sa force gravitationnelle dévie aussi des objets vers les planètes qu'elle serait censée protéger87.
+
+Astéroïdes troyens
+En plus de ses lunes, le champ gravitationnel de Jupiter maintient un grand nombre d'astéroïdes situés aux alentours des points de Lagrange L4 et L5 de l'orbite de Jupiter88. Il s'agit de petits corps célestes qui ont la même orbite mais sont situés à 60° en avance ou en retard par rapport à Jupiter. Connus sous le nom d'astéroïdes troyens, le premier d'entre eux (588) Achille a été découvert en 1906 par Max Wolf ; depuis, des centaines d'autres troyens ont été découverts, le plus grand étant (624) Hector.
+
+Observation
+
+Jupiter, avec le transit et l'ombre de la lune Io ainsi que la Grande Tache rouge. Prise de vue depuis un télescope amateur 203/1000
+
+Flash lumineux causé par l'impact d'un corps céleste le 10 septembre 2012 à 11:35:30, temps universel.
+À l'œil nu, Jupiter a l'aspect d'un astre blanc très brillant, puisque son albédo élevé lui confère un éclat de magnitude de −2,7 en moyenne à l'opposition, avec un maximum de −2,941. Son diamètre apparent varie de 29,8 à 50,1 secondes d'arc tandis que sa distance à la Terre varie de 968,1 à 588,5 millions de kilomètres1. Le fait que sa lumière ne scintille pas indique qu'il s'agit d'une planète. Jupiter est plus brillant que toutes les étoiles et a un aspect similaire à celui de Vénus ; cependant celle-ci ne se voit que quelque temps avant le lever du Soleil ou quelque temps après son coucher et est l'astre le plus éclatant du ciel après le Soleil et la Lune89.
+
+
+Jupiter et ses satellites.
+
+Mouvement apparemment rétrograde de la planète, causé par sa position par rapport à la Terre.
+La planète est souvent considérée comme intéressante à observer du fait qu'elle dévoile nombre de détails dans une petite lunette. Comme l'a fait Galilée en 1610, on peut découvrir quatre petits points blancs qui sont les satellites galiléens90. Du fait qu'ils tournent tous assez vite autour de la planète, il est aisé de suivre leurs révolutions : on constate que, d'une nuit à l'autre, Io fait presque un tour complet. On peut les voir passer dans l'ombre de la planète puis réapparaître.
+
+C'est en observant ce mouvement que Roëmer a montré que la lumière voyageait à une vitesse finie. On peut aussi observer la structure des couches gazeuses supérieures de la planète géante, visibles avec un télescope de 60 mm91.
+
+Un télescope de 25 cm permet d'observer la Grande Tache rouge (il est aussi possible de l'observer dans une petite lunette de 60 mm si les conditions de turbulence atmosphérique sont bonnes) et un télescope de 50 cm, bien que moins accessible pour les amateurs, permet d'en découvrir davantage de nuances92.
+
+Le meilleur moment pour observer Jupiter est quand elle est à l'opposition. Jupiter a atteint le périhélie en mars 2001 ; l'opposition de septembre 2010 était donc favorable à son observation93. Grâce à sa rapide rotation, toute la surface de Jupiter est observable en 5 h91.
+
+Un astéroïde (ou une comète) s’est écrasé sur la surface de la planète, en produisant un flash lumineux, qui a été repéré par Dan Petersen de Racine, dans le Wisconsin (USA) et filmé par George Hall, de Dallas, à 11:35:30, temps universel, le 10 septembre 201294, et un autre le 13 septembre 2021, à 22h39 T.U., qui a également été filmé95.
+
+C’est la huitième fois depuis l'an 2000 que l’on voit un objet s'écraser sur Jupiter en plus de celui de la comète Shoemaker-Levy 9, en 199494.
+
+Observation radioélectrique
+Article détaillé : Radioastronomie.
+
+Antenne-dipôle de radiotélescope. Radioastronomie amateur.
+Avec un simple récepteur radio d'ondes courtes dans la bande des 13 mètres, et avec comme antenne un fil électrique de 3,5 mètres ou, mieux encore, avec une antenne-dipôle horizontale de deux éléments de 3,5 mètres, il est simple d'intercepter le bruit radio-électromagnétique de la planète Jupiter en AM, sur la fréquence de 21,86 MHz96, donnant le bruit de petites vagues rapides écoutées sur haut-parleur97.
+
+La radioastronomie poussée de Jupiter est réalisée avec du matériel professionnel de réception, dans les bandes radios dédiées98.
+
+Histoire des observations
+Observations pré-télescopiques
+Jupiter est visible à l'œil nu la nuit et est connue depuis l'Antiquité. Pour les Babyloniens, elle représentait le dieu Marduk ; ils utilisèrent les douze années de l'orbite jovienne le long de l'écliptique pour définir le zodiaque. Les Romains nommèrent la planète d'après le dieu Jupiter, dérivé du « dieu-père » *dyeu ph2ter de la religion proto-indo-européenne99. Le symbole astronomique de Jupiter est une représentation stylisée d'un éclair du dieu. Les Grecs l'appelèrent Φαέθων, Phaethon, « ardent ».
+
+Dans les cultures chinoises, coréennes, japonaises et vietnamiennes, Jupiter est appelée 木星 « l'étoile de bois », dénomination basée sur les cinq éléments100. Dans l'astrologie védique, les astrologues hindous font référence à Jupiter en tant que Bṛhaspati, ou « Gurû », c'est-à-dire « le pesant »101.
+
+Le nom « jeudi » est étymologiquement le « jour de Jupiter ». En hindi, jeudi se dit गुरुवार (guruvār) et possède le même sens. En anglais, Thursday fait référence au jour de Thor, lequel est associé à la planète Jupiter dans la mythologie nordique. En japonais, ceci se retrouve également : le jeudi se dit mokuyōbi (木曜日?) en référence à l'étoile Jupiter, mokusei (木星?). La même similitude entre les langues occidentales et le japonais se retrouve entre toutes les planètes et les jours de la semaine. En effet, l'attribution des noms de jours de la semaine étant un ajout relativement récent à la langue japonaise, elle fut alors calquée sur les civilisations européennes.
+
+Observations télescopiques terrestres
+
+Impact de fragments de la comète Shoemaker-Levy 9.
+En janvier 1610, Galilée découvre les quatre satellites qui portent son nom, en braquant sa lunette vers la planète. Cette observation des premiers corps tournant autour d'un autre corps que la Terre sera pour lui une indication de la validité de la théorie héliocentrique. Son soutien à cette théorie lui a valu les persécutions de l'Inquisition102.
+
+Pendant les années 1660, Cassini utilise un télescope pour découvrir des taches et des bandes de couleur sur Jupiter et observer que la planète semblait oblongue. Il fut également capable d'estimer la période de rotation de la planète36. En 1690, il remarque que l'atmosphère subit une rotation différentielle20.
+
+La Grande Tache rouge a peut-être été observée en 1664 par Robert Hooke et en 1665 par Jean-Dominique Cassini, mais ceci est contesté. Heinrich Schwabe en produit le premier dessin détaillé connu en 1831103. La trace de la tache est perdue à de nombreuses reprises entre 1665 et 1708 avant de redevenir flagrante en 1878. En 1883 et au début du xxe siècle, il est estimé qu'elle s'estompait à nouveau104.
+
+Giovanni Borelli et Cassini ont réalisé des éphémérides des lunes galiléennes. La régularité de la rotation des quatre satellites galiléens sera utilisée fréquemment dans les siècles suivants, leurs éclipses par la planète elle-même permettant de déterminer l'heure à laquelle était effectuée l'observation. Cette technique sera utilisée un temps pour déterminer la longitude en mer. Dès les années 1670, on constate que ces évènements se produisaient avec 17 minutes de retard lorsque Jupiter se trouvait à l'opposé de la Terre par rapport au Soleil. Ole Christensen Rømer en déduit que l'observation n'était pas instantanée et effectua en 1676 une première estimation de la vitesse de la lumière105.
+
+En 1892, Edward Barnard découvre Amalthée, le cinquième satellite de Jupiter, à l'aide du télescope de l'observatoire Lick en Californie106. La découverte de cet objet assez petit le rendit célèbre rapidement. Ensuite furent découverts : Himalia (1904), Élara (1905), Pasiphaé (1908), Sinopé (1914), Lysithéa et Carmé (1938), Ananké (1951). Pendant les années 1970, deux autres satellites furent observés à partir de la Terre : Léda (1974) et Thémisto (1975), qui fut ensuite perdu puis retrouvé en 2000 - les suivants le furent lors de la mission Voyager 1 en 1979107, puis d’autres par la suite, pour arriver en 2014 à un total de 67 satellites.
+
+En 1932, Rupert Wildt identifie des bandes d'absorption d'ammoniaque et de méthane dans le spectre de Jupiter108.
+
+Trois phénomènes anticycloniques, de forme ovale, furent observés en 1938. Pendant plusieurs décennies, ils restèrent distincts. Deux des ovales fusionnèrent en 1998 et absorbèrent le troisième en 2000. C'est le Oval BA109.
+
+En 1955, Bernard Burke (en) et Kenneth Franklin détectent des accès de signaux radios en provenance de Jupiter à 22,2 MHz20. La période de ces signaux correspondait à celle de la rotation de la planète et cette information permit d'affiner cette dernière. Les pics d'émission ont des durées qui peuvent être de quelques secondes ou de moins d'un centième de seconde110.
+
+Entre le 16 juillet et le 22 juillet 1994, l'impact de la comète Shoemaker-Levy 9 sur Jupiter permet de recueillir de nombreuses nouvelles données sur la composition atmosphérique de la planète. Plus de 20 fragments de la comète sont entrés en collision avec l'hémisphère sud de Jupiter, fournissant la première observation directe d'une collision entre deux objets du Système solaire. L'évènement, qui constitue une première dans l'histoire de l'astronomie, a été suivi par des astronomes du monde entier111,112.
+
+Le 21 juillet 2009, les astronomes ont observé un nouvel impact sur le pôle sud, de la taille de l'océan Pacifique113. Si l'impact n'a pu être suivi en direct, c'est l'astronome amateur australien Anthony Wesley qui, le premier, signala ces observations. La NASA émet l'hypothèse que la cause soit attribuée à une comète. En effet, les observations ont relevé la présence d'une tache avec une remontée de particules brillantes dans l'atmosphère supérieure, accompagnée d'un échauffement de la troposphère et d'émissions de molécules d'ammoniac. Autant d'indices corroborant un impact et non un phénomène météorologique interne à la planète114,115,116.
+
+Vidéo réalisée par le télescope spatial Hubble, publiée le 13 octobre 2015.
+Le 13 octobre 2015, la NASA publie une vidéo très détaillée de la surface de la planète captée par le télescope spatial Hubble montrant la rotation de la planète et des détails extrêmement précis de sa surface117. Les premières observations des scientifiques publiées dans The Astrophysical Journal118 et synthétisées par la NASA119 révèlent que la fameuse tache rouge de Jupiter va en se rétrécissant et qu'elle renferme une sorte de filament vaporeux qui en barre la surface et se déforme sous l'action de vents pouvant atteindre les 540 km/h. En 2020, la tache a une largeur de 15 800 km120.
+
+Article détaillé : Impacts sur Jupiter.
+Exploration spatiale
+Article détaillé : Exploration de Jupiter.
+Survols
+
+Voyager 2.
+À partir de 1973, plusieurs sondes spatiales ont effectué des manœuvres de survol qui les ont placées à portée d'observation de Jupiter. Les missions Pioneer 10 et Pioneer 11 obtinrent les premières images rapprochées de l'atmosphère de Jupiter et de plusieurs de ses lunes. Elles décrivirent que les champs électromagnétiques dans l'entourage de la planète étaient plus importants qu'attendus, mais les deux sondes y survécurent sans dommage. Les trajectoires des engins permirent d'affiner les estimations de masse du système jovien. Les occultations de leurs signaux radios par la planète géante conduisirent à de meilleures mesures du diamètre et de l'aplatissement polaire12,121.
+
+Six ans plus tard, les missions Voyager améliorèrent les connaissances des lunes galiléennes et découvrirent les anneaux de Jupiter. Elles prirent les premières images détaillées de l'atmosphère et confirmèrent que la grande tache rouge était d'origine anticyclonique (une comparaison d'images indiqua que sa couleur avait changé depuis les missions Pioneer). Un tore d'atomes ionisés fut découvert le long de l'orbite de Io et des volcans furent observés à sa surface. Alors que les engins passèrent derrière la planète, ils observèrent des flashs lumineux dans l'atmosphère12,122.
+
+
+Visualisation colorisée de cyclones au pôle Nord de Jupiter photographiés par la sonde Juno.
+La mission suivante, la sonde spatiale Ulysses, effectua une manœuvre de survol en 1992 afin d'atteindre une orbite polaire autour du Soleil et effectua alors des études de la magnétosphère de Jupiter. Aucune photographie ne fut prise, la sonde ne possédant aucune caméra. Un second survol nettement plus lointain se produisit en 2004123.
+
+En décembre 2000, la sonde Cassini, en route pour Saturne, survola Jupiter et prit des images en haute résolution de la planète. Le 19 décembre 2000, elle prit une image de faible résolution d'Himalia, alors trop lointaine pour observer des détails de la surface124.
+
+La sonde New Horizons, en route pour Pluton, survola Jupiter pour une manœuvre d'assistance gravitationnelle. L'approche minimale s'effectua le 28 février 2007125. Le système jovien fut imagé à partir du 4 septembre 2006 ; les instruments de la sonde affinèrent les éléments orbitaux des lunes internes de Jupiter126. Les caméras de New Horizons photographièrent des dégagements de plasma par les volcans de Io et plus généralement des détails des lunes galiléennes127,128.
+
+Résumé des survols
+Sonde	Date	Distance (km)
+Pioneer 10	3 décembre 1973	130 000
+Pioneer 11	4 décembre 1974	34 000
+Voyager 1	5 mars 1979	349 000
+Voyager 2	9 juillet 1979	570 000
+Ulysses	8 février 1992123	408 894
+4 février 2004123	120 000 000
+Cassini	30 décembre 2000	10 000 000
+New Horizons	28 février 2007	2 304 535
+Galileo
+
+La sonde Galileo en préparation.
+Article détaillé : Galileo (sonde spatiale).
+Jusqu'à l'arrivée de la sonde Juno le 5 juillet 2016, la sonde Galileo était le seul engin à avoir orbité autour de Jupiter. Galileo entra en orbite autour de la planète le 7 décembre 1995, pour une mission d'exploration de près de huit années. Elle survola à de nombreuses reprises les satellites galiléens et Amalthée, apportant des preuves à l'hypothèse d'océans liquides sous la surface d'Europe et confirmant le volcanisme d'Io. La sonde fut également témoin de l'impact de la comète Shoemaker-Levy 9 en 1994 lors de son approche de Jupiter. Cependant, bien que les informations récupérées par Galileo aient été nombreuses, l'échec du déploiement de son antenne radio à grand gain limita les capacités initialement prévues129.
+
+Galileo lâcha une petite sonde à l'intérieur de l'atmosphère jovienne pour en étudier la composition en juillet 1995. Cette sonde pénétra l'atmosphère le 7 décembre 1995. Elle fut freinée par un parachute sur 150 km d'atmosphère, collectant des données pendant 57,6 minutes avant d'être écrasée par la pression (22 fois la pression habituelle sur Terre, à une température de 153 °C). Elle a fondu peu après, et s'est probablement vaporisée ensuite. Un destin que Galileo expérimenta de façon plus rapide le 21 septembre 2003, lorsqu'elle fut délibérément projetée dans l'atmosphère jovienne à plus de 50 km/s, afin d'éviter toute possibilité d'écrasement ultérieur sur Europe129.
+
+Juno
+Article détaillé : Juno (sonde spatiale).
+
+Vue d'artiste de la sonde Juno.
+La NASA a lancé en août 2011 la sonde Juno, qui s'est placée le 5 juillet 2016 en orbite polaire autour de Jupiter pour mener une étude détaillée de la planète130. Elle poursuit cette étude depuis juillet 2016, et si elle survit aux rayonnements131,132,133,134, on prévoit qu'elle continuera à le faire jusqu'en 2021.
+
+Projets abandonnés et missions futures
+À cause de la possibilité d'un océan liquide sur Europe, les lunes glacées de Jupiter ont éveillé un grand intérêt. Une mission fut proposée par la NASA pour les étudier tout spécialement. Le JIMO (Jupiter Icy Moons Orbiter) devait être lancé en 2015, mais la mission fut estimée trop ambitieuse et son financement fut annulé en 2005135.
+
+En mai 2012, la mission JUICE (JUpiter ICy moons Explorer) est retenue par l'ESA comme mission lourde dans le cadre du programme scientifique Cosmic Vision. Elle a pour but principal l'étude de trois des lunes galiléennes de Jupiter (Callisto, Europe et Ganymède) en les survolant puis en entrant en orbite autour de cette dernière. Le lancement est prévu pour 2022, pour une arrivée dans le système jovien en 2030, avant trois années d'observations. La mission devrait se concentrer sur la recherche de traces de vie136.
+
+Dans la culture
+Littérature
+Dans le conte philosophique Micromégas de Voltaire (1752), le personnage éponyme fait un voyage sur Jupiter.
+
+La nouvelle de science-fiction d'Edgar Rice Burroughs Les Hommes-squelettes de Jupiter (Skeleton Men of Jupiter), parue en 1943 dans le magazine Amazing Stories puis réuni en volume dans John Carter of Mars en 1964, met en scène une aventure du héros John Carter kidnappé sur Mars et emmené sur Jupiter par certains de ses nombreux ennemis137.
+
+Musique
+« Jupiter, celui qui apporte la gaîté » est le quatrième mouvement de l'œuvre pour grand orchestre Les Planètes, composée et écrite par Gustav Holst entre 1914 et 1917 (créée en 1918).
+
+Cinéma
+Dans 2001, l'Odyssée de l'espace (1968) de Stanley Kubrick, le personnage principal effectue une mission dans laquelle il se rend sur Jupiter. Les noms des chapitres s'appelent d'ailleurs La mission Jupiter et Jupiter et au-delà de l'infini. Dans sa suite 2010 : L'Année du premier contact (1984), Jupiter est transformé en étoile par une armée de monolithes.
+
+L'une des scènes du film Jupiter : Le Destin de l'univers (2015) se passe sur Jupiter autour et sous la Grande Tache rouge qui cache une usine géante. De plus, Jupiter est le prénom du personnage principal féminin.
+
+Symbole
+Le symbole astronomique de la planète est « ♃ », qui serait une représentation stylisée du foudre de Jupiter, ou bien serait dérivé d'un hiéroglyphe138 ou, comme cela ressortirait de certains papyrus d'Oxyrhynque, de la lettre grecque zêta, initiale du grec ancien Ζεύς (Zeús)139. L'Union astronomique internationale recommande cependant de substituer au symbole astronomique « ♃ » l'abréviation « J », correspondant à la lettre capitale J de l'alphabet latin, initiale de l'anglais Jupiter140.
+
+Notes et références
+Notes
+Références
+(en) David R. Williams, « Jupiter Fact Sheet » [archive], NASA, 16 novembre (consulté le 21 février 2007).
+(en) D. Gautier ; B. Conrath ; M. Flasar ; R. Hanel ; V. Kunde ; A. Chedin ; N. Scott, « The helium abundance of Jupiter from Voyager », Journal of Geophysical Research, vol. 86,‎ septembre 1981, p. 8713-8720 « Bibliographic Code: 1981JGR....86.8713G » [archive], sur ADS.
+(en) V. G. Kunde et al, « Jupiter's Atmospheric Composition from the Cassini Thermal Infrared Spectroscopy Experiment », Science, vol. 305, no 5690,‎ 10 septembre 2004, p. 1582-1586 (DOI 10.1126/science.1100240) « Bibliographic Code: 2004Sci...305.1582K » [archive], sur ADS.
+(en) S. J. Kim ; J. Caldwell ; A. R. Rivolo ; R. Wagner, « Infrared Polar Brightening on Jupiter III. Spectrometry from the Voyager 1 IRIS Experiment », Icarus, vol. 64,‎ novembre 1985, p. 233-248 (DOI 10.1016/0019-1035(85)90201-5) « Bibliographic Code: http://adsabs.harvard.edu/abs/1985Icar...64..233K » [archive], sur ADS.
+(en) H. B. Niemann ; S. K. Atreya ; G. R. Carignan ; T. M. Donahue ; J. A. Haberman ; D. N. Harpold ; R. E. Hartle ; D. M. Hunten ; W. T. Kasprzak ; P. R. Mahaffy ; T. C. Owen ; N. W. Spencer ; S. H. Way, « The Galileo Probe Mass Spectrometer: Composition of Jupiter's Atmosphere », Science, vol. 272, no 5263,‎ mai 1996, p. 846-849 « Bibliographic Code: 1996Sci...272..846N » [archive], sur ADS.
+(en) « http://ael.gsfc.nasa.gov/jupiterHighlights.shtml » [archive], NASA Goddard Space Flight Center, Atmospheric Experiments Laboratory (consulté le 15 novembre 2007).
+(en) Hugh F. Wilson et Burkhard Militzer, « Sequestration of noble gases in giant planet interiors » [archive] [PDF] (consulté le 29 mars 2010).
+Futura-Sciences : Il pleut de l'hélium sur Jupiter : voilà pourquoi il y a si peu de néon [archive].
+(en) A. P. Ingersoll ; H. B. Hammel ; T. R. Spilker ; R. E. Young, « Outer Planets: The Ice Giants » [archive] [PDF], Lunar & Planetary Institute (consulté le 15 novembre 2007).
+(en) Douglas W. MacDougal, « A Binary System Close to Home: How the Moon and Earth Orbit Each Other », dans Newton's Gravity, Springer New York, 2012 (ISBN 978-1-4614-5443-4, DOI 10.1007/978-1-4614-5444-1_10, lire en ligne [archive]), p. 193–211
+Peter J. Gierasch ; Philip D. Nicholson, « Jupiter »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), World Book @ NASA, 2004 (consulté le 10 août 2006).
+(en) Eric Burgess (trad. du chinois), By Jupiter: Odysseys to a Giant, New York, Columbia University Press, 1982 (ISBN 978-0-231-05176-7, LCCN 82004139).
+(en) S. Seager, M. Kuchner, C. A. Hier-Majumder et B. Militzer, « Mass-Radius Relationships for Solid Exoplanets », The Astrophysical Journal, vol. 669, no 2,‎ 10 novembre 2007, p. 1279 (ISSN 0004-637X, DOI 10.1086/521346, lire en ligne [archive], consulté le 23 juin 2021)
+(en) Richard A. Kerr, « Did Jupiter and Saturn Team Up to Pummel the Inner Solar System? » [archive], 2004 (DOI 10.1126/science.306.5702.1676a, consulté le 28 août 2007), p. 1676.
+(en) T. Quinn ; S. Tremaine ; M. Duncan, « Planetary perturbations and the origins of short-period comets » [archive], The American Astronomical Society, 1990 (DOI 10.1126/science.306.5702.1676a, consulté le 13 octobre 2012), p. 667–679.
+Emmanuel Perrin, « La planète Jupiter aurait-elle pu devenir une étoile ? » [archive], sur maxisciences.com, 12 janvier 2016 (consulté le 26 février 2020).
+(en) Tristan Guillot, « Interiors of Giant Planets Inside and Outside the Solar System », Science, vol. 286, no 5437,‎ 1er octobre 1999, p. 72–77 (ISSN 0036-8075 et 1095-9203, PMID 10506563, DOI 10.1126/science.286.5437.72, lire en ligne [archive], consulté le 23 juin 2021)
+Philippe Henarejos, « La plus petite étoile a la taille de Saturne » [archive], sur cieletespace.fr, 13 juillet 2017 (consulté le 26 février 2020).
+(en) Anonymous, « Extrasolar Planets » [archive], The Planetary Society, 2007 (consulté le 25 février 2007).
+(en) Linda T. Elkins-Tanton (trad. du chinois), Jupiter and Saturn, New York, Chelsea House, 2006 (ISBN 978-0-8160-5196-0, OCLC 60393951, LCCN 2005014190).
+(en) Fran Bagenal, Timothy E. Dowling et William B. McKinnon, Jupiter : the planet, satellites, and magnetosphere, Cambridge University Press, 2004 (ISBN 0-521-81808-7 et 978-0-521-81808-7, OCLC 54081598, lire en ligne [archive])
+(en) Patrick G. J. Irwin, Giant Planets of Our Solar System: Atmospheres, Composition, and Structure, Springer, 2003 (ISBN 3-540-00681-8, lire en ligne [archive]), p. 4, second edition, 2009, (ISBN 978-3-642-09888-8).
+(en) Liming, Li et al., « Less absorbed solar energy and more internal heat for Jupiter », Nature Communications, vol. 9, no 3709,‎ 2018, p. 1–10 (DOI 10.1038/s41467-018-06107-2, lire en ligne [archive])
+(en) P. Bodenheimer, « Calculations of the early evolution of Jupiter », Icarus, vol. 23,‎ novembre 1974, p. 319–25. « Bibliographic Code: 1974Icar...23..319B » [archive], sur ADS.
+R. Lang, The Cambridge Guide to the Solar System, Cambridge University Press, 2011, p. 295.
+(en) T. Guillot ; D. Gautier ; W. B. Hubbard, « New Constraints on the Composition of Jupiter from Galileo Measurements and Interior Models », Icarus, vol. 130, no 2,‎ décembre 1997, p. 534-539 « Bibliographic Code: 1997astro.ph..7210G » [archive], sur ADS.
+R. Lang The Cambridge Guide to the Solar System Cambridge University Press 2011, p. 296
+(en) T. Guillot, « A comparison of the interiors of Jupiter and Saturn », Planetary and Space Science, vol. 47, nos 10–11,‎ octobre 1999, p. 1183–200. « Bibliographic Code: 1999astro.ph..7402G » [archive], sur ADS.
+(en) Kenneth R. Lang, « Jupiter: a giant primitive planet » [archive], NASA, 2003 (consulté le 10 janvier 2007).
+(en) Alex Lopatka, « Squeezed hydrogen and helium don’t mix », Physics Today,‎ 6 juillet 2021 (DOI 10.1063/PT.6.1.20210706a).
+(en) S. Brygoo, P. Loubeyre, M. Millot, J. R. Rygg, P. M. Celliers et al., « Evidence of hydrogen−helium immiscibility at Jupiter-interior conditions », Nature, vol. 593,‎ 26 mai 2021, p. 517-521 (DOI 10.1038/s41586-021-03516-0).
+(en) W. J. Nellis, « Metallic Hydrogen at High Pressures and Temperatures in Jupiter », Chemistry: A European Journal, vol. 3, no 12,‎ décembre 1997, p. 1921-1924 (DOI 10.1002/chem.19970031205).
+(en) Shang-Fei Liu, Yasunori Hori, Simon Müller, Xiaochen Zheng et al., « The formation of Jupiter’s diluted core by a giant impact », Nature, vol. 572,‎ 14 août 2019 (lire en ligne [archive]).
+(en) Richard A. Kerr, « Deep, Moist Heat Drives Jovian Weather », Science, vol. 287, no 5455,‎ 2000, p. 946 - 947 (DOI 10.1126/science.287.5455.946b).
+(en) « Surprising Jupiter: Busy Galileo spacecraft showed jovian system is full of surprises » [archive], NASA, 25 février 2006 (consulté le 20 février 2007).
+O'Connor, J. J.; Robertson, E. F., « Giovanni Domenico Cassini » [archive], University of St. Andrews, avril 2003 (consulté le 14 février 2007).
+(en) A. P. Ingersol ; T. E. Dowling ; P. J. Gierasch ; G. S. Orton ; P. L. Read ; A. Sanchez-Lavega ; A. P. Showman ; A. A. Simon-Miller ; A. R. Vasavada, « Dynamics of Jupiter's Atmosphere » [archive] [PDF], Lunar & Planetary Institute (consulté le 1er février 2007).
+(en) W. F. Denning, « Jupiter, early history of the great red spot on », Monthly Notices of the Royal Astronomical Society, vol. 59,‎ juin 1899, p. 574-584. « Bibliographic Code: 1899MNRAS..59..574D » [archive], sur ADS.
+(en) A. Kyrala, « An explanation of the persistence of the Great Red Spot of Jupiter », Moon and the Planets, vol. 26,‎ février 1982, p. 105–7. « Bibliographic Code: 1982M&P....26..105K » [archive], sur ADS.
+(en) « Jupiter's New Red Spot »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), 2006 (consulté le 9 mars 2006).
+(en) Bill Steigerwald, « Jupiter's Little Red Spot Growing Stronger » [archive], NASA, 14 octobre (consulté le 2 février 2007).
+(en) Sara Goudarzi, « New storm on Jupiter hints at climate change » [archive], USA Today, 4 mai (consulté le 2 février 2007).
+(en) « Diamond Rain May Fill Skies of Jupiter and Saturn » [archive], sur Space.
+(en) D. Kraus, J. Vorberger, A. Pak et al., « Formation of diamonds in laser-compressed hydrocarbons at planetary interior conditions », Nature Astronomy, vol. 1,‎ 21 août 2017, p. 606-611 (DOI 10.1038/s41550-017-0219-9).
+(en) Jöel Sommeria ; Steven D. Meyers ; Harry L. Swinney, « Laboratory simulation of Jupiter's Great Red Spot », Nature, vol. 331,‎ 25 février 1988, p. 689-693 (DOI 10.1038/331689a0). « Bibliographic Code: 1988Natur.331..689S » [archive], sur ADS.
+(en) « Jupiter Data Sheet » [archive], Space.com (consulté le 2 février 2007).
+(en) Cardall, C. Y.; Daunt, S. J., « The Great Red Spot »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), University of Tennessee (consulté le 2 février 2007).
+(en) Tony Phillips, « Jupiter's New Red Spot »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), NASA, 3 mars (consulté le 2 février 2007).
+Ashwin R Vasavada et Adam P Showman, « Jovian atmospheric dynamics : an update after Galileo and Cassini » [archive] [PDF], Institude Of Physics Publishing Ltd, 2005 (consulté le 13 octobre 2012)
+(en) Bill Steigerwald, « Jupiter's Little Red Spot Growing Stronger » [archive], NASA, 14 octobre (consulté le 2 février 2007).
+(en) J. E. P. Connerney, A. Adriani, F. Allegrini et F. Bagenal, « Jupiter’s magnetosphere and aurorae observed by the Juno spacecraft during its first polar orbits », Science, vol. 356, no 6340,‎ 26 mai 2017, p. 826–832 (ISSN 0036-8075 et 1095-9203, PMID 28546207, DOI 10.1126/science.aam5928, lire en ligne [archive], consulté le 30 mai 2017).
+(en) Khurana, K.K.; Kivelson, M.G. et al., « The Conﬁguration of Jupiter’s Magnetosphere » [archive] [PDF], Cambridge University Press,‎ 2004 (consulté le 13 octobre 2012)
+The Outer Solar System Britannica Educational Publishing 2010, p. 103
+Kenneth R. Lang The Cambridge Guide to the Solar System Cambridge University Press 2011, p. 304
+(en) Jet Propulsion Laboratory, California Institute of Technology, NASA, « Jupiter's moon Io : A flashback to Earth's volcanic past »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), NASA, 1999 (consulté le 13 octobre 2012)
+(en) Jet Propulsion Laboratory, California Institute of Technology, NASA, « Galileo sees dazzling lava fountain on Io »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), NASA, 1999 (consulté le 13 octobre 2012)
+(en) P. Zarka, « Auroral radio emissions at the outer planets: Observations and theories », J. Geophys. Res. (E), vol. 103,‎ 1998, p. 20159-20194 (DOI 10.1029/98JE01323).
+(en) « Radio Storms on Jupiter »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), NASA, 20 février 2004 (consulté le 1er février 2007).
+(en) Thomas S. Kruijer, Christoph Burkhardt, Gerrit Budde et Thorsten Kleine, « Age of Jupiter inferred from the distinct genetics and formation times of meteorites », Proceedings of the National Academy of Sciences, vol. 114, no 26,‎ 27 juin 2017, p. 6712–6716 (lire en ligne [archive], consulté le 22 juin 2021)
+(en) A. D. Bosman, A. J. Cridland et Y. Miguel, « Jupiter formed as a pebble pile around the N2 ice line », Astronomy & Astrophysics, vol. 632,‎ 1er décembre 2019, p. L11 (ISSN 0004-6361 et 1432-0746, DOI 10.1051/0004-6361/201936827, lire en ligne [archive], consulté le 22 juin 2021)
+(en) Kevin J. Walsh, Alessandro Morbidelli, Sean N. Raymond et David P. O'Brien, « A low mass for Mars from Jupiter’s early gas-driven migration », Nature, vol. 475, no 7355,‎ juillet 2011, p. 206–209 (ISSN 1476-4687, DOI 10.1038/nature10201, lire en ligne [archive], consulté le 22 juin 2021)
+(en) Konstantin Batygin et Greg Laughlin, « Jupiter’s decisive role in the inner Solar System’s early evolution », Proceedings of the National Academy of Sciences, vol. 112, no 14,‎ 7 avril 2015, p. 4214–4217 (lire en ligne [archive], consulté le 22 juin 2021)
+(en) Jr Karl E. Haisch, Elizabeth A. Lada et Charles J. Lada, « Disk Frequencies and Lifetimes in Young Clusters », The Astrophysical Journal, vol. 553, no 2,‎ 16 mai 2001, p. L153 (ISSN 0004-637X, DOI 10.1086/320685, lire en ligne [archive], consulté le 22 juin 2021)
+(en) Andrew Fazekas, « Observe: Jupiter, Wrecking Ball of Early Solar System » [archive], sur National Geographic, 24 mars 2015 (consulté le 22 juin 2021)
+(en) « Constraints on terrestrial planet formation timescales and equilibration processes in the Grand Tack scenario from Hf-W isotopic evolution », Earth and Planetary Science Letters, vol. 522,‎ 15 septembre 2019, p. 210–218 (ISSN 0012-821X, DOI 10.1016/j.epsl.2019.07.001, lire en ligne [archive], consulté le 22 juin 2021)
+(en) Gennaro D'Angelo et Francesco Marzari, « OUTWARD MIGRATION OF JUPITER AND SATURN IN EVOLVED GASEOUS DISKS », The Astrophysical Journal, vol. 757, no 1,‎ 5 septembre 2012, p. 50 (ISSN 0004-637X et 1538-4357, DOI 10.1088/0004-637x/757/1/50, lire en ligne [archive], consulté le 22 juin 2021)
+(en) « Growth of Jupiter: Formation in disks of gas and solids and evolution to the present epoch », Icarus, vol. 355,‎ 1er février 2021, p. 114087 (ISSN 0019-1035, DOI 10.1016/j.icarus.2020.114087, lire en ligne [archive], consulté le 22 juin 2021)
+(en) S. Pirani, A. Johansen, B. Bitsch et A. J. Mustill, « Consequences of planetary migration on the minor bodies of the early solar system », Astronomy & Astrophysics, vol. 623,‎ 1er mars 2019, A169 (ISSN 0004-6361 et 1432-0746, DOI 10.1051/0004-6361/201833713, lire en ligne [archive], consulté le 22 juin 2021)
+(en) Lund University, « Jupiter's unknown journey revealed » [archive], sur ScienceDaily, 22 mars 2019 (consulté le 22 juin 2021)
+(en) « Jupiter » [archive], Agence spatiale européenne, 20 septembre (consulté le 21 février 2007).
+« Calendrier astronomique du mois de mars 2011 » [archive] [html], sur astropolis.fr [archive] (consulté le 30 novembre 2014)
+« Phénomènes astronomiques pour l'année 2017 »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?) [html], sur Institut de mécanique céleste et de calcul des éphémérides (consulté le 30 novembre 2014)
+(en) « Interplanetary Seasons | Science Mission Directorate » [archive], sur science.nasa.gov (consulté le 30 janvier 2018)
+(en) Ian Ridpath (trad. du chinois), Norton's Star Atlas, Harlow (homonymie), Prentice Hall, 1998, 19e éd., poche (ISBN 978-0-582-35655-9).
+« Jupiter : découverte d'une « boule étrange » parmi les 12 nouvelles lunes » [archive], sur LePoint.fr, 17 juillet 2018 (consulté le 18 juillet 2018).
+(en) « Solar System Dynamics – Planetary Satellite Discovery Circumstances » [archive], NASA, 9 mars 2015 (consulté le 21 juillet 2021).
+(en) Paul Rincon, « Saturn overtakes Jupiter as planet with most moons » [archive], BBC News, 7 octobre 2019 (consulté le 11 octobre 2019).
+(en) « Jovian system » [archive] [« Système jovien »] [html], sur Gazetteer of Planetary Nomenclature [archive] (consulté le 30 novembre 2014)
+(en) « Hubble Captures Rare Triple-Moon Conjunction » [archive], sur HubbleSite.org (consulté le 15 novembre 2020).
+(en) S. Musotto ; F. Varadi ; W. B. Moore ; G. Schubert, « Numerical simulations of the orbits of the Galilean satellites », Icarus, vol. 159,‎ 2002, p. 500-504 (lire en ligne [archive]).
+(en) D. C. Jewitt, S. Sheppard, C. Porco, F. Bagenal (éditeur), W. McKinnon (éditeur) et T. Dowling (éditeur), « Jupiter : The Planet, Satellites and Magnetosphere »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?) [PDF], Cambridge University Press, 2004. « Bibliographic Code: 2003AJ....126..398N » [archive], sur ADS.
+(en) J. A. Burns ; M. R. Showalter ; D. P. Hamilton ; et al., « The Formation of Jupiter's Faint Rings », Science, vol. 284,‎ mai 1999, p. 1146–50 (DOI 10.1126/science.284.5417.1146) « Bibliographic Code: 1999Sci...284.1146B » [archive], sur ADS.
+(en) M. A. Showalter ; J. A. Burns ; J. N. Cuzzi ; J. B. Pollack, « Jupiter's ring system: New results on structure and particle properties », Icarus, vol. 69, no 3,‎ mars 1987, p. 458–98 (DOI 10.1016/0019-1035(87)90018-2) « Bibliographic Code: 1987Icar...69..458S » [archive], sur ADS.
+(en) A. F. Cheng, H. A. Weaver, Lillian Nguyen, D. P. Hamilton, S. A. Stern et H. B. Throop, « A New Ring or Ring Arc of Jupiter ? » [archive] [PDF], Lunar and Planetary Institute, 2010 (consulté le 13 octobre 2012)
+(en) Richard A. Kerr, « Did Jupiter and Saturn Team Up to Pummel the Inner Solar System? », Science, vol. 306, no 5702,‎ décembre 2004, p. 1676 (DOI 10.1126/science.306.5702.1676a).
+(en) T. Nakamura ; H. Kurahashi, « Collisional Probability of Periodic Comets with the Terrestrial Planets: An Invalid Case of Analytic Formulation », Astronomical Journal, vol. 115, no 1,‎ 1998, p. 848–854 (DOI 10.1086/300206). « Bibliographic Code: 1998AJ....115..848N » [archive], sur ADS.
+Dennis Overbye, « Jupiter: Our Cosmic Protector? », The New York Times,‎ 26 juillet 2009 (ISSN 0362-4331, lire en ligne [archive], consulté le 27 février 2017)
+(en) T. Quinn ; S. Tremaine ; M. Duncan, « Planetary perturbations and the origins of short-period comets », Astrophysical Journal, Part 1, vol. 355,‎ juin 1990, p. 667-679 (DOI 10.1086/168800). « Bibliographic Code: 1990ApJ...355..667Q » [archive], sur ADS.
+« Observer les planètes : Système solaire : Vénus »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?) (consulté le 4 janvier 2009)
+« Observer les planètes : Système solaire : Jupiter »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?) (consulté le 4 janvier 2009)
+(da) Jan Teuber (2004), Ole Rømer og den bevægede Jord - en dansk førsteplads?, in Per Friedrichsen ; Ole Henningsen ; Olaf Olsen ; Claus Thykier ; Chr. Gorm Tortzen (eds.). Ole Rømer - videnskabsmand og samfundstjener, Copenhagen: Gads Forlag, p. 218 (ISBN 87-12-04139-4).
+« A Jupiter Observing Guide » [archive], Sky & Telescope (consulté le 15 novembre 2007).
+(en) « Favorable Appearances by Jupiter »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), anonyme. Consulté le 12 juin 2008.
+« Olivier Lascar, de Sciences et Avenir, le 12/09/12 »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?) « Copie archivée »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), 20120914184648
+Article et vidéos de l'impact [archive]
+Weber, Colom, Kerdraon et Lecacheux, « Techniques d'observation en radioastronomie basse fréquence en présence d'émetteurs radioélectriques » [archive] [PDF], Bulletin du BNM no 12X, Volume 2004-Y. Voir la figure de la page 2.
+« 3.3 Parasites bandes étroites continus : AM au NDA pages 135 et 139 » [archive] [PDF].
+« Bandes dédiées à la radioastronomie, chapitre 1 : introduction à la radioastronomie » [archive] [PDF], p. 24.
+(en) Douglas Harper, « Jupiter » [archive], Online Etymology Dictionary, novembre 2001 (consulté le 23 février 2007).
+(en) Bill Arnett, « Planetary Linguistics » [archive], The Nine Planets Solar System Tour, 28 janvier (consulté le 8 mars 2007).
+(en) « Guru » [archive], Indian Divinity.com (consulté le 14 février 2007).
+(en) Richard S. Westfall, « Galilei, Galileo » [archive], The Galileo Project (consulté le 10 janvier 2007).
+(en) Paul Murdin (trad. du chinois), Encyclopedia of Astronomy and Astrophysics, Bristol, Institute of Physics Publishing, 2000 (ISBN 978-0-12-226690-4, LCCN 88024062).
+(en) « SP-349/396 Pioneer Odyssey — Jupiter, Giant of the Solar System » [archive], NASA, août 1974 (consulté le 10 août 2006).
+(en) « Roemer's Hypothesis » [archive], MathPages (consulté le 12 janvier 2007).
+(en) Joe Tenn, « Edward Emerson Barnard » [archive], Sonoma State University, 10 mars (consulté le 10 janvier 2007).
+(en) « Amalthea Fact Sheet » [archive], NASA JPL, 27 mars 2018 (consulté le 25 avril 2018).
+(en) Theodore Dunham Jr., « Note on the Spectra of Jupiter and Saturn », Publications of the Astronomical Society of the Pacific, vol. 45,‎ février 1933, p. 42–44 « Bibliographic Code: 1933PASP...45...42D » [archive], sur ADS.
+(en) A. Youssef ; P. S. Marcus, « The dynamics of jovian white ovals from formation to berger », Icarus, vol. 162, no 1,‎ mars 2003, p. 74-93 (DOI 10.1016/S0019-1035(02)00060-X). « Bibliographic Code: 2003Icar..162...74Y » [archive], sur ADS.
+(en) Rachel A. Weintraub, « How One Night in a Field Changed Astronomy » [archive], NASA, 26 septembre (consulté le 18 février 2007).
+(en) Ron Baalke, « Comet Shoemaker-Levy Collision with Jupiter » [archive], NASA (consulté le 2 janvier 2007).
+(en) Robert R. Britt, « Remnants of 1994 Comet Impact Leave Puzzle at Jupiter » [archive], space.com, 23 août 2004 (consulté le 20 février 2007)
+« Un gros objet s'écrase sur Jupiter » [archive] (consulté le 27 juillet 2009).
+La Presse Canadienne, « Jupiter a été frappée par un objet volant non identifié » [archive], La Presse Canadienne (consulté le 21 juillet 2009).
+« Un objet s'écrase sur Jupiter » [archive], Techno-sciences (consulté le 25 juillet 2009).
+« Un corps s'écrase sur Jupiter » [archive], Futura-sciences (consulté le 21 juillet 2009).
+Erwan Lecomte, « Vidéo, le nouveau portrait de Jupiter révèle quelques surprises » [archive], sur sciencesetavenir.fr, 14 octobre 2015 (consulté le 4 mars 2019)
+First results from the hubble opal program: jupiter in 2015 [archive]
+Hubble’s Planetary Portrait Captures New Changes in Jupiter’s Great Red Spot [archive]
+« Jupiter : Hubble voit double », Cité de l'espace,‎ 21 septembre 2020 (lire en ligne [archive])
+(en) « Pioneer Project Home Page »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?) (consulté le 29 mars 2013).
+(en) « Jupiter » [archive], sur voyager.jpl.nasa.gov, NASA Jet Propulsion Laboratory (consulté le 28 novembre 2006).
+(en) K. Chan ; E. S. Paredes ; M. S. Ryne, « Ulysses Attitude and Orbit Operations: 13+ Years of International Cooperation » [archive] [PDF], sur aiaa.org, American Institute of Aeronautics and Astronautics, 2004 (consulté le 28 novembre 2006).
+(en) C. J. Hansen ; S. J. Bolton ; D. L. Matson ; L. J. Spilker ; J.-P. Lebreton, « The Cassini-Huygens flyby of Jupiter », Icarus, vol. 172, no 1,‎ novembre 2004, p. 1-8 (DOI 10.1016/j.icarus.2004.06.018). « Bibliographic Code: 2004Icar..172....1H » [archive], sur ADS.
+(en) « Mission Update: At Closest Approach, a Fresh View of Jupiter » [archive], sur planetary.org (consulté le 27 juillet 2007).
+(en) « Pluto-Bound New Horizons Provides New Look at Jupiter System » [archive], sur nasa.gov, 1er mai 2007 (consulté le 27 juillet 2007).
+(en) « New Horizons targets Jupiter kick » [archive], sur bbc.co.uk, BBC News Online, 19 janvier 2007 (consulté le 20 janvier 2007).
+(en) Alexander Amir, « New Horizons Snaps First Picture of Jupiter » [archive], sur planetary.org, The Planetary Society (consulté le 19 décembre 2006).
+(en) Shannon McConnell, « Galileo: Journey to Jupiter » [archive], NASA Jet Propulsion Laboratory, 14 avril (consulté le 28 novembre 2006).
+(en) « Juno launch press kit » [archive], NASA, juillet 2011.
+(en) « Juno Armored Up to Go to Jupiter » [archive], NASA, 12 juin 2010 (consulté le 28 aout 2011).
+(en) Sammy Kayali, « Juno Project Overview and Challenges for a Jupiter Mission » [archive] [PDF], NASA, 9-10 février 2010 (consulté le 29 novembre 2010)
+(en) Andrew J. Ball et al, Planetary landers and entry probes, Cambridge University Press, 2007, 340 p. (ISBN 9780521129589), p. 121-123.
+(en) Patric Blau, « NASA Juno Spacecraft to remain in Elongated Capture Orbit around Jupiter » [archive], sur spaceflight101.com, 18 février 2017
+(en) Brian Berger, « White House scales back space plans » [archive], MSNBC, 7 février 2005 (consulté le 2 janvier 2007)
+esa, « JUICE : prochaine grande mission scientifique de l’Europe » [archive], sur European Space Agency
+Skeleton Men of Jupiter [archive], Project Gutenberg Australia, 2018 (édition en ligne).
+(en) « Solar System symbols » [archive] [html], sur Solar System Exploration [archive] (NASA) (consulté le 30 novembre 2014)
+(en) Alexander Jones, Astronomical papyri from Oxyrhynchus (P. Oxy. 4133-4300a), Philadelphie, American Philosophical Society, coll. « Memoirs of the American Philosophical Society » (no 233), 1999, XII-471 p. (ISBN 0-87169-233-3, OCLC 841936434), p. 62-63 lire en ligne [archive] [html] (consulté le 30 novembre 2014)]
+(en) George A. Wilkins (préf. D. McNally), The IAU Style Manual (1989) : The Preparation of Astronomical Papers and Reports, 1989, XII-52 p. (lire en ligne [archive] [PDF]), p. 27 (consulté le 30 novembre 2014)
+Voir aussi
+Sur les autres projets Wikimedia :
+
+Jupiter, sur Wikimedia Commons
+Jupiter, sur le Wiktionnaire
+Jupiter (planète), sur Wikiquote
+Jupiter, sur Wikinews
+Bibliographie
+Guillaume Cannat, Didier Jamet, Jupiter et Saturne en direct, Eyrolles, 2005 (ISBN 978-2212116915)
+(en) F. Bagenal, T. E. Dowling et W. B. McKinnon (Eds.), Jupiter: The planet, satellites, and magnetosphere, Cambridge University Press, 2004
+Articles connexes
+Atmosphère de Jupiter
+Anneaux de Jupiter
+Éclipse solaire sur Jupiter
+Exploration de Jupiter
+Jupiter chaud, une classe d'exoplanètes
+Satellites naturels de Jupiter
+Système solaire
+Liens externes
+Notices d'autorité : Fichier d’autorité international virtuelBibliothèque nationale de France (données)Système universitaire de documentationBibliothèque du CongrèsGemeinsame NormdateiBibliothèque nationale de la DièteBibliothèque nationale d’IsraëlBibliothèque nationale tchèque
+Notices dans des dictionnaires ou encyclopédies généralistes : Brockhaus Enzyklopädie [archive]Enciclopedia De Agostini [archive]Encyclopædia Britannica [archive]Encyclopædia Universalis [archive]Gran Enciclopèdia Catalana [archive]Swedish Nationalencyklopedin [archive]Store norske leksikon [archive]
+Ressource relative à la santé : (en) Medical Subject Headings [archive]
+Ressource relative à la bande dessinée : (en) Comic Vine [archive]
+(en) « Jupiter » [archive] [html], sur oxfordindex.oup.com [archive]
+Jupiter - pioneer-astro [archive]
+Le Système Solaire - Jupiter [archive]
+(en) Jupiter the Largest Documentaire vidéo [archive]
+ [afficher]
+v · m
+Satellites naturels de Jupiter
+Par ordre approximatif de distance.
+ [afficher]
+v · m
+Système solaire Article de qualité
+icône décorative Portail de la planète Jupiter icône décorative Portail du système solaire icône décorative Portail des records
+Cet article est reconnu comme « article de qualité » depuis sa version du 27 janvier 2006 (comparer avec la version actuelle).
+Pour toute information complémentaire, consulter sa page de discussion et le vote l'ayant promu.
+Catégories : JupiterJupiter froidObjet céleste visité par un orbiteurObjet céleste nommé d'après un personnage de la mythologie romaineObjet céleste avec des aurores polaires[+]
+La dernière modification de cette page a été faite le 4 février 2022 à 21:39.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialitéÀ propos de WikipédiaAvertissementsContactVersion mobileDéveloppeursStatistiquesDéclaration sur les témoins (cookies)Wikimedia FoundationPowered by MediaWiki
