@@ -4,7 +4,7 @@ from src.data_cleaner import DataCleaner
 
 
 def get_user_input():
-    text = input('Enter text: \n')
+    text = input('Enter text:\n')
     return text
 
 
@@ -18,7 +18,7 @@ class UserInputPredictor:
         vectorized_text = vectorized_text.to_numpy()
         for row in vectorized_text:
             prediction = self.layer.predict_output(row[0])
-            print('\n Predicted language: ' + prediction)
+            print('\nPredicted language: ' + prediction)
 
     def vectorized(self):
         df = self.transform_to_dataframe()
