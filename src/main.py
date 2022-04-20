@@ -1,7 +1,5 @@
-import pandas as pd
-
 from src.algorithm_evaluator import AlgorithmEvaluator
-from src.data_combiner import combine_texts_to_csv, combined_filename
+from src.data_combiner import combine_texts
 from src.data_cleaner import DataCleaner
 from src.layer import Layer
 from src.user_input_predictor import UserInputPredictor
@@ -12,8 +10,6 @@ number_of_epochs = 1000
 
 train_directory = '../data/train/'
 test_directory = '../data/test/'
-train_combined = train_directory + combined_filename
-test_combined = test_directory + combined_filename
 
 
 def get_weights_trainers(df_train):
@@ -35,16 +31,14 @@ def get_perceptrons(weights_trainers):
 
 
 def get_prepared_train():
-    combine_texts_to_csv(train_directory)
-    df_train = pd.read_csv(train_combined, index_col=0)
+    df_train = combine_texts(train_directory)
     data_cleaner = DataCleaner(df_train)
     train = data_cleaner.vectorized()
     return train
 
 
 def get_prepared_test():
-    combine_texts_to_csv(test_directory)
-    df_test = pd.read_csv(test_combined, index_col=0)
+    df_test = combine_texts(test_directory)
     data_cleaner = DataCleaner(df_test)
     test = data_cleaner.vectorized()
     return test
