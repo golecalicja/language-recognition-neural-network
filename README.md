@@ -25,8 +25,8 @@ Polish sample:
 ![image](https://user-images.githubusercontent.com/74184204/162751349-af075f47-c44c-43e0-8cca-044e42e41e9a.png)
 
 ## Methods used
-* Dynamic reading multiple data files from a various number of directories
-* Calculating vectors of letter proportions in each language (ascii characters only)
+* Dynamic reading of multiple data files from a various number of directories
+* Calculating vectors of letter proportions in each language (ASCII characters only)
 * Implementing a single-layer neural network of k perceptrons (where k = number of languages) from scratch
 * Libraries used for data loading and preprocessing: pandas, numpy
 * OOP and clean code
