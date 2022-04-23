@@ -8,9 +8,9 @@ def normalize(perceptron):
 
 
 class WeightsTrainer:
-    def __init__(self, train, alpha, number_of_epochs, language):
+    def __init__(self, train, learning_rate, number_of_epochs, language):
         self.train = train
-        self.alpha = alpha
+        self.learning_rate = learning_rate
         self.number_of_epochs = number_of_epochs
         self.language = language
 
@@ -34,7 +34,7 @@ class WeightsTrainer:
         actual_language = row[-1]
         prediction = perceptron.predict_classification(letter_vector)
         error = self.calculate_error(prediction, actual_language)
-        self.update_theta(error, perceptron)
+        self.update_bias(error, perceptron)
         self.update_weights(error, perceptron, letter_vector)
         normalize(perceptron)
 
@@ -45,7 +45,7 @@ class WeightsTrainer:
 
     def update_weights(self, error, perceptron, letter_vector):
         for i in range(len(letter_vector) - 1):
-            perceptron.weights[i] += self.alpha * error * letter_vector[i]
+            perceptron.weights[i] += self.learning_rate * error * letter_vector[i]
 
-    def update_theta(self, error, perceptron):
-        perceptron.theta -= self.alpha * error
+    def update_bias(self, error, perceptron):
+        perceptron.bias -= self.learning_rate * error

@@ -15,8 +15,8 @@ def get_perceptrons(weights_trainers):
 
 
 class App:
-    def __init__(self, alpha, number_of_epochs, train_directory, test_directory):
-        self.alpha = alpha
+    def __init__(self, learning_rate, number_of_epochs, train_directory, test_directory):
+        self.learning_rate = learning_rate
         self.number_of_epochs = number_of_epochs
         self.train_directory = train_directory
         self.test_directory = test_directory
@@ -40,7 +40,7 @@ class App:
         languages = df_train['Language'].unique()
         train = df_train.to_numpy()
         for language in languages:
-            weights_trainer = WeightsTrainer(train, self.alpha, self.number_of_epochs, language)
+            weights_trainer = WeightsTrainer(train, self.learning_rate, self.number_of_epochs, language)
             weights_trainers.append(weights_trainer)
         return weights_trainers
 
